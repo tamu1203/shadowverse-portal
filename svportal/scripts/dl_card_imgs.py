@@ -3,6 +3,8 @@ import argparse
 import json
 import os
 import urllib.request
+import time
+from tqdm import tqdm
 
 BASE_CARD_URL = "https://shadowverse-portal.com/image/card/phase2/common/C/C_"
 
@@ -17,11 +19,14 @@ def main(input_file, out_dir):
         if not os.path.isdir(out_dir):
             os.makedirs(out_dir)
 
-        for card in cards_list:
+        for card in tqdm(cards_list):
+            if card['card_name'] is None:
+                continue
             card_id = str(card['card_id'])
             output = out_dir+'/C_'+card_id+'.png'
             with open(output, 'wb') as handle:
                 urllib.request.urlretrieve(BASE_CARD_URL+card_id+'.png', output)
+            time.sleep(1)
 
 
 if __name__ == "__main__":
