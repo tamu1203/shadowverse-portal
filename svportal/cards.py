@@ -42,7 +42,7 @@ def get_cards(clan=None):
     base_url = 'https://shadowverse-portal.com/api/v1/cards'
     data = {}
     data['format'] = 'json'
-    data['lang'] = 'en'
+    data['lang'] = 'ja'
     if clan is not None:
         data['clan'] = clan
     url_params = urllib.parse.urlencode(data)
