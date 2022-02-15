@@ -8,6 +8,7 @@ from tqdm import tqdm
 
 BASE_CARD_URL = "https://shadowverse-portal.com/image/card/phase2/common/C/C_"
 
+
 def main(input_file, out_dir):
     with open(input_file, 'r', encoding='utf-8') as infile:
         cards_json = json.loads(infile.read())
@@ -15,18 +16,25 @@ def main(input_file, out_dir):
             cards_list = cards_json['cards']
         except:
             cards_list = cards_json
-    
+
         if not os.path.isdir(out_dir):
             os.makedirs(out_dir)
 
         for card in tqdm(cards_list):
+            # print(card)
+            # exit()
             if card['card_name'] is None:
                 continue
-            card_id = str(card['card_id'])
-            output = out_dir+'/C_'+card_id+'.png'
-            with open(output, 'wb') as handle:
-                urllib.request.urlretrieve(BASE_CARD_URL+card_id+'.png', output)
-            time.sleep(1)
+            pack = str(card['card_id'])[0:3]
+            craft = str(card['card_id'])[4]
+            if pack in ('100', '120', '121', '122', '123'):
+                if craft in ('0', '8'):
+                    card_id = str(card['card_id'])
+                    output = out_dir+'/C_'+card_id+'.png'
+                    with open(output, 'wb') as handle:
+                        urllib.request.urlretrieve(
+                            BASE_CARD_URL+card_id+'.png', output)
+                    time.sleep(1)
 
 
 if __name__ == "__main__":
@@ -35,10 +43,10 @@ if __name__ == "__main__":
     parser = argparse.ArgumentParser(description=desc,
                                      formatter_class=argparse.ArgumentDefaultsHelpFormatter)
     parser.add_argument('input',
-                         help="JSON file containing card data")
+                        help="JSON file containing card data")
     parser.add_argument('out_dir', nargs='?', default='card_imgs/',
-                         help="Directory where downloaded images will be placed")
-    
+                        help="Directory where downloaded images will be placed")
+
     args = parser.parse_args()
 
     main(args.input, args.out_dir)
