@@ -21,20 +21,14 @@ def main(input_file, out_dir):
             os.makedirs(out_dir)
 
         for card in tqdm(cards_list):
-            # print(card)
-            # exit()
             if card['card_name'] is None:
                 continue
-            pack = str(card['card_id'])[0:3]
-            craft = str(card['card_id'])[4]
-            if pack in ('100', '120', '121', '122', '123'):
-                if craft in ('0', '8'):
-                    card_id = str(card['card_id'])
-                    output = out_dir+'/C_'+card_id+'.png'
-                    with open(output, 'wb') as handle:
-                        urllib.request.urlretrieve(
-                            BASE_CARD_URL+card_id+'.png', output)
-                    time.sleep(1)
+            card_id = str(card['card_id'])
+            output = out_dir+'/C_'+card_id+'.png'
+            with open(output, 'wb') as handle:
+                urllib.request.urlretrieve(
+                    BASE_CARD_URL+card_id+'.png', output)
+            time.sleep(1)
 
 
 if __name__ == "__main__":
