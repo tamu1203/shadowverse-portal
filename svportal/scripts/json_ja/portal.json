@@ -34,7 +34,9 @@
       "base_card_id": 118821010,
       "normal_card_id": 118821010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 900811050,
@@ -70,7 +72,9 @@
       "base_card_id": 900811050,
       "normal_card_id": 900811050,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 900841140,
@@ -106,7 +110,9 @@
       "base_card_id": 900841140,
       "normal_card_id": 900841140,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 900841150,
@@ -142,7 +148,9 @@
       "base_card_id": 900841150,
       "normal_card_id": 900841150,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 900841160,
@@ -178,7 +186,9 @@
       "base_card_id": 900841160,
       "normal_card_id": 900841160,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 107834020,
@@ -214,7 +224,9 @@
       "base_card_id": 107834020,
       "normal_card_id": 107834020,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 110824010,
@@ -250,7 +262,9 @@
       "base_card_id": 110824010,
       "normal_card_id": 110824010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 115814010,
@@ -286,7 +300,9 @@
       "base_card_id": 115814010,
       "normal_card_id": 115814010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 713814010,
@@ -322,7 +338,9 @@
       "base_card_id": 115814010,
       "normal_card_id": 713814010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 118834010,
@@ -358,7 +376,9 @@
       "base_card_id": 118834010,
       "normal_card_id": 118834010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 122814010,
@@ -394,7 +414,9 @@
       "base_card_id": 122814010,
       "normal_card_id": 122814010,
       "format_type": 1,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 123824010,
@@ -430,7 +452,9 @@
       "base_card_id": 123824010,
       "normal_card_id": 123824010,
       "format_type": 1,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 715824010,
@@ -466,7 +490,9 @@
       "base_card_id": 123824010,
       "normal_card_id": 715824010,
       "format_type": 1,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 810824010,
@@ -502,7 +528,9 @@
       "base_card_id": 810824010,
       "normal_card_id": 810824010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 820844030,
@@ -538,7 +566,9 @@
       "base_card_id": 820844030,
       "normal_card_id": 820844030,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 820844040,
@@ -574,7 +604,9 @@
       "base_card_id": 820844040,
       "normal_card_id": 820844040,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 900834050,
@@ -610,7 +642,9 @@
       "base_card_id": 900834050,
       "normal_card_id": 900834050,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 900834060,
@@ -646,7 +680,9 @@
       "base_card_id": 900834060,
       "normal_card_id": 900834060,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 900844020,
@@ -682,7 +718,9 @@
       "base_card_id": 900844020,
       "normal_card_id": 900844020,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 900844050,
@@ -718,7 +756,9 @@
       "base_card_id": 900844050,
       "normal_card_id": 900844050,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 900844060,
@@ -754,7 +794,9 @@
       "base_card_id": 900844060,
       "normal_card_id": 900844060,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 820843010,
@@ -790,7 +832,9 @@
       "base_card_id": 820843010,
       "normal_card_id": 820843010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 110821010,
@@ -826,7 +870,9 @@
       "base_card_id": 110821010,
       "normal_card_id": 110821010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 112821010,
@@ -862,7 +908,9 @@
       "base_card_id": 112821010,
       "normal_card_id": 112821010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 115811010,
@@ -898,7 +946,9 @@
       "base_card_id": 115811010,
       "normal_card_id": 115811010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 115821010,
@@ -934,7 +984,9 @@
       "base_card_id": 115821010,
       "normal_card_id": 115821010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 116821020,
@@ -970,7 +1022,9 @@
       "base_card_id": 116821020,
       "normal_card_id": 116821020,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 117811020,
@@ -1006,7 +1060,9 @@
       "base_card_id": 117811020,
       "normal_card_id": 117811020,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 118811020,
@@ -1042,7 +1098,9 @@
       "base_card_id": 118811020,
       "normal_card_id": 118811020,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 120811030,
@@ -1078,7 +1136,9 @@
       "base_card_id": 120811030,
       "normal_card_id": 120811030,
       "format_type": 1,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 121811010,
@@ -1114,7 +1174,9 @@
       "base_card_id": 121811010,
       "normal_card_id": 121811010,
       "format_type": 1,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 122811020,
@@ -1150,7 +1212,47 @@
       "base_card_id": 122811020,
       "normal_card_id": 122811020,
       "format_type": 1,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
+    },
+    {
+      "card_id": 717811010,
+      "foil_card_id": 717811011,
+      "card_set_id": 70021,
+      "card_name": "幼き糸使い",
+      "card_name_ruby": "[rub<おさな>]幼[/rub]き[rub<いとつか>]糸使[/rub]い",
+      "is_foil": 0,
+      "char_type": 1,
+      "clan": 8,
+      "tribe_name": "-",
+      "skill": "token_draw",
+      "skill_condition": "character=me",
+      "skill_target": "none",
+      "skill_option": "token_draw=900811050",
+      "skill_preprocess": "none",
+      "skill_disc": "ファンファーレ 操り人形1枚を手札に加える。",
+      "org_skill_disc": "[u][ffcd45]ファンファーレ[-][/u] [u][ffcd45]操り人形[-][/u]1枚を手札に加える。",
+      "evo_skill_disc": "",
+      "org_evo_skill_disc": "",
+      "cost": 1,
+      "atk": 1,
+      "life": 1,
+      "evo_atk": 3,
+      "evo_life": 3,
+      "rarity": 1,
+      "get_red_ether": 0,
+      "use_red_ether": 0,
+      "description": "取るに足らない小さなガキ？あはっ、素敵な褒め言葉！<br>だって今からアナタって、そのガキに負けちゃうんだよ？<br>こわぁい大人の大きな身体、アタシの糸で操ってあげる！",
+      "evo_description": "油断と慢心が詰まった身体、とっても縛りやすかったよ！<br>解いてほしかったら、泣いて謝ってこう言って？<br>「大人なのに、小さなガキに負けちゃいました」って♪",
+      "cv": "黒木ほの香",
+      "copyright": null,
+      "base_card_id": 122811020,
+      "normal_card_id": 717811010,
+      "format_type": 1,
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 123841020,
@@ -1186,7 +1288,47 @@
       "base_card_id": 123841020,
       "normal_card_id": 123841020,
       "format_type": 1,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
+    },
+    {
+      "card_id": 124821010,
+      "foil_card_id": 124821011,
+      "card_set_id": 10024,
+      "card_name": "ねじまき売り子",
+      "card_name_ruby": "ねじまき[rub<う>]売[/rub]り[rub<こ>]子[/rub]",
+      "is_foil": 0,
+      "char_type": 1,
+      "clan": 8,
+      "tribe_name": "宴楽",
+      "skill": "heal,token_draw",
+      "skill_condition": "{me.destroyed_card_list.unit.count}>=10,character=me",
+      "skill_target": "character=me&target=inplay&card_type=class,none",
+      "skill_option": "healing=2,token_draw=900811110",
+      "skill_preprocess": "none,none",
+      "skill_disc": "ファンファーレ このバトル中に破壊された自分のフォロワーが10体以上なら、自分のリーダーを2回復。<br>ラストワード 改良型・操り人形1枚を手札に加える。",
+      "org_skill_disc": "[u][ffcd45]ファンファーレ[-][/u] このバトル中に破壊された自分のフォロワーが10体以上なら、自分のリーダーを2回復。<br>[u][ffcd45]ラストワード[-][/u] [u][ffcd45]改良型・操り人形[-][/u]1枚を手札に加える。",
+      "evo_skill_disc": "進化前と同じ能力。（ファンファーレ 能力を除く）",
+      "org_evo_skill_disc": "進化前と同じ能力。（[u][ffcd45]ファンファーレ[-][/u] 能力を除く）",
+      "cost": 1,
+      "atk": 1,
+      "life": 1,
+      "evo_atk": 3,
+      "evo_life": 3,
+      "rarity": 2,
+      "get_red_ether": 50,
+      "use_red_ether": 200,
+      "description": "お客様、お目が高い！いえいえ、忖度ではありませぬ。<br>それは最新の成形技術で作った文明模型・真倶名誠刃！<br>完璧な色分けと可動域を見よ！転売行為は、ぴえんで候。<br>――『絡繰り旅館業務日誌』、音声ファイル・３",
+      "evo_description": "この者はお土産担当の絡繰り人形、『商吉』と申します！<br>金勘定が得意で、高速演算もお手の物！まさにマジ卍！<br>頼めばワンチャン、夏休みの宿題を手伝ってくれますぞ！<br>――『絡繰り旅館業務日誌』、音声ファイル・４",
+      "cv": "潘めぐみ",
+      "copyright": null,
+      "base_card_id": 124821010,
+      "normal_card_id": 124821010,
+      "format_type": 1,
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 810841010,
@@ -1222,7 +1364,9 @@
       "base_card_id": 810841010,
       "normal_card_id": 810841010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 900811010,
@@ -1258,7 +1402,9 @@
       "base_card_id": 900811010,
       "normal_card_id": 900811010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 900811030,
@@ -1294,7 +1440,9 @@
       "base_card_id": 900811030,
       "normal_card_id": 900811030,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 900811110,
@@ -1330,7 +1478,9 @@
       "base_card_id": 900811050,
       "normal_card_id": 900811110,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 900841010,
@@ -1366,7 +1516,9 @@
       "base_card_id": 900841010,
       "normal_card_id": 900841010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 900841050,
@@ -1402,7 +1554,9 @@
       "base_card_id": 900841050,
       "normal_card_id": 900841050,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 900841240,
@@ -1438,7 +1592,9 @@
       "base_card_id": 900841240,
       "normal_card_id": 900841240,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 107824020,
@@ -1474,7 +1630,9 @@
       "base_card_id": 107824020,
       "normal_card_id": 107824020,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 111814010,
@@ -1510,7 +1668,9 @@
       "base_card_id": 111814010,
       "normal_card_id": 111814010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 708814010,
@@ -1546,7 +1706,9 @@
       "base_card_id": 111814010,
       "normal_card_id": 708814010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 112834010,
@@ -1582,7 +1744,9 @@
       "base_card_id": 112834010,
       "normal_card_id": 112834010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 709834010,
@@ -1618,7 +1782,9 @@
       "base_card_id": 112834010,
       "normal_card_id": 709834010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 113824010,
@@ -1654,7 +1820,9 @@
       "base_card_id": 113824010,
       "normal_card_id": 113824010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 713824010,
@@ -1690,7 +1858,9 @@
       "base_card_id": 113824010,
       "normal_card_id": 713824010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 114814010,
@@ -1726,7 +1896,9 @@
       "base_card_id": 114814010,
       "normal_card_id": 114814010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 114824010,
@@ -1762,7 +1934,9 @@
       "base_card_id": 114824010,
       "normal_card_id": 114824010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 116814010,
@@ -1798,7 +1972,9 @@
       "base_card_id": 116814010,
       "normal_card_id": 116814010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 117824010,
@@ -1834,7 +2010,9 @@
       "base_card_id": 117824010,
       "normal_card_id": 117824010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 713824020,
@@ -1870,7 +2048,9 @@
       "base_card_id": 117824010,
       "normal_card_id": 713824020,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 118814010,
@@ -1906,7 +2086,9 @@
       "base_card_id": 118814010,
       "normal_card_id": 118814010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 120824010,
@@ -1942,7 +2124,9 @@
       "base_card_id": 120824010,
       "normal_card_id": 120824010,
       "format_type": 1,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 120834010,
@@ -1978,7 +2162,9 @@
       "base_card_id": 120834010,
       "normal_card_id": 120834010,
       "format_type": 1,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 121824010,
@@ -2014,7 +2200,9 @@
       "base_card_id": 121824010,
       "normal_card_id": 121824010,
       "format_type": 1,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 122844010,
@@ -2050,7 +2238,9 @@
       "base_card_id": 122844010,
       "normal_card_id": 122844010,
       "format_type": 1,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 123834010,
@@ -2086,7 +2276,47 @@
       "base_card_id": 123834010,
       "normal_card_id": 123834010,
       "format_type": 1,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
+    },
+    {
+      "card_id": 124814010,
+      "foil_card_id": 124814011,
+      "card_set_id": 10024,
+      "card_name": "職人の一念",
+      "card_name_ruby": "[rub<しょくにん>]職人[/rub]の[rub<いちねん>]一念[/rub]",
+      "is_foil": 0,
+      "char_type": 4,
+      "clan": 8,
+      "tribe_name": "-",
+      "skill": "choice,token_draw",
+      "skill_condition": "character=me,character=me&target=chosen_cards&card_type=all",
+      "skill_target": "choice_count=2,target=chosen_cards&card_type=all",
+      "skill_option": "card_id=900811050:900811110:100214020,repeat_count=1&summon_side=me",
+      "skill_preprocess": "none,none",
+      "skill_disc": "・操り人形<br>・改良型・操り人形<br>・武装強化<br>チョイス した2枚を手札に加える。",
+      "org_skill_disc": "・[u][ffcd45]操り人形[-][/u]<br>・[u][ffcd45]改良型・操り人形[-][/u]<br>・[u][ffcd45]武装強化[-][/u]<br>[u][ffcd45]チョイス[-][/u] した2枚を手札に加える。",
+      "evo_skill_disc": "",
+      "org_evo_skill_disc": "",
+      "cost": 1,
+      "atk": 0,
+      "life": 0,
+      "evo_atk": 0,
+      "evo_life": 0,
+      "rarity": 1,
+      "get_red_ether": 10,
+      "use_red_ether": 50,
+      "description": "理解・検証・結果から修正を繰り返す。<br>このサイクルに閃きが交じると発展は進歩に変わる。",
+      "evo_description": "",
+      "cv": "-",
+      "copyright": null,
+      "base_card_id": 124814010,
+      "normal_card_id": 124814010,
+      "format_type": 1,
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 800834030,
@@ -2122,7 +2352,9 @@
       "base_card_id": 800834030,
       "normal_card_id": 800834030,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 800834040,
@@ -2158,7 +2390,9 @@
       "base_card_id": 800834040,
       "normal_card_id": 800834040,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 800844040,
@@ -2194,7 +2428,9 @@
       "base_card_id": 800844040,
       "normal_card_id": 800844040,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 800844060,
@@ -2230,7 +2466,9 @@
       "base_card_id": 800844060,
       "normal_card_id": 800844060,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 800844070,
@@ -2266,7 +2504,9 @@
       "base_card_id": 800844070,
       "normal_card_id": 800844070,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 800844080,
@@ -2302,7 +2542,9 @@
       "base_card_id": 800844080,
       "normal_card_id": 800844080,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 900824010,
@@ -2338,7 +2580,9 @@
       "base_card_id": 900824010,
       "normal_card_id": 900824010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 900834010,
@@ -2374,7 +2618,9 @@
       "base_card_id": 900834010,
       "normal_card_id": 900834010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 900834020,
@@ -2410,7 +2656,9 @@
       "base_card_id": 900834020,
       "normal_card_id": 900834020,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 900834070,
@@ -2446,7 +2694,9 @@
       "base_card_id": 900834070,
       "normal_card_id": 900834070,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 900844030,
@@ -2482,7 +2732,9 @@
       "base_card_id": 900844030,
       "normal_card_id": 900844030,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 107813030,
@@ -2518,7 +2770,9 @@
       "base_card_id": 107813030,
       "normal_card_id": 107813030,
       "format_type": 0,
-      "restricted_count": 1
+      "restricted_count": 1,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 107823010,
@@ -2554,7 +2808,9 @@
       "base_card_id": 107823010,
       "normal_card_id": 107823010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 107833010,
@@ -2590,7 +2846,9 @@
       "base_card_id": 107833010,
       "normal_card_id": 107833010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 109813010,
@@ -2626,7 +2884,9 @@
       "base_card_id": 109813010,
       "normal_card_id": 109813010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 111843010,
@@ -2662,7 +2922,9 @@
       "base_card_id": 111843010,
       "normal_card_id": 111843010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 800813010,
@@ -2698,7 +2960,9 @@
       "base_card_id": 800813010,
       "normal_card_id": 800813010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 900813010,
@@ -2734,7 +2998,9 @@
       "base_card_id": 900813010,
       "normal_card_id": 900813010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 900813020,
@@ -2770,7 +3036,9 @@
       "base_card_id": 900813020,
       "normal_card_id": 900813020,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 900822020,
@@ -2806,7 +3074,9 @@
       "base_card_id": 900822020,
       "normal_card_id": 900822020,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 100811020,
@@ -2821,7 +3091,7 @@
       "skill": "none//token_draw,attach_skill",
       "skill_condition": "none//character=me,character=me",
       "skill_target": "none//none,character=me&target=hand_other_self&card_type=unit&base_card_id=900811050&random_count=1",
-      "skill_option": "none//token_draw=900811050,skill=(skill:killer)(timing:resident)(condition:character=me)(target:character=me&target=self&card_type=unit)(option:none)(preprocess:none)",
+      "skill_option": "none//token_draw=900811050,skill=(skill:killer)(timing:when_change_inplay)(condition:character=me)(target:character=me&target=self&card_type=unit)(option:none)(preprocess:none)",
       "skill_preprocess": "none//none,none",
       "skill_disc": "",
       "org_skill_disc": "",
@@ -2842,7 +3112,9 @@
       "base_card_id": 100811020,
       "normal_card_id": 100811020,
       "format_type": 1,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 100811060,
@@ -2878,7 +3150,9 @@
       "base_card_id": 100811060,
       "normal_card_id": 100811060,
       "format_type": 1,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 100811070,
@@ -2914,7 +3188,9 @@
       "base_card_id": 100811070,
       "normal_card_id": 100811070,
       "format_type": 1,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 100821010,
@@ -2950,7 +3226,9 @@
       "base_card_id": 100821010,
       "normal_card_id": 100821010,
       "format_type": 1,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 107811020,
@@ -2986,7 +3264,9 @@
       "base_card_id": 107811020,
       "normal_card_id": 107811020,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 107811090,
@@ -3022,7 +3302,9 @@
       "base_card_id": 107811090,
       "normal_card_id": 107811090,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 107811100,
@@ -3058,7 +3340,9 @@
       "base_card_id": 107811100,
       "normal_card_id": 107811100,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 107811130,
@@ -3094,7 +3378,9 @@
       "base_card_id": 107811130,
       "normal_card_id": 107811130,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 107821010,
@@ -3130,7 +3416,9 @@
       "base_card_id": 107821010,
       "normal_card_id": 107821010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 107821020,
@@ -3166,7 +3454,9 @@
       "base_card_id": 107821020,
       "normal_card_id": 107821020,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 107821030,
@@ -3202,7 +3492,9 @@
       "base_card_id": 107821030,
       "normal_card_id": 107821030,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 107821070,
@@ -3217,7 +3509,7 @@
       "skill": "discard,attach_skill",
       "skill_condition": "character=me&target=hand&card_type=all&{me.hand.tribe=artifact.count}>0,character=me&target=hand&card_type=all&{me.hand.tribe=artifact.count}>0",
       "skill_target": "character=me&target=hand&card_type=all&tribe=artifact&random_count=1,character=me&target=inplay&card_type=class",
-      "skill_option": "none,skill=(skill:damage_cut)(timing:immediate)(condition:character=me&card_type=class)(target:character=me&target=inplay&card_type=class)(option:cut_amount=3)(preprocess:damage_after_stop)",
+      "skill_option": "none,skill=(skill:damage_cut)(timing:when_change_inplay_immediate)(condition:character=me&card_type=class)(target:character=me&target=inplay&card_type=class)(option:cut_amount=3)(preprocess:damage_after_stop)",
       "skill_preprocess": "none,none",
       "skill_disc": "ファンファーレ 自分の手札にアーティファクト・カードがあるならランダムに1枚捨て、自分のリーダーは「次に受けるダメージを-3する」を持つ。",
       "org_skill_disc": "[u][ffcd45]ファンファーレ[-][/u] 自分の手札にアーティファクト・カードがあるならランダムに1枚捨て、自分のリーダーは「次に受けるダメージを-3する」を持つ。",
@@ -3238,7 +3530,9 @@
       "base_card_id": 107821070,
       "normal_card_id": 107821070,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 108811010,
@@ -3274,7 +3568,9 @@
       "base_card_id": 108811010,
       "normal_card_id": 108811010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 108821010,
@@ -3310,7 +3606,9 @@
       "base_card_id": 108821010,
       "normal_card_id": 108821010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 109811020,
@@ -3346,7 +3644,9 @@
       "base_card_id": 109811020,
       "normal_card_id": 109811020,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 109831010,
@@ -3382,7 +3682,9 @@
       "base_card_id": 109831010,
       "normal_card_id": 109831010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 109841020,
@@ -3418,7 +3720,9 @@
       "base_card_id": 109841020,
       "normal_card_id": 109841020,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 110811010,
@@ -3454,7 +3758,9 @@
       "base_card_id": 110811010,
       "normal_card_id": 110811010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 110821020,
@@ -3490,7 +3796,9 @@
       "base_card_id": 110821020,
       "normal_card_id": 110821020,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 110831020,
@@ -3526,7 +3834,9 @@
       "base_card_id": 110831020,
       "normal_card_id": 110831020,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 111821010,
@@ -3562,7 +3872,9 @@
       "base_card_id": 111821010,
       "normal_card_id": 111821010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 112811010,
@@ -3598,7 +3910,9 @@
       "base_card_id": 112811010,
       "normal_card_id": 112811010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 112811030,
@@ -3634,7 +3948,9 @@
       "base_card_id": 112811030,
       "normal_card_id": 112811030,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 112831010,
@@ -3670,7 +3986,9 @@
       "base_card_id": 112831010,
       "normal_card_id": 112831010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 113811010,
@@ -3706,7 +4024,9 @@
       "base_card_id": 113811010,
       "normal_card_id": 113811010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 113821010,
@@ -3742,7 +4062,9 @@
       "base_card_id": 113821010,
       "normal_card_id": 113821010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 113831030,
@@ -3778,7 +4100,9 @@
       "base_card_id": 113831030,
       "normal_card_id": 113831030,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 114811020,
@@ -3793,7 +4117,7 @@
       "skill": "pp_fixeduse,token_draw,attach_skill",
       "skill_condition": "pp_count>=6,pp_count>=6,pp_count>=6",
       "skill_target": "none,none,character=me&target=skill_drew_card&card_type=unit",
-      "skill_option": "fixeduse=6,token_draw=900811050,skill=(skill:killer)(timing:resident)(condition:character=me)(target:character=me&target=self&card_type=unit)(option:none)(preprocess:none)",
+      "skill_option": "fixeduse=6,token_draw=900811050,skill=(skill:killer)(timing:when_change_inplay)(condition:character=me)(target:character=me&target=self&card_type=unit)(option:none)(preprocess:none)",
       "skill_preprocess": "none,none,none",
       "skill_disc": "ファンファーレ エンハンス 6； 操り人形1枚を手札に加える。それは必殺 を持つ。",
       "org_skill_disc": "[u][ffcd45]ファンファーレ[-][/u] [u][ffcd45]エンハンス[-][/u] 6； [u][ffcd45]操り人形[-][/u]1枚を手札に加える。それは[u][ffcd45]必殺[-][/u] を持つ。",
@@ -3814,7 +4138,9 @@
       "base_card_id": 114811020,
       "normal_card_id": 114811020,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 114811030,
@@ -3850,7 +4176,9 @@
       "base_card_id": 114811030,
       "normal_card_id": 114811030,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 114831020,
@@ -3886,7 +4214,9 @@
       "base_card_id": 114831020,
       "normal_card_id": 114831020,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 115811030,
@@ -3922,7 +4252,9 @@
       "base_card_id": 115811030,
       "normal_card_id": 115811030,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 115831010,
@@ -3958,7 +4290,9 @@
       "base_card_id": 115831010,
       "normal_card_id": 115831010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 115831030,
@@ -3994,7 +4328,9 @@
       "base_card_id": 115831030,
       "normal_card_id": 115831030,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 116811010,
@@ -4030,7 +4366,9 @@
       "base_card_id": 116811010,
       "normal_card_id": 116811010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 116841010,
@@ -4066,7 +4404,9 @@
       "base_card_id": 116841010,
       "normal_card_id": 116841010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 714841010,
@@ -4102,7 +4442,9 @@
       "base_card_id": 116841010,
       "normal_card_id": 714841010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 117811010,
@@ -4138,7 +4480,9 @@
       "base_card_id": 117811010,
       "normal_card_id": 117811010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 117821010,
@@ -4174,7 +4518,9 @@
       "base_card_id": 117821010,
       "normal_card_id": 117821010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 117831020,
@@ -4189,7 +4535,7 @@
       "skill": "guard,pp_fixeduse,summon_card,invoke_skill//attach_skill",
       "skill_condition": "character=me,pp_count>=9,{me.inplay.unit_and_allfield.count}<5&pp_count>=9,{me.inplay.unit_and_allfield.count}<5&pp_count>=9//character=me",
       "skill_target": "character=me,none,character=me&target=deck&card_type=unit&clan=nemesis&status_cost={me.deck.unit.clan=nemesis.cost.max}&random_count=1,character=me&target=inplay_last_target&card_type=unit//character=me&target=inplay&card_type=unit_and_class&select_count=1",
-      "skill_option": "none,fixeduse=9,none,invoke_type=when_play//skill=(skill:shield)(timing:immediate)(condition:character=me)(target:character=me&target=self&card_type=unit_and_class)(option:none)(preprocess:damage_after_stop)",
+      "skill_option": "none,fixeduse=9,none,invoke_type=when_play//skill=(skill:shield)(timing:when_change_inplay_immediate)(condition:character=me)(target:character=me&target=self&card_type=unit_and_class)(option:none)(preprocess:damage_after_stop)",
       "skill_preprocess": "none,none,none,none//none",
       "skill_disc": "守護 <br>ファンファーレ エンハンス 9； コスト最大のネメシス・フォロワーをランダムに1枚、自分のデッキから場に出す。それが「チョイス と対象選択を含まないファンファーレ 能力」を持つなら1回働かせる。",
       "org_skill_disc": "[u][ffcd45]守護[-][/u] <br>[u][ffcd45]ファンファーレ[-][/u] [u][ffcd45]エンハンス[-][/u] 9； コスト最大のネメシス・フォロワーをランダムに1枚、自分のデッキから場に出す。それが「[u][ffcd45]チョイス[-][/u] と対象選択を含まない[u][ffcd45]ファンファーレ[-][/u] 能力」を持つなら1回働かせる。",
@@ -4210,7 +4556,9 @@
       "base_card_id": 117831020,
       "normal_card_id": 117831020,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 118821020,
@@ -4246,7 +4594,9 @@
       "base_card_id": 118821020,
       "normal_card_id": 118821020,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 118841010,
@@ -4282,7 +4632,9 @@
       "base_card_id": 118841010,
       "normal_card_id": 118841010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 119811010,
@@ -4317,8 +4669,10 @@
       "copyright": null,
       "base_card_id": 119811010,
       "normal_card_id": 119811010,
-      "format_type": 1,
-      "restricted_count": 3
+      "format_type": 0,
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 119821010,
@@ -4353,8 +4707,10 @@
       "copyright": null,
       "base_card_id": 119821010,
       "normal_card_id": 119821010,
-      "format_type": 1,
-      "restricted_count": 3
+      "format_type": 0,
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 119821020,
@@ -4389,8 +4745,10 @@
       "copyright": null,
       "base_card_id": 119821020,
       "normal_card_id": 119821020,
-      "format_type": 1,
-      "restricted_count": 3
+      "format_type": 0,
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 119831010,
@@ -4425,8 +4783,10 @@
       "copyright": null,
       "base_card_id": 119831010,
       "normal_card_id": 119831010,
-      "format_type": 1,
-      "restricted_count": 3
+      "format_type": 0,
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 119841020,
@@ -4461,8 +4821,10 @@
       "copyright": null,
       "base_card_id": 119841020,
       "normal_card_id": 119841020,
-      "format_type": 1,
-      "restricted_count": 3
+      "format_type": 0,
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 120811010,
@@ -4498,7 +4860,9 @@
       "base_card_id": 120811010,
       "normal_card_id": 120811010,
       "format_type": 1,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 120821020,
@@ -4534,7 +4898,9 @@
       "base_card_id": 120821020,
       "normal_card_id": 120821020,
       "format_type": 1,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 715821010,
@@ -4570,7 +4936,9 @@
       "base_card_id": 120821020,
       "normal_card_id": 715821010,
       "format_type": 1,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 121821010,
@@ -4606,7 +4974,9 @@
       "base_card_id": 121821010,
       "normal_card_id": 121821010,
       "format_type": 1,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 121821020,
@@ -4642,7 +5012,9 @@
       "base_card_id": 121821020,
       "normal_card_id": 121821020,
       "format_type": 1,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 121841010,
@@ -4678,7 +5050,9 @@
       "base_card_id": 121841010,
       "normal_card_id": 121841010,
       "format_type": 1,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 121841030,
@@ -4714,7 +5088,9 @@
       "base_card_id": 121841030,
       "normal_card_id": 121841030,
       "format_type": 1,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 122821010,
@@ -4750,7 +5126,9 @@
       "base_card_id": 122821010,
       "normal_card_id": 122821010,
       "format_type": 1,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 122821020,
@@ -4786,7 +5164,9 @@
       "base_card_id": 122821020,
       "normal_card_id": 122821020,
       "format_type": 1,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 122821030,
@@ -4822,7 +5202,9 @@
       "base_card_id": 122821030,
       "normal_card_id": 122821030,
       "format_type": 1,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 122831020,
@@ -4858,7 +5240,9 @@
       "base_card_id": 122831020,
       "normal_card_id": 122831020,
       "format_type": 1,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 123811020,
@@ -4894,7 +5278,9 @@
       "base_card_id": 123811020,
       "normal_card_id": 123811020,
       "format_type": 1,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 123821010,
@@ -4930,7 +5316,9 @@
       "base_card_id": 123821010,
       "normal_card_id": 123821010,
       "format_type": 1,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 123821030,
@@ -4966,7 +5354,9 @@
       "base_card_id": 123821030,
       "normal_card_id": 123821030,
       "format_type": 1,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 123831010,
@@ -5002,7 +5392,9 @@
       "base_card_id": 123831010,
       "normal_card_id": 123831010,
       "format_type": 1,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 123841010,
@@ -5038,7 +5430,123 @@
       "base_card_id": 123841010,
       "normal_card_id": 123841010,
       "format_type": 1,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
+    },
+    {
+      "card_id": 124811010,
+      "foil_card_id": 124811011,
+      "card_set_id": 10024,
+      "card_name": "絡繰り給仕",
+      "card_name_ruby": "[rub<からく>]絡繰[/rub]り[rub<きゅうじ>]給仕[/rub]",
+      "is_foil": 0,
+      "char_type": 1,
+      "clan": 8,
+      "tribe_name": "宴楽",
+      "skill": "token_draw",
+      "skill_condition": "character=me",
+      "skill_target": "none",
+      "skill_option": "token_draw=900811050",
+      "skill_preprocess": "none",
+      "skill_disc": "ファンファーレ 操り人形1枚を手札に加える。",
+      "org_skill_disc": "[u][ffcd45]ファンファーレ[-][/u] [u][ffcd45]操り人形[-][/u]1枚を手札に加える。",
+      "evo_skill_disc": "",
+      "org_evo_skill_disc": "",
+      "cost": 2,
+      "atk": 2,
+      "life": 2,
+      "evo_atk": 4,
+      "evo_life": 4,
+      "rarity": 1,
+      "get_red_ether": 10,
+      "use_red_ether": 50,
+      "description": "ようこそ、お客様！お越しいただき、あざまる水産で候！<br>とりま、ご予約の『兜の間』へ！神ってる眺めですぞ！<br>ふふふ……如何かな？流行を学習した拙者の言語機能は！<br>――『絡繰り旅館業務日誌』、音声ファイル・１",
+      "evo_description": "この者は中居担当の絡繰り人形、『茶々子』と申します！<br>愛想には欠けるものの、熱心な仕事ぶりはエモいと評判！<br>実は照れ屋さん故、褒めてあげると顔から火が出ますぞ。<br>――『絡繰り旅館業務日誌』、音声ファイル・２",
+      "cv": "-",
+      "copyright": null,
+      "base_card_id": 124811010,
+      "normal_card_id": 124811010,
+      "format_type": 1,
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
+    },
+    {
+      "card_id": 124811020,
+      "foil_card_id": 124811021,
+      "card_set_id": 10024,
+      "card_name": "モータージーニアス",
+      "card_name_ruby": "モータージーニアス",
+      "is_foil": 0,
+      "char_type": 1,
+      "clan": 8,
+      "tribe_name": "-",
+      "skill": "token_draw",
+      "skill_condition": "character=me",
+      "skill_target": "none",
+      "skill_option": "token_draw=900831020:900831030:?1",
+      "skill_preprocess": "none",
+      "skill_disc": "ファンファーレ 防御型ゴーレム、攻撃型ゴーレムの中から、ランダムに1枚を手札に加える。",
+      "org_skill_disc": "[u][ffcd45]ファンファーレ[-][/u] [u][ffcd45]防御型ゴーレム[-][/u]、[u][ffcd45]攻撃型ゴーレム[-][/u]の中から、ランダムに1枚を手札に加える。",
+      "evo_skill_disc": "",
+      "org_evo_skill_disc": "",
+      "cost": 2,
+      "atk": 1,
+      "life": 3,
+      "evo_atk": 3,
+      "evo_life": 5,
+      "rarity": 1,
+      "get_red_ether": 10,
+      "use_red_ether": 50,
+      "description": "アイデアが浮かぶのを待つようじゃ、まだまだ凡人だね。<br>優秀な発明家は、アイデアを自分から迎えに行くものさ。",
+      "evo_description": "「おい、博士が開発室から脱走したぞ！」<br>「またか！納期はもうすぐそこだってのに！」<br>――ある研究室の慌てる助手たち",
+      "cv": "黒木ほの香",
+      "copyright": null,
+      "base_card_id": 124811020,
+      "normal_card_id": 124811020,
+      "format_type": 1,
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
+    },
+    {
+      "card_id": 124821020,
+      "foil_card_id": 124821021,
+      "card_set_id": 10024,
+      "card_name": "機構の撃ち手",
+      "card_name_ruby": "[rub<きこう>]機構[/rub]の[rub<う>]撃[/rub]ち[rub<て>]手[/rub]",
+      "is_foil": 0,
+      "char_type": 1,
+      "clan": 8,
+      "tribe_name": "-",
+      "skill": "lose//draw",
+      "skill_condition": "character=me&resonance=true//character=me",
+      "skill_target": "character=op&target=inplay&card_type=unit//character=me&target=deck&card_type=all&random_count=2",
+      "skill_option": "none//none",
+      "skill_preprocess": "none//none",
+      "skill_disc": "ファンファーレ 共鳴 状態なら、相手のフォロワーすべては、能力すべて（攻撃力/体力はそのまま）を失う。",
+      "org_skill_disc": "[u][ffcd45]ファンファーレ[-][/u] [u][ffcd45]共鳴[-][/u] 状態なら、相手のフォロワーすべては、能力すべて（攻撃力/体力はそのまま）を失う。",
+      "evo_skill_disc": "進化時 カードを2枚引く。",
+      "org_evo_skill_disc": "[u][ffcd45]進化時[-][/u] カードを2枚引く。",
+      "cost": 2,
+      "atk": 2,
+      "life": 1,
+      "evo_atk": 4,
+      "evo_life": 3,
+      "rarity": 2,
+      "get_red_ether": 50,
+      "use_red_ether": 200,
+      "description": "銃は私の王子様。私が造った、私だけの王子様。<br>狙いを定めれば、弾丸の速さで駆けつけてくれる。<br>だから私も着飾るの。王子様に相応しい、お揃いの黒で。",
+      "evo_description": "私は弱かった。何もなかった。踏み躙られるだけだった。<br>でも銃は、私をどん底から救ってくれた、鉄の王子様。<br>白馬なんて役に立たない。鉄の漆黒だけが、愛おしいの。",
+      "cv": "釘宮理恵",
+      "copyright": null,
+      "base_card_id": 124821020,
+      "normal_card_id": 124821020,
+      "format_type": 1,
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 820841010,
@@ -5074,7 +5582,9 @@
       "base_card_id": 820841010,
       "normal_card_id": 820841010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 900821010,
@@ -5110,7 +5620,9 @@
       "base_card_id": 900821010,
       "normal_card_id": 900821010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 900821020,
@@ -5146,7 +5658,9 @@
       "base_card_id": 900821020,
       "normal_card_id": 900821020,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 900831020,
@@ -5182,7 +5696,9 @@
       "base_card_id": 900831020,
       "normal_card_id": 900831020,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 900831030,
@@ -5218,7 +5734,9 @@
       "base_card_id": 900831030,
       "normal_card_id": 900831030,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 900831040,
@@ -5254,7 +5772,9 @@
       "base_card_id": 900831040,
       "normal_card_id": 900831040,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 900831060,
@@ -5290,7 +5810,9 @@
       "base_card_id": 900831060,
       "normal_card_id": 900831060,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 900841090,
@@ -5326,7 +5848,9 @@
       "base_card_id": 900841090,
       "normal_card_id": 900841090,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 100814010,
@@ -5362,7 +5886,9 @@
       "base_card_id": 100814010,
       "normal_card_id": 100814010,
       "format_type": 1,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 705814010,
@@ -5398,7 +5924,9 @@
       "base_card_id": 100814010,
       "normal_card_id": 705814010,
       "format_type": 1,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 108814010,
@@ -5434,7 +5962,9 @@
       "base_card_id": 108814010,
       "normal_card_id": 108814010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 110814010,
@@ -5470,7 +6000,9 @@
       "base_card_id": 110814010,
       "normal_card_id": 110814010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 114834010,
@@ -5506,7 +6038,9 @@
       "base_card_id": 114834010,
       "normal_card_id": 114834010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 709834020,
@@ -5542,7 +6076,9 @@
       "base_card_id": 114834010,
       "normal_card_id": 709834020,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 114844010,
@@ -5578,7 +6114,9 @@
       "base_card_id": 114844010,
       "normal_card_id": 114844010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 118824010,
@@ -5614,7 +6152,9 @@
       "base_card_id": 118824010,
       "normal_card_id": 118824010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 121814010,
@@ -5650,7 +6190,9 @@
       "base_card_id": 121814010,
       "normal_card_id": 121814010,
       "format_type": 1,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 122834010,
@@ -5686,7 +6228,9 @@
       "base_card_id": 122834010,
       "normal_card_id": 122834010,
       "format_type": 1,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 123814010,
@@ -5722,7 +6266,47 @@
       "base_card_id": 123814010,
       "normal_card_id": 123814010,
       "format_type": 1,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
+    },
+    {
+      "card_id": 717814010,
+      "foil_card_id": 717814011,
+      "card_set_id": 70025,
+      "card_name": "機構の発見",
+      "card_name_ruby": "[rub<きこう>]機構[/rub]の[rub<はっけん>]発見[/rub]",
+      "is_foil": 0,
+      "char_type": 4,
+      "clan": 8,
+      "tribe_name": "-",
+      "skill": "summon_token,rush",
+      "skill_condition": "character=me,{me.game_play_cards_other_self.all.base_card_id=123814010.count}>0",
+      "skill_target": "character=me,character=me&target=skill_summoned_card&card_type=unit",
+      "skill_option": "summon_token=900811030,none",
+      "skill_preprocess": "none,none",
+      "skill_disc": "アナライズアーティファクト1体を出す。<br>自分がこのバトル中に他の機構の発見をプレイしていたなら、それは突進 を持つ。",
+      "org_skill_disc": "[u][ffcd45]アナライズアーティファクト[-][/u]1体を出す。<br>自分がこのバトル中に他の[u][ffcd45]機構の発見[-][/u]をプレイしていたなら、それは[u][ffcd45]突進[-][/u] を持つ。",
+      "evo_skill_disc": "",
+      "org_evo_skill_disc": "",
+      "cost": 2,
+      "atk": 0,
+      "life": 0,
+      "evo_atk": 0,
+      "evo_life": 0,
+      "rarity": 1,
+      "get_red_ether": 0,
+      "use_red_ether": 0,
+      "description": "全出力アップ……ミホノブルボン、発進！",
+      "evo_description": "",
+      "cv": "長谷川育美",
+      "copyright": null,
+      "base_card_id": 123814010,
+      "normal_card_id": 717814010,
+      "format_type": 1,
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 800814010,
@@ -5758,7 +6342,9 @@
       "base_card_id": 800814010,
       "normal_card_id": 800814010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 800834010,
@@ -5794,7 +6380,9 @@
       "base_card_id": 800834010,
       "normal_card_id": 800834010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 800844050,
@@ -5830,7 +6418,9 @@
       "base_card_id": 800844050,
       "normal_card_id": 800844050,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 900824020,
@@ -5866,7 +6456,9 @@
       "base_card_id": 900824020,
       "normal_card_id": 900824020,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 800843010,
@@ -5902,7 +6494,9 @@
       "base_card_id": 800843010,
       "normal_card_id": 800843010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 900822010,
@@ -5938,7 +6532,9 @@
       "base_card_id": 900822010,
       "normal_card_id": 900822010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 100811010,
@@ -5974,7 +6570,9 @@
       "base_card_id": 100811010,
       "normal_card_id": 100811010,
       "format_type": 1,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 100811030,
@@ -6010,7 +6608,9 @@
       "base_card_id": 100811030,
       "normal_card_id": 100811030,
       "format_type": 1,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 107811050,
@@ -6046,7 +6646,9 @@
       "base_card_id": 107811050,
       "normal_card_id": 107811050,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 107811060,
@@ -6082,7 +6684,9 @@
       "base_card_id": 107811060,
       "normal_card_id": 107811060,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 107811070,
@@ -6118,7 +6722,9 @@
       "base_card_id": 107811070,
       "normal_card_id": 107811070,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 107811140,
@@ -6154,7 +6760,9 @@
       "base_card_id": 107811140,
       "normal_card_id": 107811140,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 107821040,
@@ -6190,7 +6798,9 @@
       "base_card_id": 107821040,
       "normal_card_id": 107821040,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 108811030,
@@ -6226,7 +6836,9 @@
       "base_card_id": 108811030,
       "normal_card_id": 108811030,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 108831020,
@@ -6262,7 +6874,9 @@
       "base_card_id": 108831020,
       "normal_card_id": 108831020,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 109811010,
@@ -6298,7 +6912,9 @@
       "base_card_id": 109811010,
       "normal_card_id": 109811010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 109831020,
@@ -6334,7 +6950,9 @@
       "base_card_id": 109831020,
       "normal_card_id": 109831020,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 109841030,
@@ -6370,7 +6988,9 @@
       "base_card_id": 109841030,
       "normal_card_id": 109841030,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 110811030,
@@ -6406,7 +7026,9 @@
       "base_card_id": 110811030,
       "normal_card_id": 110811030,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 111811030,
@@ -6442,7 +7064,9 @@
       "base_card_id": 111811030,
       "normal_card_id": 111811030,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 111821020,
@@ -6478,7 +7102,9 @@
       "base_card_id": 111821020,
       "normal_card_id": 111821020,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 111831030,
@@ -6514,7 +7140,9 @@
       "base_card_id": 111831030,
       "normal_card_id": 111831030,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 112811020,
@@ -6550,7 +7178,9 @@
       "base_card_id": 112811020,
       "normal_card_id": 112811020,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 112831020,
@@ -6586,7 +7216,9 @@
       "base_card_id": 112831020,
       "normal_card_id": 112831020,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 114821020,
@@ -6622,7 +7254,9 @@
       "base_card_id": 114821020,
       "normal_card_id": 114821020,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 115811020,
@@ -6658,7 +7292,9 @@
       "base_card_id": 115811020,
       "normal_card_id": 115811020,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 115821020,
@@ -6694,7 +7330,9 @@
       "base_card_id": 115821020,
       "normal_card_id": 115821020,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 115841010,
@@ -6730,7 +7368,9 @@
       "base_card_id": 115841010,
       "normal_card_id": 115841010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 116811020,
@@ -6766,7 +7406,9 @@
       "base_card_id": 116811020,
       "normal_card_id": 116811020,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 116811030,
@@ -6802,7 +7444,9 @@
       "base_card_id": 116811030,
       "normal_card_id": 116811030,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 117811030,
@@ -6838,7 +7482,9 @@
       "base_card_id": 117811030,
       "normal_card_id": 117811030,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 117841010,
@@ -6874,7 +7520,9 @@
       "base_card_id": 117841010,
       "normal_card_id": 117841010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 118811010,
@@ -6910,7 +7558,9 @@
       "base_card_id": 118811010,
       "normal_card_id": 118811010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 119811020,
@@ -6945,8 +7595,10 @@
       "copyright": null,
       "base_card_id": 119811020,
       "normal_card_id": 119811020,
-      "format_type": 1,
-      "restricted_count": 3
+      "format_type": 0,
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 119811040,
@@ -6981,8 +7633,10 @@
       "copyright": null,
       "base_card_id": 119811040,
       "normal_card_id": 119811040,
-      "format_type": 1,
-      "restricted_count": 3
+      "format_type": 0,
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 119841010,
@@ -6997,7 +7651,7 @@
       "skill": "return_card,draw,change_skybound_art_count,powerup,quick,change_super_skybound_art_count,attach_skill",
       "skill_condition": "{me.inplay_self.count}>0&character=me&target=inplay&card_type=class&evolvable_turn=false,character=me,turn=self&{me.hand_self.unit.count}>0&character=me&target=evolution_card&card_type=unit,{self.skybound_art_count}<={me.inplay.class.turn},{self.skybound_art_count}<={me.inplay.class.turn},turn=self&{me.hand_self.unit.count}>0&character=me&target=evolution_card&card_type=unit,{self.super_skybound_art_count}<={me.inplay.class.turn}",
       "skill_target": "character=me&target=inplay_self,character=me&target=deck&card_type=all&random_count=1,character=me&target=self,character=me&target=self,character=me&target=self,character=me&target=self,character=me&target=hand&card_type=unit",
-      "skill_option": "none,none,gain_skybound_art_count=1*{me.evolution_card.unit.count},add_offense=2,none,gain_super_skybound_art_count=1*{me.evolution_card.unit.count},skill=(skill:quick)(timing:resident)(condition:character=me)(target:character=me&target=self&card_type=unit)(option:none)(preprocess:none)",
+      "skill_option": "none,none,gain_skybound_art_count=1*{me.evolution_card.unit.count},add_offense=2,none,gain_super_skybound_art_count=1*{me.evolution_card.unit.count},skill=(skill:quick)(timing:when_change_inplay)(condition:character=me)(target:character=me&target=self&card_type=unit)(option:none)(preprocess:none)",
       "skill_preprocess": "evolution_end_remove,none,none,none,none,none,none",
       "skill_disc": "自分の「進化可能でないターン」の終了時、これを手札に戻す。<br>ファンファーレ  カードを1枚引く。<br>奥義 10； +2/+0して、疾走 を持つ。<br>解放奥義 15； 自分の手札のフォロワーすべては疾走 を持つ。",
       "org_skill_disc": "自分の「進化可能でないターン」の終了時、これを手札に戻す。<br>[u][ffcd45]ファンファーレ[-][/u]  カードを1枚引く。<br>[u][ffcd45]奥義[-][/u] [ffcd45]10[-]； +2/+0して、[u][ffcd45]疾走[-][/u] を持つ。<br>[u][ffcd45]解放奥義[-][/u] [ffcd45]15[-]； 自分の手札のフォロワーすべては[u][ffcd45]疾走[-][/u] を持つ。",
@@ -7017,8 +7671,10 @@
       "copyright": null,
       "base_card_id": 119841010,
       "normal_card_id": 119841010,
-      "format_type": 1,
-      "restricted_count": 3
+      "format_type": 0,
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 120821010,
@@ -7054,7 +7710,9 @@
       "base_card_id": 120821010,
       "normal_card_id": 120821010,
       "format_type": 1,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 121831010,
@@ -7090,7 +7748,9 @@
       "base_card_id": 121831010,
       "normal_card_id": 121831010,
       "format_type": 1,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 122811010,
@@ -7126,7 +7786,9 @@
       "base_card_id": 122811010,
       "normal_card_id": 122811010,
       "format_type": 1,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 122831010,
@@ -7141,7 +7803,7 @@
       "skill": "token_draw,powerup,attach_skill//heal",
       "skill_condition": "character=me,{me.destroyed_card_list.unit.count}>=20,{me.destroyed_card_list.unit.count}>=20//{me.inplay_self.count}>0&character=me&target=summoned_card&card_type=unit&base_card_id=900811050",
       "skill_target": "none,character=me&target=hand&card_type=unit&base_card_id=900811050,character=me&target=hand&card_type=unit&base_card_id=900811050//character=me&target=inplay&card_type=class",
-      "skill_option": "token_draw=900811050:900811110,add_offense=1,skill=(skill:quick)(timing:resident)(condition:character=me)(target:character=me&target=self&card_type=unit)(option:none)(preprocess:none)//healing=1",
+      "skill_option": "token_draw=900811050:900811110,add_offense=1,skill=(skill:quick)(timing:when_change_inplay)(condition:character=me)(target:character=me&target=self&card_type=unit)(option:none)(preprocess:none)//healing=1",
       "skill_preprocess": "none,none,none//none",
       "skill_disc": "ファンファーレ 操り人形1枚と改良型・操り人形1枚を手札に加える。このバトル中に破壊された自分のフォロワーが20体以上なら、自分の手札の操り人形すべては+1/+0されて、疾走 を持つ。",
       "org_skill_disc": "[u][ffcd45]ファンファーレ[-][/u] [u][ffcd45]操り人形[-][/u]1枚と[u][ffcd45]改良型・操り人形[-][/u]1枚を手札に加える。このバトル中に破壊された自分のフォロワーが20体以上なら、自分の手札の[u][ffcd45]操り人形[-][/u]すべては+1/+0されて、[u][ffcd45]疾走[-][/u] を持つ。",
@@ -7162,7 +7824,85 @@
       "base_card_id": 122831010,
       "normal_card_id": 122831010,
       "format_type": 1,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
+    },
+    {
+      "card_id": 124831010,
+      "foil_card_id": 124831011,
+      "card_set_id": 10024,
+      "card_name": "トリガーマリオネッター",
+      "card_name_ruby": "トリガーマリオネッター",
+      "is_foil": 0,
+      "char_type": 1,
+      "clan": 8,
+      "tribe_name": "-",
+      "skill": "destroy,draw//summon_token",
+      "skill_condition": "{me.inplay.unit.base_card_id=900811050.count}>0,{me.inplay.unit.base_card_id=900811050.count}>0//character=me",
+      "skill_target": "character=me&target=inplay_other_self&card_type=unit&base_card_id=900811050&select_count=1,character=me&target=deck&card_type=all&random_count=2//none",
+      "skill_option": "none,none//summon_token=900811050:900811050:900811050",
+      "skill_preprocess": "none,none//none",
+      "skill_disc": "ファンファーレ 自分の場に操り人形がいるなら、その中から1体を破壊して、カードを2枚引く。",
+      "org_skill_disc": "[u][ffcd45]ファンファーレ[-][/u] 自分の場に[u][ffcd45]操り人形[-][/u]がいるなら、その中から1体を破壊して、カードを2枚引く。",
+      "evo_skill_disc": "進化時 操り人形3体を出す。",
+      "org_evo_skill_disc": "[u][ffcd45]進化時[-][/u] [u][ffcd45]操り人形[-][/u]3体を出す。",
+      "cost": 3,
+      "atk": 3,
+      "life": 3,
+      "evo_atk": 5,
+      "evo_life": 5,
+      "rarity": 3,
+      "get_red_ether": 250,
+      "use_red_ether": 800,
+      "description": "銃撃の反動とは、戒めのようなものだ。<br>容易く他者の命を奪う、引き金の重さを忘れぬための。<br>――『魔導銃の扱い方』、入門編",
+      "evo_description": "銃に引き金がついているのは、背負うためだ。<br>指先一つで命を奪う、引き返せない行為の責任を。<br>――『魔導銃の扱い方』、入門編",
+      "cv": "ゆかな",
+      "copyright": null,
+      "base_card_id": 124831010,
+      "normal_card_id": 124831010,
+      "format_type": 1,
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
+    },
+    {
+      "card_id": 124841020,
+      "foil_card_id": 124841021,
+      "card_set_id": 10024,
+      "card_name": "フルブラストガンナー",
+      "card_name_ruby": "フルブラストガンナー",
+      "is_foil": 0,
+      "char_type": 1,
+      "clan": 8,
+      "tribe_name": "アーティファクト",
+      "skill": "token_draw//attach_skill",
+      "skill_condition": "character=me//character=me",
+      "skill_target": "none//character=me&target=inplay&card_type=class",
+      "skill_option": "token_draw=900811030//skill=(skill:damage)(timing:when_summon_other)(condition:{me.summoned_card.all.tribe=artifact.count}>0&turn=self)(target:character=op&target=inplay&card_type=unit&random_count=1)(option:damage=2)(preprocess:none)(effect_path:btl_124841020_3)(se_path:se_btl_124841020_3)(effect_move_type:DIRECT)(engine_type:SHURIKEN)(effect_time:0.1)(effect_target_type:single)&duplicate_ban_id=1248410201",
+      "skill_preprocess": "none//none",
+      "skill_disc": "ファンファーレ アナライズアーティファクト1枚を手札に加える。",
+      "org_skill_disc": "[u][ffcd45]ファンファーレ[-][/u] [u][ffcd45]アナライズアーティファクト[-][/u]1枚を手札に加える。",
+      "evo_skill_disc": "進化時 このバトル中、自分のリーダーは「自分のターン中、自分の場にアーティファクト・カードが出るたび、ランダムな相手のフォロワー1体に2ダメージ」を持つ。リーダーはこの能力を重複して持たない。",
+      "org_evo_skill_disc": "[u][ffcd45]進化時[-][/u] このバトル中、自分のリーダーは「自分のターン中、自分の場にアーティファクト・カードが出るたび、ランダムな相手のフォロワー1体に2ダメージ」を持つ。リーダーはこの能力を重複して持たない。",
+      "cost": 3,
+      "atk": 2,
+      "life": 3,
+      "evo_atk": 4,
+      "evo_life": 5,
+      "rarity": 4,
+      "get_red_ether": 1000,
+      "use_red_ether": 3500,
+      "description": "見せてやる。我が身こそが、救済の歯車だと。<br>悲劇は不要。茶番で結構。稚拙な大団円をくれてやる。<br>そのために機能を増やし、不可能を削減した。<br>全てを十全に救えなければ、俺の存在に価値は無い。",
+      "evo_description": "好きじゃないんだ。悲劇とかいう、ありがちな終わりが。<br>故に望んだ。何も守れなかった、無力な己を差し出した。<br>我が身こそが、救済の歯車――英雄という名の装置。<br>全ての悲劇に、ハッピーエンドをばら撒いてやる。",
+      "cv": "近藤孝行",
+      "copyright": null,
+      "base_card_id": 124841020,
+      "normal_card_id": 124841020,
+      "format_type": 1,
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 900811020,
@@ -7198,7 +7938,9 @@
       "base_card_id": 900811020,
       "normal_card_id": 900811020,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 900811070,
@@ -7234,7 +7976,9 @@
       "base_card_id": 900811070,
       "normal_card_id": 900811070,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 900831010,
@@ -7270,7 +8014,9 @@
       "base_card_id": 900831010,
       "normal_card_id": 900831010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 900841040,
@@ -7306,7 +8052,9 @@
       "base_card_id": 900841040,
       "normal_card_id": 900841040,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 900841190,
@@ -7342,7 +8090,9 @@
       "base_card_id": 900841190,
       "normal_card_id": 900841190,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 107824010,
@@ -7378,7 +8128,9 @@
       "base_card_id": 107824010,
       "normal_card_id": 107824010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 113814010,
@@ -7414,7 +8166,9 @@
       "base_card_id": 113814010,
       "normal_card_id": 113814010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 117834010,
@@ -7450,7 +8204,9 @@
       "base_card_id": 117834010,
       "normal_card_id": 117834010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 119824010,
@@ -7485,8 +8241,10 @@
       "copyright": null,
       "base_card_id": 119824010,
       "normal_card_id": 119824010,
-      "format_type": 1,
-      "restricted_count": 3
+      "format_type": 0,
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 120814010,
@@ -7522,7 +8280,9 @@
       "base_card_id": 120814010,
       "normal_card_id": 120814010,
       "format_type": 1,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 121834010,
@@ -7558,7 +8318,47 @@
       "base_card_id": 121834010,
       "normal_card_id": 121834010,
       "format_type": 1,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
+    },
+    {
+      "card_id": 124824010,
+      "foil_card_id": 124824011,
+      "card_set_id": 10024,
+      "card_name": "無情の侵食",
+      "card_name_ruby": "[rub<むじょう>]無情[/rub]の[rub<しんしょく>]侵食[/rub]",
+      "is_foil": 0,
+      "char_type": 4,
+      "clan": 8,
+      "tribe_name": "-",
+      "skill": "summon_token,summon_token",
+      "skill_condition": "character=me,{me.usable_ep}>{op.usable_ep}",
+      "skill_target": "none,none",
+      "skill_option": "summon_token=900811010:900811030,summon_token=900811020",
+      "skill_preprocess": "none,none",
+      "skill_disc": "エンシェントアーティファクト1体とアナライズアーティファクト1体を出す。<br>自分の残りEPが相手より多いなら、さらに、ミスティックアーティファクト1体を出す。（進化可能でないターンの残りEPは0）",
+      "org_skill_disc": "[u][ffcd45]エンシェントアーティファクト[-][/u]1体と[u][ffcd45]アナライズアーティファクト[-][/u]1体を出す。<br>自分の残りEPが相手より多いなら、さらに、[u][ffcd45]ミスティックアーティファクト[-][/u]1体を出す。（進化可能でないターンの残りEPは0）",
+      "evo_skill_disc": "",
+      "org_evo_skill_disc": "",
+      "cost": 3,
+      "atk": 0,
+      "life": 0,
+      "evo_atk": 0,
+      "evo_life": 0,
+      "rarity": 2,
+      "get_red_ether": 50,
+      "use_red_ether": 200,
+      "description": "奴らには『交渉』などという、悠長な概念はない。",
+      "evo_description": "",
+      "cv": "-",
+      "copyright": null,
+      "base_card_id": 124824010,
+      "normal_card_id": 124824010,
+      "format_type": 1,
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 800824010,
@@ -7594,7 +8394,9 @@
       "base_card_id": 800824010,
       "normal_card_id": 800824010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 800834020,
@@ -7630,7 +8432,9 @@
       "base_card_id": 800834020,
       "normal_card_id": 800834020,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 800834050,
@@ -7666,7 +8470,9 @@
       "base_card_id": 800834050,
       "normal_card_id": 800834050,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 800844010,
@@ -7702,7 +8508,9 @@
       "base_card_id": 800844010,
       "normal_card_id": 800844010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 800844020,
@@ -7738,7 +8546,9 @@
       "base_card_id": 800844020,
       "normal_card_id": 800844020,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 800844030,
@@ -7774,7 +8584,9 @@
       "base_card_id": 800844030,
       "normal_card_id": 800844030,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 900844010,
@@ -7810,7 +8622,9 @@
       "base_card_id": 900844010,
       "normal_card_id": 900844010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 107813010,
@@ -7846,7 +8660,9 @@
       "base_card_id": 107813010,
       "normal_card_id": 107813010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 107813020,
@@ -7882,7 +8698,9 @@
       "base_card_id": 107813020,
       "normal_card_id": 107813020,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 112822010,
@@ -7918,7 +8736,9 @@
       "base_card_id": 112822010,
       "normal_card_id": 112822010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 709822010,
@@ -7954,7 +8774,9 @@
       "base_card_id": 112822010,
       "normal_card_id": 709822010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 115823010,
@@ -7990,7 +8812,9 @@
       "base_card_id": 115823010,
       "normal_card_id": 115823010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 800843020,
@@ -8026,7 +8850,9 @@
       "base_card_id": 800843020,
       "normal_card_id": 800843020,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 820843020,
@@ -8062,7 +8888,9 @@
       "base_card_id": 820843020,
       "normal_card_id": 820843020,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 820843030,
@@ -8098,7 +8926,9 @@
       "base_card_id": 820843030,
       "normal_card_id": 820843030,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 900823010,
@@ -8134,7 +8964,9 @@
       "base_card_id": 900823010,
       "normal_card_id": 900823010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 900843010,
@@ -8170,7 +9002,9 @@
       "base_card_id": 900843010,
       "normal_card_id": 900843010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 100811040,
@@ -8206,7 +9040,9 @@
       "base_card_id": 100811040,
       "normal_card_id": 100811040,
       "format_type": 1,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 100821020,
@@ -8242,7 +9078,9 @@
       "base_card_id": 100821020,
       "normal_card_id": 100821020,
       "format_type": 1,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 107811010,
@@ -8278,7 +9116,9 @@
       "base_card_id": 107811010,
       "normal_card_id": 107811010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 107811030,
@@ -8314,7 +9154,9 @@
       "base_card_id": 107811030,
       "normal_card_id": 107811030,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 107831030,
@@ -8350,7 +9192,9 @@
       "base_card_id": 107831030,
       "normal_card_id": 107831030,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 107831050,
@@ -8386,7 +9230,9 @@
       "base_card_id": 107831050,
       "normal_card_id": 107831050,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 108811020,
@@ -8422,7 +9268,9 @@
       "base_card_id": 108811020,
       "normal_card_id": 108811020,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 110831010,
@@ -8458,7 +9306,9 @@
       "base_card_id": 110831010,
       "normal_card_id": 110831010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 110841010,
@@ -8494,7 +9344,9 @@
       "base_card_id": 110841010,
       "normal_card_id": 110841010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 711841010,
@@ -8530,7 +9382,9 @@
       "base_card_id": 110841010,
       "normal_card_id": 711841010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 110841020,
@@ -8566,7 +9420,9 @@
       "base_card_id": 110841020,
       "normal_card_id": 110841020,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 111831010,
@@ -8602,7 +9458,9 @@
       "base_card_id": 111831010,
       "normal_card_id": 111831010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 112821020,
@@ -8638,7 +9496,9 @@
       "base_card_id": 112821020,
       "normal_card_id": 112821020,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 113811020,
@@ -8674,7 +9534,9 @@
       "base_card_id": 113811020,
       "normal_card_id": 113811020,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 113821020,
@@ -8710,7 +9572,9 @@
       "base_card_id": 113821020,
       "normal_card_id": 113821020,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 113831020,
@@ -8746,7 +9610,9 @@
       "base_card_id": 113831020,
       "normal_card_id": 113831020,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 114821010,
@@ -8782,7 +9648,9 @@
       "base_card_id": 114821010,
       "normal_card_id": 114821010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 114841020,
@@ -8818,7 +9686,9 @@
       "base_card_id": 114841020,
       "normal_card_id": 114841020,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 115831020,
@@ -8854,7 +9724,9 @@
       "base_card_id": 115831020,
       "normal_card_id": 115831020,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 116831010,
@@ -8890,7 +9762,9 @@
       "base_card_id": 116831010,
       "normal_card_id": 116831010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 117821020,
@@ -8926,7 +9800,9 @@
       "base_card_id": 117821020,
       "normal_card_id": 117821020,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 117841020,
@@ -8962,7 +9838,9 @@
       "base_card_id": 117841020,
       "normal_card_id": 117841020,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 118811030,
@@ -8998,7 +9876,9 @@
       "base_card_id": 118811030,
       "normal_card_id": 118811030,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 118831010,
@@ -9034,7 +9914,9 @@
       "base_card_id": 118831010,
       "normal_card_id": 118831010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 118841030,
@@ -9070,7 +9952,9 @@
       "base_card_id": 118841030,
       "normal_card_id": 118841030,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 121811030,
@@ -9106,7 +9990,9 @@
       "base_card_id": 121811030,
       "normal_card_id": 121811030,
       "format_type": 1,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 122841010,
@@ -9142,7 +10028,9 @@
       "base_card_id": 122841010,
       "normal_card_id": 122841010,
       "format_type": 1,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 123811030,
@@ -9178,7 +10066,9 @@
       "base_card_id": 123811030,
       "normal_card_id": 123811030,
       "format_type": 1,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 123821020,
@@ -9214,7 +10104,9 @@
       "base_card_id": 123821020,
       "normal_card_id": 123821020,
       "format_type": 1,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 123831020,
@@ -9250,7 +10142,9 @@
       "base_card_id": 123831020,
       "normal_card_id": 123831020,
       "format_type": 1,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 123841030,
@@ -9286,7 +10180,9 @@
       "base_card_id": 123841030,
       "normal_card_id": 123841030,
       "format_type": 1,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 810821010,
@@ -9322,7 +10218,9 @@
       "base_card_id": 810821010,
       "normal_card_id": 810821010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 900841060,
@@ -9358,7 +10256,9 @@
       "base_card_id": 900841060,
       "normal_card_id": 900841060,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 900841170,
@@ -9394,7 +10294,9 @@
       "base_card_id": 900841170,
       "normal_card_id": 900841170,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 900841180,
@@ -9430,7 +10332,9 @@
       "base_card_id": 900841180,
       "normal_card_id": 900841180,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 900841250,
@@ -9466,7 +10370,9 @@
       "base_card_id": 900841250,
       "normal_card_id": 900841250,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 900841260,
@@ -9502,7 +10408,9 @@
       "base_card_id": 900841260,
       "normal_card_id": 900841260,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 100824010,
@@ -9538,7 +10446,9 @@
       "base_card_id": 100824010,
       "normal_card_id": 100824010,
       "format_type": 1,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 110834010,
@@ -9574,7 +10484,9 @@
       "base_card_id": 110834010,
       "normal_card_id": 110834010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 111824010,
@@ -9610,7 +10522,9 @@
       "base_card_id": 111824010,
       "normal_card_id": 111824010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 112814010,
@@ -9646,7 +10560,9 @@
       "base_card_id": 112814010,
       "normal_card_id": 112814010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 116824010,
@@ -9682,7 +10598,9 @@
       "base_card_id": 116824010,
       "normal_card_id": 116824010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 116834010,
@@ -9718,7 +10636,9 @@
       "base_card_id": 116834010,
       "normal_card_id": 116834010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 810844010,
@@ -9754,7 +10674,9 @@
       "base_card_id": 810844010,
       "normal_card_id": 810844010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 820844010,
@@ -9790,7 +10712,9 @@
       "base_card_id": 820844010,
       "normal_card_id": 820844010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 900834040,
@@ -9826,7 +10750,9 @@
       "base_card_id": 900834040,
       "normal_card_id": 900834040,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 108822010,
@@ -9862,7 +10788,9 @@
       "base_card_id": 108822010,
       "normal_card_id": 108822010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 107811040,
@@ -9898,7 +10826,9 @@
       "base_card_id": 107811040,
       "normal_card_id": 107811040,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 107811120,
@@ -9934,7 +10864,9 @@
       "base_card_id": 107811120,
       "normal_card_id": 107811120,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 107821090,
@@ -9970,7 +10902,9 @@
       "base_card_id": 107821090,
       "normal_card_id": 107821090,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 107821100,
@@ -9985,7 +10919,7 @@
       "skill": "token_draw,powerup,attach_skill",
       "skill_condition": "character=me,character=me,character=me",
       "skill_target": "none,character=me&target=hand&card_type=unit&base_card_id=900811050,character=me&target=hand_other_self&card_type=unit&base_card_id=900811050",
-      "skill_option": "token_draw=900811050,add_life=1,skill=(skill:guard)(timing:resident)(condition:character=me)(target:character=me&target=self&card_type=unit)(option:none)(preprocess:none)",
+      "skill_option": "token_draw=900811050,add_life=1,skill=(skill:guard)(timing:when_change_inplay)(condition:character=me)(target:character=me&target=self&card_type=unit)(option:none)(preprocess:none)",
       "skill_preprocess": "none,none,none",
       "skill_disc": "ファンファーレ 操り人形1枚を手札に加える。自分の手札の操り人形すべては+0/+1されて、守護 を持つ。",
       "org_skill_disc": "[u][ffcd45]ファンファーレ[-][/u] [u][ffcd45]操り人形[-][/u]1枚を手札に加える。自分の手札の[u][ffcd45]操り人形[-][/u]すべては+0/+1されて、[u][ffcd45]守護[-][/u] を持つ。",
@@ -10006,7 +10940,9 @@
       "base_card_id": 107821100,
       "normal_card_id": 107821100,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 107831020,
@@ -10042,7 +10978,9 @@
       "base_card_id": 107831020,
       "normal_card_id": 107831020,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 107841020,
@@ -10078,7 +11016,9 @@
       "base_card_id": 107841020,
       "normal_card_id": 107841020,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 704841010,
@@ -10114,7 +11054,9 @@
       "base_card_id": 107841020,
       "normal_card_id": 704841010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 107841030,
@@ -10150,7 +11092,9 @@
       "base_card_id": 107841030,
       "normal_card_id": 107841030,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 108821020,
@@ -10186,7 +11130,9 @@
       "base_card_id": 108821020,
       "normal_card_id": 108821020,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 109811030,
@@ -10222,7 +11168,9 @@
       "base_card_id": 109811030,
       "normal_card_id": 109811030,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 109821020,
@@ -10258,7 +11206,9 @@
       "base_card_id": 109821020,
       "normal_card_id": 109821020,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 111811020,
@@ -10294,7 +11244,9 @@
       "base_card_id": 111811020,
       "normal_card_id": 111811020,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 111841010,
@@ -10330,7 +11282,9 @@
       "base_card_id": 111841010,
       "normal_card_id": 111841010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 113841020,
@@ -10366,7 +11320,9 @@
       "base_card_id": 113841020,
       "normal_card_id": 113841020,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 116831020,
@@ -10402,7 +11358,9 @@
       "base_card_id": 116831020,
       "normal_card_id": 116831020,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 117831010,
@@ -10438,7 +11396,9 @@
       "base_card_id": 117831010,
       "normal_card_id": 117831010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 117841030,
@@ -10474,7 +11434,9 @@
       "base_card_id": 117841030,
       "normal_card_id": 117841030,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 119831030,
@@ -10509,8 +11471,10 @@
       "copyright": null,
       "base_card_id": 119831030,
       "normal_card_id": 119831030,
-      "format_type": 1,
-      "restricted_count": 3
+      "format_type": 0,
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 120811020,
@@ -10546,7 +11510,9 @@
       "base_card_id": 120811020,
       "normal_card_id": 120811020,
       "format_type": 1,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 121831020,
@@ -10582,7 +11548,9 @@
       "base_card_id": 121831020,
       "normal_card_id": 121831020,
       "format_type": 1,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 122841020,
@@ -10618,7 +11586,9 @@
       "base_card_id": 122841020,
       "normal_card_id": 122841020,
       "format_type": 1,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 123811010,
@@ -10654,7 +11624,47 @@
       "base_card_id": 123811010,
       "normal_card_id": 123811010,
       "format_type": 1,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
+    },
+    {
+      "card_id": 124841010,
+      "foil_card_id": 124841011,
+      "card_set_id": 10024,
+      "card_name": "マグナセイバー",
+      "card_name_ruby": "マグナセイバー",
+      "is_foil": 0,
+      "char_type": 1,
+      "clan": 8,
+      "tribe_name": "宴楽",
+      "skill": "cant_attack,geton,damage,damage,getoff,metamorphose",
+      "skill_condition": "{me.inplay_self.geton_card.count}=0,{me.inplay_self.count}>0&{me.summoned_card.unit.tribe=banquet.base_cost<=4.count}>0,character=me,character=me,{me.self.geton_card.count}>0,{me.self.geton_card.count}>0",
+      "skill_target": "character=me,character=me&target=summoned_card&card_type=unit&tribe=banquet&base_cost<=4&is_inplay=true,character=op&target=inplay&card_type=unit,character=op&target=inplay&card_type=class,none,{me.self.getoff_card.unit}",
+      "skill_option": "cant_attack=all,none,damage=6,damage=3,none,metamorphose=124841010",
+      "skill_preprocess": "none,preprocess_condition=({me.inplay_self.geton_card.count}=0),none,none,none,none",
+      "skill_disc": "操縦 ； 元のコスト4以下の宴楽・フォロワー<br>操縦時 相手のフォロワーすべてに6ダメージ。相手のリーダーに3ダメージ。<br>操縦 していたフォロワーが離脱したとき、それはマグナセイバーに変身する。",
+      "org_skill_disc": "[u][ffcd45]操縦[-][/u] ； 元のコスト4以下の宴楽・フォロワー<br>[u][ffcd45]操縦時[-][/u] 相手のフォロワーすべてに6ダメージ。相手のリーダーに3ダメージ。<br>[u][ffcd45]操縦[-][/u] していたフォロワーが離脱したとき、それは[u][ffcd45]マグナセイバー[-][/u]に変身する。",
+      "evo_skill_disc": "進化前と同じ能力。",
+      "org_evo_skill_disc": "進化前と同じ能力。",
+      "cost": 5,
+      "atk": 6,
+      "life": 6,
+      "evo_atk": 8,
+      "evo_life": 8,
+      "rarity": 4,
+      "get_red_ether": 1000,
+      "use_red_ether": 3500,
+      "description": "『兜の間』のお客様、頭部カメラからの眺めは如何か！<br>映《バ》えてるならばそれでよし！決め台詞はご一緒に！<br>文明見参！真倶名誠刃《マグナセイバー》！<br>――マグナセイバー",
+      "evo_description": "武装成形開始！真倶名丸《マグナマル》、高速成形完了！<br>茶々子は火器管制を！商吉は制御演算をお頼み申す！<br>さぁ、お客様に示そうぞ！マグナセイバーしか勝たんと！<br>――マグナセイバー",
+      "cv": "小野大輔",
+      "copyright": null,
+      "base_card_id": 124841010,
+      "normal_card_id": 124841010,
+      "format_type": 1,
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 900811040,
@@ -10690,7 +11700,9 @@
       "base_card_id": 900811040,
       "normal_card_id": 900811040,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 900811080,
@@ -10726,7 +11738,9 @@
       "base_card_id": 900811080,
       "normal_card_id": 900811080,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 900811090,
@@ -10762,7 +11776,9 @@
       "base_card_id": 900811090,
       "normal_card_id": 900811090,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 900811100,
@@ -10798,7 +11814,9 @@
       "base_card_id": 900811100,
       "normal_card_id": 900811100,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 900821030,
@@ -10834,7 +11852,9 @@
       "base_card_id": 900821030,
       "normal_card_id": 900821030,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 900841270,
@@ -10870,7 +11890,9 @@
       "base_card_id": 900841270,
       "normal_card_id": 900841270,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 900841290,
@@ -10906,7 +11928,9 @@
       "base_card_id": 900841290,
       "normal_card_id": 900841290,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 107834010,
@@ -10942,7 +11966,9 @@
       "base_card_id": 107834010,
       "normal_card_id": 107834010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 108834010,
@@ -10978,7 +12004,9 @@
       "base_card_id": 108834010,
       "normal_card_id": 108834010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 109824010,
@@ -11014,7 +12042,9 @@
       "base_card_id": 109824010,
       "normal_card_id": 109824010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 109834010,
@@ -11050,7 +12080,9 @@
       "base_card_id": 109834010,
       "normal_card_id": 109834010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 117814010,
@@ -11086,7 +12118,9 @@
       "base_card_id": 117814010,
       "normal_card_id": 117814010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 820844020,
@@ -11122,7 +12156,9 @@
       "base_card_id": 820844020,
       "normal_card_id": 820844020,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 900844040,
@@ -11158,7 +12194,9 @@
       "base_card_id": 900844040,
       "normal_card_id": 900844040,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 800832010,
@@ -11194,7 +12232,9 @@
       "base_card_id": 800832010,
       "normal_card_id": 800832010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 100811050,
@@ -11230,7 +12270,9 @@
       "base_card_id": 100811050,
       "normal_card_id": 100811050,
       "format_type": 1,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 107811080,
@@ -11266,7 +12308,9 @@
       "base_card_id": 107811080,
       "normal_card_id": 107811080,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 107831010,
@@ -11302,7 +12346,9 @@
       "base_card_id": 107831010,
       "normal_card_id": 107831010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 109821010,
@@ -11338,7 +12384,9 @@
       "base_card_id": 109821010,
       "normal_card_id": 109821010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 110841030,
@@ -11374,7 +12422,9 @@
       "base_card_id": 110841030,
       "normal_card_id": 110841030,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 112841030,
@@ -11410,7 +12460,9 @@
       "base_card_id": 112841030,
       "normal_card_id": 112841030,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 113811030,
@@ -11446,7 +12498,9 @@
       "base_card_id": 113811030,
       "normal_card_id": 113811030,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 113841030,
@@ -11482,7 +12536,9 @@
       "base_card_id": 113841030,
       "normal_card_id": 113841030,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 114831010,
@@ -11518,7 +12574,9 @@
       "base_card_id": 114831010,
       "normal_card_id": 114831010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 116841030,
@@ -11554,7 +12612,9 @@
       "base_card_id": 116841030,
       "normal_card_id": 116841030,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 119811030,
@@ -11589,8 +12649,10 @@
       "copyright": null,
       "base_card_id": 119811030,
       "normal_card_id": 119811030,
-      "format_type": 1,
-      "restricted_count": 3
+      "format_type": 0,
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 120831010,
@@ -11626,7 +12688,9 @@
       "base_card_id": 120831010,
       "normal_card_id": 120831010,
       "format_type": 1,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 120841010,
@@ -11662,7 +12726,9 @@
       "base_card_id": 120841010,
       "normal_card_id": 120841010,
       "format_type": 1,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 900841070,
@@ -11698,7 +12764,47 @@
       "base_card_id": 900841070,
       "normal_card_id": 900841070,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
+    },
+    {
+      "card_id": 124834010,
+      "foil_card_id": 124834011,
+      "card_set_id": 10024,
+      "card_name": "マグナチェンジ",
+      "card_name_ruby": "マグナチェンジ",
+      "is_foil": 0,
+      "char_type": 4,
+      "clan": 8,
+      "tribe_name": "宴楽",
+      "skill": "summon_card,pp_modifier",
+      "skill_condition": "{me.inplay.unit_and_allfield.count}<5,character=me",
+      "skill_target": "character=me&target=deck&card_type=unit&clan=nemesis&base_cost=5&random_count=1,character=me&target=inplay&card_type=class",
+      "skill_option": "none,add_pp=3",
+      "skill_preprocess": "none,preprocess_condition=({me.inplay.unit.tribe=banquet.count}>0)",
+      "skill_disc": "元のコスト5のネメシス・フォロワーをランダムに1枚、自分のデッキから場に出す。<br>その後、自分の場に宴楽・フォロワーがいるなら、自分のPPを3回復。",
+      "org_skill_disc": "元のコスト5のネメシス・フォロワーをランダムに1枚、自分のデッキから場に出す。<br>その後、自分の場に宴楽・フォロワーがいるなら、自分のPPを3回復。",
+      "evo_skill_disc": "",
+      "org_evo_skill_disc": "",
+      "cost": 6,
+      "atk": 0,
+      "life": 0,
+      "evo_atk": 0,
+      "evo_life": 0,
+      "rarity": 3,
+      "get_red_ether": 250,
+      "use_red_ether": 800,
+      "description": "むむっ！センサーにヤバみな反応多数……敵襲でござる！<br>おもてなしモード中断……おけまる！戦闘モードへ移行！<br>動画を撮影される方はご準備を！――マグナチェンジッ！<br>――『絡繰り旅館業務日誌』、音声ファイル・５",
+      "evo_description": "",
+      "cv": "小野大輔",
+      "copyright": null,
+      "base_card_id": 124834010,
+      "normal_card_id": 124834010,
+      "format_type": 1,
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 107821050,
@@ -11734,7 +12840,9 @@
       "base_card_id": 107821050,
       "normal_card_id": 107821050,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 107831060,
@@ -11770,7 +12878,9 @@
       "base_card_id": 107831060,
       "normal_card_id": 107831060,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 108831010,
@@ -11785,7 +12895,7 @@
       "skill": "summon_token//attach_skill",
       "skill_condition": "character=me//character=me&target=inplay&card_type=unit&base_card_id=900831010",
       "skill_target": "none//character=me&target=inplay&card_type=unit&base_card_id=900831010&select_count=1",
-      "skill_option": "summon_token=900831010//skill=(skill:attack_count)(timing:resident)(condition:character=me)(target:character=me&target=self&card_type=unit)(option:attack_count=2)(preprocess:none)",
+      "skill_option": "summon_token=900831010//skill=(skill:attack_count)(timing:when_change_inplay)(condition:character=me)(target:character=me&target=self&card_type=unit)(option:attack_count=2)(preprocess:none)",
       "skill_preprocess": "none//none",
       "skill_disc": "ファンファーレ ヴィクトリア1体を出す。",
       "org_skill_disc": "[u][ffcd45]ファンファーレ[-][/u] [u][ffcd45]ヴィクトリア[-][/u]1体を出す。",
@@ -11806,7 +12916,9 @@
       "base_card_id": 108831010,
       "normal_card_id": 108831010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 108841020,
@@ -11842,7 +12954,9 @@
       "base_card_id": 108841020,
       "normal_card_id": 108841020,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 108841030,
@@ -11878,7 +12992,9 @@
       "base_card_id": 108841030,
       "normal_card_id": 108841030,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 109841010,
@@ -11914,7 +13030,9 @@
       "base_card_id": 109841010,
       "normal_card_id": 109841010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 110811020,
@@ -11950,7 +13068,9 @@
       "base_card_id": 110811020,
       "normal_card_id": 110811020,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 112841010,
@@ -11986,7 +13106,9 @@
       "base_card_id": 112841010,
       "normal_card_id": 112841010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 113831010,
@@ -12022,7 +13144,9 @@
       "base_card_id": 113831010,
       "normal_card_id": 113831010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 113841010,
@@ -12058,7 +13182,9 @@
       "base_card_id": 113841010,
       "normal_card_id": 113841010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 114811010,
@@ -12094,7 +13220,9 @@
       "base_card_id": 114811010,
       "normal_card_id": 114811010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 118841020,
@@ -12130,7 +13258,9 @@
       "base_card_id": 118841020,
       "normal_card_id": 118841020,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 716841010,
@@ -12166,7 +13296,9 @@
       "base_card_id": 118841020,
       "normal_card_id": 716841010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 119841030,
@@ -12201,8 +13333,10 @@
       "copyright": null,
       "base_card_id": 119841030,
       "normal_card_id": 119841030,
-      "format_type": 1,
-      "restricted_count": 3
+      "format_type": 0,
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 120841020,
@@ -12238,7 +13372,47 @@
       "base_card_id": 120841020,
       "normal_card_id": 120841020,
       "format_type": 1,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
+    },
+    {
+      "card_id": 716841020,
+      "foil_card_id": 716841021,
+      "card_set_id": 10020,
+      "card_name": "マグナゼロ",
+      "card_name_ruby": "マグナゼロ",
+      "is_foil": 0,
+      "char_type": 1,
+      "clan": 8,
+      "tribe_name": "機械",
+      "skill": "damage,damage,damage",
+      "skill_condition": "{me.game_resonance_start_count}<10,{me.game_resonance_start_count}>=10&{me.game_resonance_start_count}<20,{me.game_resonance_start_count}>=20",
+      "skill_target": "character=op&target=inplay&card_type=unit_and_class,character=op&target=inplay&card_type=unit_and_class,character=op&target=inplay&card_type=unit_and_class",
+      "skill_option": "damage=3,damage=10,damage=20",
+      "skill_preprocess": "none,none,none",
+      "skill_disc": "ファンファーレ 相手のリーダーと相手のフォロワーすべてに3ダメージ。「このバトル中、自分のリーダーが共鳴 でない状態から共鳴 状態になった回数」が10回以上なら、3ダメージではなく10ダメージ。20回以上なら、10ダメージではなく20ダメージ。",
+      "org_skill_disc": "[u][ffcd45]ファンファーレ[-][/u] 相手のリーダーと相手のフォロワーすべてに3ダメージ。「このバトル中、自分のリーダーが[u][ffcd45]共鳴[-][/u] でない状態から[u][ffcd45]共鳴[-][/u] 状態になった回数」が10回以上なら、3ダメージではなく10ダメージ。20回以上なら、10ダメージではなく20ダメージ。",
+      "evo_skill_disc": "",
+      "org_evo_skill_disc": "",
+      "cost": 7,
+      "atk": 5,
+      "life": 5,
+      "evo_atk": 7,
+      "evo_life": 7,
+      "rarity": 4,
+      "get_red_ether": 1000,
+      "use_red_ether": 0,
+      "description": "それは、封印されし禁断のプロトタイプ。<br>文明を滅ぼす力を持つ巨人。眠りより目覚め降臨する。<br>白き巨人の腕に搭載されし、古代兵器を奪うために。<br>「文明殲滅。マグナゼロ」",
+      "evo_description": "くっ……！やめてくれ、兄さん！貴方と戦いたくはない！<br>――マグナジャイアント<br>鈍いな……弟よ。勇気とやらの性能は、その程度か？<br>――マグナゼロ",
+      "cv": "梅原裕一郎",
+      "copyright": null,
+      "base_card_id": 120841020,
+      "normal_card_id": 716841020,
+      "format_type": 1,
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 121811020,
@@ -12274,7 +13448,47 @@
       "base_card_id": 121811020,
       "normal_card_id": 121811020,
       "format_type": 1,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
+    },
+    {
+      "card_id": 124811030,
+      "foil_card_id": 124811031,
+      "card_set_id": 10024,
+      "card_name": "クラウンドール",
+      "card_name_ruby": "クラウンドール",
+      "is_foil": 0,
+      "char_type": 1,
+      "clan": 8,
+      "tribe_name": "-",
+      "skill": "metamorphose",
+      "skill_condition": "character=me",
+      "skill_target": "character=both&target=inplay_other_self&card_type=unit",
+      "skill_option": "metamorphose=124811030",
+      "skill_preprocess": "none",
+      "skill_disc": "ファンファーレ 他のフォロワーすべてをクラウンドールに変身させる。",
+      "org_skill_disc": "[u][ffcd45]ファンファーレ[-][/u] 他のフォロワーすべてを[u][ffcd45]クラウンドール[-][/u]に変身させる。",
+      "evo_skill_disc": "",
+      "org_evo_skill_disc": "",
+      "cost": 7,
+      "atk": 1,
+      "life": 1,
+      "evo_atk": 3,
+      "evo_life": 3,
+      "rarity": 1,
+      "get_red_ether": 10,
+      "use_red_ether": 50,
+      "description": "新人君、調子はどう？稼いでる？……まだ体が硬いなぁ。<br>今の君は道化なんだ。違う自分になったと思って頑張れ！",
+      "evo_description": "人形の体にも慣れたようだね！関節の動きが滑らかだ！<br>大丈夫！故郷の家族のことなんて、すぐに忘れるからさ！",
+      "cv": "保志総一朗",
+      "copyright": null,
+      "base_card_id": 124811030,
+      "normal_card_id": 124811030,
+      "format_type": 1,
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 900811060,
@@ -12310,7 +13524,9 @@
       "base_card_id": 900811060,
       "normal_card_id": 900811060,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 900841080,
@@ -12346,7 +13562,9 @@
       "base_card_id": 900841080,
       "normal_card_id": 900841080,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 900814010,
@@ -12382,7 +13600,9 @@
       "base_card_id": 900814010,
       "normal_card_id": 900814010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 900834030,
@@ -12418,7 +13638,9 @@
       "base_card_id": 900834030,
       "normal_card_id": 900834030,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 107811110,
@@ -12454,7 +13676,9 @@
       "base_card_id": 107811110,
       "normal_card_id": 107811110,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 107831040,
@@ -12490,7 +13714,9 @@
       "base_card_id": 107831040,
       "normal_card_id": 107831040,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 107841010,
@@ -12526,7 +13752,9 @@
       "base_card_id": 107841010,
       "normal_card_id": 107841010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 108841010,
@@ -12562,7 +13790,9 @@
       "base_card_id": 108841010,
       "normal_card_id": 108841010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 706841010,
@@ -12598,7 +13828,9 @@
       "base_card_id": 108841010,
       "normal_card_id": 706841010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 111811010,
@@ -12634,7 +13866,9 @@
       "base_card_id": 111811010,
       "normal_card_id": 111811010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 112841020,
@@ -12670,7 +13904,9 @@
       "base_card_id": 112841020,
       "normal_card_id": 112841020,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 114841010,
@@ -12706,7 +13942,9 @@
       "base_card_id": 114841010,
       "normal_card_id": 114841010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 116821010,
@@ -12742,7 +13980,9 @@
       "base_card_id": 116821010,
       "normal_card_id": 116821010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 116841020,
@@ -12778,7 +14018,9 @@
       "base_card_id": 116841020,
       "normal_card_id": 116841020,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 118831020,
@@ -12814,7 +14056,9 @@
       "base_card_id": 118831020,
       "normal_card_id": 118831020,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 120831020,
@@ -12850,7 +14094,9 @@
       "base_card_id": 120831020,
       "normal_card_id": 120831020,
       "format_type": 1,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 900841020,
@@ -12886,7 +14132,9 @@
       "base_card_id": 900841020,
       "normal_card_id": 900841020,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 900841030,
@@ -12922,7 +14170,9 @@
       "base_card_id": 900841030,
       "normal_card_id": 900841030,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 900841100,
@@ -12958,7 +14208,9 @@
       "base_card_id": 900841100,
       "normal_card_id": 900841100,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 900841110,
@@ -12994,7 +14246,9 @@
       "base_card_id": 900841110,
       "normal_card_id": 900841110,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 900841120,
@@ -13030,7 +14284,9 @@
       "base_card_id": 900841120,
       "normal_card_id": 900841120,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 900841130,
@@ -13066,7 +14322,9 @@
       "base_card_id": 900841130,
       "normal_card_id": 900841130,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 900841200,
@@ -13102,7 +14360,9 @@
       "base_card_id": 900841200,
       "normal_card_id": 900841200,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 900841280,
@@ -13138,7 +14398,9 @@
       "base_card_id": 900841280,
       "normal_card_id": 900841280,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 900842030,
@@ -13174,7 +14436,9 @@
       "base_card_id": 900842030,
       "normal_card_id": 900842030,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 900842040,
@@ -13210,7 +14474,9 @@
       "base_card_id": 900842040,
       "normal_card_id": 900842040,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 107821060,
@@ -13225,7 +14491,7 @@
       "skill": "quick,token_draw,powerup,attach_skill",
       "skill_condition": "character=me,character=me,character=me,character=me",
       "skill_target": "character=me,none,character=me&target=hand&card_type=unit&base_card_id=900811050,character=me&target=hand&card_type=unit&base_card_id=900811050",
-      "skill_option": "none,token_draw=900811050,add_offense=1,skill=(skill:quick)(timing:resident)(condition:character=me)(target:character=me&target=self&card_type=unit)(option:none)(preprocess:none)",
+      "skill_option": "none,token_draw=900811050,add_offense=1,skill=(skill:quick)(timing:when_change_inplay)(condition:character=me)(target:character=me&target=self&card_type=unit)(option:none)(preprocess:none)",
       "skill_preprocess": "none,none,none,none",
       "skill_disc": "疾走 <br>ファンファーレ 操り人形1枚を手札に加える。自分の手札の操り人形すべては+1/+0されて、疾走 を持つ。",
       "org_skill_disc": "[u][ffcd45]疾走[-][/u] <br>[u][ffcd45]ファンファーレ[-][/u] [u][ffcd45]操り人形[-][/u]1枚を手札に加える。自分の手札の[u][ffcd45]操り人形[-][/u]すべては+1/+0されて、[u][ffcd45]疾走[-][/u] を持つ。",
@@ -13246,7 +14512,9 @@
       "base_card_id": 107821060,
       "normal_card_id": 107821060,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 107821080,
@@ -13282,7 +14550,9 @@
       "base_card_id": 107821080,
       "normal_card_id": 107821080,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 111831020,
@@ -13318,7 +14588,9 @@
       "base_card_id": 111831020,
       "normal_card_id": 111831020,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 111841020,
@@ -13354,7 +14626,9 @@
       "base_card_id": 111841020,
       "normal_card_id": 111841020,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 115841030,
@@ -13390,7 +14664,9 @@
       "base_card_id": 115841030,
       "normal_card_id": 115841030,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 121841020,
@@ -13426,7 +14702,9 @@
       "base_card_id": 121841020,
       "normal_card_id": 121841020,
       "format_type": 1,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 714841020,
@@ -13462,7 +14740,9 @@
       "base_card_id": 121841020,
       "normal_card_id": 714841020,
       "format_type": 1,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 122811030,
@@ -13498,7 +14778,9 @@
       "base_card_id": 122811030,
       "normal_card_id": 122811030,
       "format_type": 1,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 810821020,
@@ -13513,7 +14795,7 @@
       "skill": "quick,token_draw,powerup,attach_skill",
       "skill_condition": "character=me,character=me,character=me,character=me",
       "skill_target": "character=me,none,character=me&target=hand&card_type=unit&base_card_id=900811050,character=me&target=hand&card_type=unit&base_card_id=900811050",
-      "skill_option": "none,token_draw=900811050,add_offense=1,skill=(skill:quick)(timing:resident)(condition:character=me)(target:character=me&target=self&card_type=unit)(option:none)(preprocess:none)",
+      "skill_option": "none,token_draw=900811050,add_offense=1,skill=(skill:quick)(timing:when_change_inplay)(condition:character=me)(target:character=me&target=self&card_type=unit)(option:none)(preprocess:none)",
       "skill_preprocess": "none,none,none,none",
       "skill_disc": "",
       "org_skill_disc": "",
@@ -13534,7 +14816,9 @@
       "base_card_id": 810821020,
       "normal_card_id": 810821020,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 900841210,
@@ -13570,7 +14854,9 @@
       "base_card_id": 900841210,
       "normal_card_id": 900841210,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 900841220,
@@ -13606,7 +14892,9 @@
       "base_card_id": 900841220,
       "normal_card_id": 900841220,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 900841230,
@@ -13642,7 +14930,9 @@
       "base_card_id": 900841230,
       "normal_card_id": 900841230,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 115841020,
@@ -13678,7 +14968,9 @@
       "base_card_id": 115841020,
       "normal_card_id": 115841020,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 119831020,
@@ -13713,8 +15005,10 @@
       "copyright": null,
       "base_card_id": 119831020,
       "normal_card_id": 119831020,
-      "format_type": 1,
-      "restricted_count": 3
+      "format_type": 0,
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 900831050,
@@ -13750,7 +15044,9 @@
       "base_card_id": 900831050,
       "normal_card_id": 900831050,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 900842010,
@@ -13786,7 +15082,9 @@
       "base_card_id": 900842010,
       "normal_card_id": 900842010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 900842020,
@@ -13822,7 +15120,9 @@
       "base_card_id": 900842020,
       "normal_card_id": 900842020,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 120841030,
@@ -13858,7 +15158,47 @@
       "base_card_id": 120841030,
       "normal_card_id": 120841030,
       "format_type": 1,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
+    },
+    {
+      "card_id": 810841020,
+      "foil_card_id": 810841021,
+      "card_set_id": 90000,
+      "card_name": null,
+      "card_name_ruby": null,
+      "is_foil": 0,
+      "char_type": 1,
+      "clan": 8,
+      "tribe_name": "-",
+      "skill": "cost_change,quick,destroy",
+      "skill_condition": "{me.hand_self.unit.count}>0,character=me,character=me",
+      "skill_target": "character=me&target=hand_self,character=me,character=op&target=inplay&card_type=unit&select_count=1",
+      "skill_option": "add=0-{me.inplay.class.turn_caused_damage_from_unit=me:0.sum},none,none",
+      "skill_preprocess": "none,none,none",
+      "skill_disc": "",
+      "org_skill_disc": "",
+      "evo_skill_disc": "",
+      "org_evo_skill_disc": "",
+      "cost": 30,
+      "atk": 9,
+      "life": 9,
+      "evo_atk": 11,
+      "evo_life": 11,
+      "rarity": 4,
+      "get_red_ether": 0,
+      "use_red_ether": 0,
+      "description": "",
+      "evo_description": "",
+      "cv": "-",
+      "copyright": null,
+      "base_card_id": 810841020,
+      "normal_card_id": 810841020,
+      "format_type": 0,
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     }
   ],
   "errors": []

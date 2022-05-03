@@ -22,9 +22,12 @@ def main(input_file, out_dir):
 
         for card in tqdm(cards_list):
             if card['card_name'] is None:
+                print('already exist')
                 continue
             card_id = str(card['card_id'])
             output = out_dir+'/C_'+card_id+'.png'
+            if os.path.isdir(out_dir+'/'+card_id+'.png'):
+                continue
             with open(output, 'wb') as handle:
                 urllib.request.urlretrieve(
                     BASE_CARD_URL+card_id+'.png', output)

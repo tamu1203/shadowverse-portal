@@ -34,7 +34,9 @@
       "base_card_id": 820141010,
       "normal_card_id": 820141010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 900111020,
@@ -70,7 +72,9 @@
       "base_card_id": 900111020,
       "normal_card_id": 900111020,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 900131040,
@@ -106,7 +110,9 @@
       "base_card_id": 900131040,
       "normal_card_id": 900131040,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 110124010,
@@ -142,7 +148,9 @@
       "base_card_id": 110124010,
       "normal_card_id": 110124010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 900134040,
@@ -178,7 +186,9 @@
       "base_card_id": 900134040,
       "normal_card_id": 900134040,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 900134050,
@@ -214,7 +224,9 @@
       "base_card_id": 900134050,
       "normal_card_id": 900134050,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 900144020,
@@ -250,7 +262,9 @@
       "base_card_id": 900144020,
       "normal_card_id": 900144020,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 900144030,
@@ -286,7 +300,9 @@
       "base_card_id": 900144030,
       "normal_card_id": 900144030,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 900144070,
@@ -322,7 +338,9 @@
       "base_card_id": 900144070,
       "normal_card_id": 900144070,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 900144090,
@@ -358,7 +376,9 @@
       "base_card_id": 900144090,
       "normal_card_id": 900144090,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 100111010,
@@ -390,11 +410,13 @@
       "description": "妖精はとっても寂しがり屋だから、いつでも友達と一緒ナノ！ワタシに痛いことしたら、ワタシの友達がぷんぷんしちゃうノ！",
       "evo_description": "ワタシにイタイコトする人は、悪い人ナノ！悪い人はみんなに言いつけちゃうノ！でも、仲良くしてくれるなら、妖精はニンゲンの味方ナノ！",
       "cv": "辻あゆみ",
-      "copyright": "",
+      "copyright": null,
       "base_card_id": 100111010,
       "normal_card_id": 100111010,
       "format_type": 1,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 101111010,
@@ -426,11 +448,13 @@
       "description": "自然と共に生きるコトが、エルフ族の決まりなの。でも、オトナになれば外の世界に出ていいんだって。すっごく待ち遠しいの！",
       "evo_description": "故郷の森はだーいすきだけど…外の世界も知りたいんだ。だから、あのね…冒険に出ようかなって思うの！もう立派なオトナだし…大丈夫だよね？",
       "cv": "門脇舞以",
-      "copyright": "",
+      "copyright": null,
       "base_card_id": 101111010,
       "normal_card_id": 101111010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 101111020,
@@ -462,11 +486,13 @@
       "description": "森を魔の手から守るために、私は戦う！もう二度と…仲間の命は奪わせない！",
       "evo_description": "もう泣くのはやめたの！力が無くても、私は戦える！勇気があれば何でもできる！妖精の盾よ…私に力を貸して！",
       "cv": "緒乃冬華",
-      "copyright": "",
+      "copyright": null,
       "base_card_id": 101111020,
       "normal_card_id": 101111020,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 103111050,
@@ -498,11 +524,13 @@
       "description": "見て見て！こんな高いところまで登れるようになったの！このままいっぱいオトナになるの！",
       "evo_description": "もっとオトナになったら、森の外に出るの！それでそれで、立派なねこむすめになるのー！",
       "cv": "金田朋子",
-      "copyright": "",
+      "copyright": null,
       "base_card_id": 103111050,
       "normal_card_id": 103111050,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 110141020,
@@ -538,7 +566,9 @@
       "base_card_id": 110141020,
       "normal_card_id": 110141020,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 111111030,
@@ -574,7 +604,9 @@
       "base_card_id": 111111030,
       "normal_card_id": 111111030,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 112111030,
@@ -610,7 +642,9 @@
       "base_card_id": 112111030,
       "normal_card_id": 112111030,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 113131010,
@@ -646,7 +680,9 @@
       "base_card_id": 113131010,
       "normal_card_id": 113131010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 113131030,
@@ -682,7 +718,9 @@
       "base_card_id": 113131030,
       "normal_card_id": 113131030,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 115111020,
@@ -718,7 +756,9 @@
       "base_card_id": 115111020,
       "normal_card_id": 115111020,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 115141030,
@@ -754,7 +794,9 @@
       "base_card_id": 115141030,
       "normal_card_id": 115141030,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 116111030,
@@ -790,7 +832,9 @@
       "base_card_id": 116111030,
       "normal_card_id": 116111030,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 117121020,
@@ -826,7 +870,9 @@
       "base_card_id": 117121020,
       "normal_card_id": 117121020,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 118111030,
@@ -862,7 +908,9 @@
       "base_card_id": 118111030,
       "normal_card_id": 118111030,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 118141010,
@@ -898,7 +946,9 @@
       "base_card_id": 118141010,
       "normal_card_id": 118141010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 119121010,
@@ -933,8 +983,10 @@
       "copyright": null,
       "base_card_id": 119121010,
       "normal_card_id": 119121010,
-      "format_type": 1,
-      "restricted_count": 3
+      "format_type": 0,
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 120141020,
@@ -970,7 +1022,9 @@
       "base_card_id": 120141020,
       "normal_card_id": 120141020,
       "format_type": 1,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 716141010,
@@ -1006,7 +1060,9 @@
       "base_card_id": 120141020,
       "normal_card_id": 716141010,
       "format_type": 1,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 122131010,
@@ -1042,7 +1098,9 @@
       "base_card_id": 122131010,
       "normal_card_id": 122131010,
       "format_type": 1,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 122131020,
@@ -1078,7 +1136,9 @@
       "base_card_id": 122131020,
       "normal_card_id": 122131020,
       "format_type": 1,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 900111010,
@@ -1110,11 +1170,13 @@
       "description": "森。泉。花畑。妖精たちは何処にでも居る。その姿が見えないのなら、心が汚れてしまっている証拠だ。ほら、今も…すぐ側に。",
       "evo_description": "気紛れで、気分屋で、悪戯好きで、お転婆。だが、妖精はどんな種族よりも情が厚い。仲間や棲家を護るためならば、彼女たちは喜んでその命を投げ打つだろう。",
       "cv": "明坂聡美",
-      "copyright": "",
+      "copyright": null,
       "base_card_id": 900111010,
       "normal_card_id": 900111010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 101114010,
@@ -1146,11 +1208,13 @@
       "description": "木々の声に従い、森の者らは帰還する。",
       "evo_description": "",
       "cv": "-",
-      "copyright": "",
+      "copyright": null,
       "base_card_id": 101114010,
       "normal_card_id": 101114010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 112114010,
@@ -1186,7 +1250,9 @@
       "base_card_id": 101114010,
       "normal_card_id": 112114010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 709114010,
@@ -1222,7 +1288,9 @@
       "base_card_id": 101114010,
       "normal_card_id": 709114010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 101114050,
@@ -1254,11 +1322,13 @@
       "description": "みんなおいで～！侵入者さんとあそびましょ～！",
       "evo_description": "",
       "cv": "-",
-      "copyright": "",
+      "copyright": null,
       "base_card_id": 101114050,
       "normal_card_id": 101114050,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 110114010,
@@ -1294,7 +1364,9 @@
       "base_card_id": 101114050,
       "normal_card_id": 110114010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 103114020,
@@ -1326,11 +1398,13 @@
       "description": "なに、じゃれついてるだけさ。今のところはな。",
       "evo_description": "",
       "cv": "-",
-      "copyright": "",
+      "copyright": null,
       "base_card_id": 103114020,
       "normal_card_id": 103114020,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 106114010,
@@ -1362,11 +1436,13 @@
       "description": "弦の軋みも、浅い吐息も、風が葉を薙ぐ音で掻き消える。<br>静かに待つ。ともすれば、穏やかとも称せるほどに。<br>はやる心は怯えの証。森の戦士にそれは無縁だ。<br>――『エルフの活劇』、迎撃編",
       "evo_description": "",
       "cv": "-",
-      "copyright": "",
+      "copyright": null,
       "base_card_id": 106114010,
       "normal_card_id": 106114010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 114114010,
@@ -1402,7 +1478,9 @@
       "base_card_id": 106114010,
       "normal_card_id": 114114010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 702114010,
@@ -1438,7 +1516,9 @@
       "base_card_id": 106114010,
       "normal_card_id": 702114010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 107134010,
@@ -1474,7 +1554,9 @@
       "base_card_id": 107134010,
       "normal_card_id": 107134010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 114124010,
@@ -1510,7 +1592,9 @@
       "base_card_id": 114124010,
       "normal_card_id": 114124010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 114134010,
@@ -1525,7 +1609,7 @@
       "skill": "powerup,attach_skill,pp_fixeduse,attach_skill",
       "skill_condition": "character=me,character=me&pp_count<4,pp_count>=4,pp_count>=4",
       "skill_target": "character=me&target=hand_other_self&card_type=unit&base_cost<=1,character=me&target=hand_other_self&card_type=unit&base_cost<=1,none,character=me&target=hand_other_self&card_type=unit&base_cost<=1",
-      "skill_option": "add_offense=1,skill=(skill:rush)(timing:resident)(condition:character=me)(target:character=me&target=self&card_type=unit)(option:none)(preprocess:none),fixeduse=4,skill=(skill:quick)(timing:resident)(condition:character=me)(target:character=me&target=self&card_type=unit)(option:none)(preprocess:none)",
+      "skill_option": "add_offense=1,skill=(skill:rush)(timing:when_change_inplay)(condition:character=me)(target:character=me&target=self&card_type=unit)(option:none)(preprocess:none),fixeduse=4,skill=(skill:quick)(timing:when_change_inplay)(condition:character=me)(target:character=me&target=self&card_type=unit)(option:none)(preprocess:none)",
       "skill_preprocess": "none,none,none,none",
       "skill_disc": "自分の手札の元のコスト1以下のフォロワーすべては+1/+0されて、突進 を持つ。<br>エンハンス 4； 突進 ではなく疾走 を持つ。",
       "org_skill_disc": "自分の手札の元のコスト1以下のフォロワーすべては+1/+0されて、[u][ffcd45]突進[-][/u] を持つ。<br>[u][ffcd45]エンハンス[-][/u] 4； [u][ffcd45]突進[-][/u] ではなく[u][ffcd45]疾走[-][/u] を持つ。",
@@ -1546,7 +1630,9 @@
       "base_card_id": 114134010,
       "normal_card_id": 114134010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 115114010,
@@ -1582,7 +1668,9 @@
       "base_card_id": 115114010,
       "normal_card_id": 115114010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 115124010,
@@ -1618,7 +1706,9 @@
       "base_card_id": 115124010,
       "normal_card_id": 115124010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 713124010,
@@ -1654,7 +1744,9 @@
       "base_card_id": 115124010,
       "normal_card_id": 713124010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 121114010,
@@ -1690,7 +1782,9 @@
       "base_card_id": 121114010,
       "normal_card_id": 121114010,
       "format_type": 1,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 121134010,
@@ -1726,7 +1820,9 @@
       "base_card_id": 121134010,
       "normal_card_id": 121134010,
       "format_type": 1,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 122134010,
@@ -1762,7 +1858,9 @@
       "base_card_id": 122134010,
       "normal_card_id": 122134010,
       "format_type": 1,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 123124010,
@@ -1777,7 +1875,7 @@
       "skill": "return_card,attach_skill",
       "skill_condition": "character=me,character=me",
       "skill_target": "character=me&target=inplay&card_type=unit&clan=elf&select_count=1,character=me&target=last_target&card_type=unit",
-      "skill_option": "none,skill=(skill:consume_ep_modifier)(timing:resident)(condition:character=me)(target:character=me&target=self)(option:none)(preprocess:none)",
+      "skill_option": "none,skill=(skill:consume_ep_modifier)(timing:when_change_inplay)(condition:character=me)(target:character=me&target=self)(option:none)(preprocess:none)",
       "skill_preprocess": "none,none",
       "skill_disc": "自分のエルフ・フォロワー1体を手札に戻す。<br>それは「EPを消費せず進化できる」を持つ。（1ターンに1体しか進化できない制限はある）",
       "org_skill_disc": "自分のエルフ・フォロワー1体を手札に戻す。<br>それは「EPを消費せず進化できる」を持つ。（1ターンに1体しか進化できない制限はある）",
@@ -1798,7 +1896,9 @@
       "base_card_id": 123124010,
       "normal_card_id": 123124010,
       "format_type": 1,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 123134010,
@@ -1834,7 +1934,47 @@
       "base_card_id": 123134010,
       "normal_card_id": 123134010,
       "format_type": 1,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
+    },
+    {
+      "card_id": 124124010,
+      "foil_card_id": 124124011,
+      "card_set_id": 10024,
+      "card_name": "翠緑の加護",
+      "card_name_ruby": "[rub<すいりょく>]翠緑[/rub]の[rub<かご>]加護[/rub]",
+      "is_foil": 0,
+      "char_type": 4,
+      "clan": 1,
+      "tribe_name": "-",
+      "skill": "powerup,draw",
+      "skill_condition": "character=me,character=me",
+      "skill_target": "character=me&target=inplay&card_type=unit&clan=elf&select_count=1,character=me&target=deck&card_type=all&random_count=1",
+      "skill_option": "add_life=2,none",
+      "skill_preprocess": "none,none",
+      "skill_disc": "自分のエルフ・フォロワー1体を+0/+2する。<br>カードを1枚引く。",
+      "org_skill_disc": "自分のエルフ・フォロワー1体を+0/+2する。<br>カードを1枚引く。",
+      "evo_skill_disc": "",
+      "org_evo_skill_disc": "",
+      "cost": 1,
+      "atk": 0,
+      "life": 0,
+      "evo_atk": 0,
+      "evo_life": 0,
+      "rarity": 2,
+      "get_red_ether": 50,
+      "use_red_ether": 200,
+      "description": "エルフは加護を求め、森は養分を欲す。<br>互いの関係は、利害の種が咲かせた花とも考えられる。",
+      "evo_description": "",
+      "cv": "-",
+      "copyright": null,
+      "base_card_id": 124124010,
+      "normal_card_id": 124124010,
+      "format_type": 1,
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 800114010,
@@ -1870,7 +2010,9 @@
       "base_card_id": 800114010,
       "normal_card_id": 800114010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 800114020,
@@ -1906,7 +2048,9 @@
       "base_card_id": 800114020,
       "normal_card_id": 800114020,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 800114030,
@@ -1942,7 +2086,9 @@
       "base_card_id": 800114030,
       "normal_card_id": 800114030,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 800124020,
@@ -1978,7 +2124,85 @@
       "base_card_id": 800124020,
       "normal_card_id": 800124020,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
+    },
+    {
+      "card_id": 800124030,
+      "foil_card_id": 800124031,
+      "card_set_id": 90000,
+      "card_name": null,
+      "card_name_ruby": null,
+      "is_foil": 0,
+      "char_type": 4,
+      "clan": 1,
+      "tribe_name": "-",
+      "skill": "return_card,draw",
+      "skill_condition": "character=me,character=me",
+      "skill_target": "character=me&target=inplay&card_type=unit_and_allfield&select_count=1,character=me&target=deck&card_type=unit&clan=elf&random_count=1",
+      "skill_option": "none,none",
+      "skill_preprocess": "none,none",
+      "skill_disc": "",
+      "org_skill_disc": "",
+      "evo_skill_disc": "",
+      "org_evo_skill_disc": "",
+      "cost": 1,
+      "atk": 0,
+      "life": 0,
+      "evo_atk": 0,
+      "evo_life": 0,
+      "rarity": 2,
+      "get_red_ether": 0,
+      "use_red_ether": 0,
+      "description": "",
+      "evo_description": "",
+      "cv": "-",
+      "copyright": null,
+      "base_card_id": 800124030,
+      "normal_card_id": 800124030,
+      "format_type": 0,
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
+    },
+    {
+      "card_id": 800124040,
+      "foil_card_id": 800124041,
+      "card_set_id": 90000,
+      "card_name": null,
+      "card_name_ruby": null,
+      "is_foil": 0,
+      "char_type": 4,
+      "clan": 1,
+      "tribe_name": "-",
+      "skill": "return_card,draw",
+      "skill_condition": "character=me,character=me",
+      "skill_target": "character=me&target=inplay&card_type=unit_and_allfield&select_count=1,character=me&target=deck&card_type=unit&clan=elf&random_count=1",
+      "skill_option": "none,none",
+      "skill_preprocess": "none,none",
+      "skill_disc": "",
+      "org_skill_disc": "",
+      "evo_skill_disc": "",
+      "org_evo_skill_disc": "",
+      "cost": 1,
+      "atk": 0,
+      "life": 0,
+      "evo_atk": 0,
+      "evo_life": 0,
+      "rarity": 2,
+      "get_red_ether": 0,
+      "use_red_ether": 0,
+      "description": "",
+      "evo_description": "",
+      "cv": "-",
+      "copyright": null,
+      "base_card_id": 800124030,
+      "normal_card_id": 800124040,
+      "format_type": 0,
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 800134010,
@@ -2014,7 +2238,9 @@
       "base_card_id": 800134010,
       "normal_card_id": 800134010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 800134020,
@@ -2050,7 +2276,9 @@
       "base_card_id": 800134020,
       "normal_card_id": 800134020,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 800134030,
@@ -2086,7 +2314,9 @@
       "base_card_id": 800134030,
       "normal_card_id": 800134030,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 800134040,
@@ -2122,7 +2352,9 @@
       "base_card_id": 800134040,
       "normal_card_id": 800134040,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 800144030,
@@ -2158,7 +2390,9 @@
       "base_card_id": 800144030,
       "normal_card_id": 800144030,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 800144040,
@@ -2194,7 +2428,9 @@
       "base_card_id": 800144040,
       "normal_card_id": 800144040,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 800144050,
@@ -2230,7 +2466,9 @@
       "base_card_id": 800144050,
       "normal_card_id": 800144050,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 800144060,
@@ -2266,7 +2504,9 @@
       "base_card_id": 800144060,
       "normal_card_id": 800144060,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 800144070,
@@ -2302,7 +2542,9 @@
       "base_card_id": 800144070,
       "normal_card_id": 800144070,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 810134020,
@@ -2338,7 +2580,9 @@
       "base_card_id": 810134020,
       "normal_card_id": 810134020,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 900124010,
@@ -2374,7 +2618,9 @@
       "base_card_id": 900124010,
       "normal_card_id": 900124010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 900124020,
@@ -2410,7 +2656,9 @@
       "base_card_id": 900124020,
       "normal_card_id": 900124020,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 900144040,
@@ -2446,7 +2694,9 @@
       "base_card_id": 900144040,
       "normal_card_id": 900144040,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 900144050,
@@ -2482,7 +2732,9 @@
       "base_card_id": 900144050,
       "normal_card_id": 900144050,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 900144080,
@@ -2518,7 +2770,9 @@
       "base_card_id": 900144080,
       "normal_card_id": 900144080,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 900144110,
@@ -2554,7 +2808,9 @@
       "base_card_id": 900144110,
       "normal_card_id": 900144110,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 101122020,
@@ -2586,11 +2842,13 @@
       "description": "心優しき草人族は、力を持たぬ者に森林の祝福を与えると言う。",
       "evo_description": "",
       "cv": "-",
-      "copyright": "",
+      "copyright": null,
       "base_card_id": 101122020,
       "normal_card_id": 101122020,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 106133010,
@@ -2622,11 +2880,13 @@
       "description": "妖精の囁きは、悪意と罠と真理で成り立つ。<br>真理のみを摘み上げ、それを積み上げれば、<br>瞬きと悠久は同義となる。<br>――妖精使いの言葉",
       "evo_description": "",
       "cv": "-",
-      "copyright": "",
+      "copyright": null,
       "base_card_id": 106133010,
       "normal_card_id": 106133010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 107113010,
@@ -2662,7 +2922,9 @@
       "base_card_id": 107113010,
       "normal_card_id": 107113010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 109113010,
@@ -2698,7 +2960,9 @@
       "base_card_id": 109113010,
       "normal_card_id": 109113010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 800113010,
@@ -2734,7 +2998,9 @@
       "base_card_id": 800113010,
       "normal_card_id": 800113010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 800113020,
@@ -2770,7 +3036,9 @@
       "base_card_id": 800113020,
       "normal_card_id": 800113020,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 800143010,
@@ -2806,7 +3074,9 @@
       "base_card_id": 800143010,
       "normal_card_id": 800143010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 800143020,
@@ -2842,7 +3112,9 @@
       "base_card_id": 800143020,
       "normal_card_id": 800143020,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 900113010,
@@ -2878,7 +3150,9 @@
       "base_card_id": 900113010,
       "normal_card_id": 900113010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 900113020,
@@ -2914,7 +3188,9 @@
       "base_card_id": 900113020,
       "normal_card_id": 900113020,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 900143010,
@@ -2950,7 +3226,9 @@
       "base_card_id": 900143010,
       "normal_card_id": 900143010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 100111020,
@@ -2982,11 +3260,13 @@
       "description": "妖精さん、今日も見回りありがとう！森の様子はどうだった？そう、いつも通り平穏なのね！",
       "evo_description": "妖精さんたちが居てくれる限り、この森はずぅっと安全ね。でも、無理はしちゃ駄目よ？貴女たちも、この森の一部なんだから！",
       "cv": "水橋かおり",
-      "copyright": "",
+      "copyright": null,
       "base_card_id": 100111020,
       "normal_card_id": 100111020,
       "format_type": 1,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 100111040,
@@ -3018,11 +3298,13 @@
       "description": "他の種族に比べれば、私たちエルフ族はとても非力な存在よ。だけど、私たちには絆が有る。協力し合う、団結の心が有るわ！",
       "evo_description": "森は私たちの聖域よ。悪しき者は絶対に近付けさせないわ！もし、自然に仇なすと言うのならば…私たちエルフ族が相手になるんだから！",
       "cv": "大関英里",
-      "copyright": "",
+      "copyright": null,
       "base_card_id": 100111040,
       "normal_card_id": 100111040,
       "format_type": 1,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 100121020,
@@ -3054,11 +3336,13 @@
       "description": "母なる大地を離れ、我が手に集え…鋼の元素！鉱物の大量にある洞窟の中ならば、私の力を最大限に引き出せるわ！さあ、ここは私に任せて！",
       "evo_description": "鋼の元素よ…我が敵を貫きなさい！ふふ！ざっとこんなもんね！元素魔法は形が大事！フォームの美しさと正確さ…それにファッション！魔法使いらしさが整えば、元素の流れも整うのよ！",
       "cv": "ブリドカットセーラ恵美",
-      "copyright": "",
+      "copyright": null,
       "base_card_id": 100121020,
       "normal_card_id": 100121020,
       "format_type": 1,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 101111030,
@@ -3090,11 +3374,13 @@
       "description": "旅人サン、もしかして道に迷っちゃったんですか？ならお任せください！私がぱぱーっと外までご案内しちゃいますよ！",
       "evo_description": "ほ、ほら外ですよ！ね？ね！？…え？ずいぶん迷った？じ、実は一本だけ道を間違えちゃって…。あ、お、怒らないで！次は頑張りますから！だから…どうかまた、私に道案内させてください…！",
       "cv": "潘めぐみ",
-      "copyright": "",
+      "copyright": null,
       "base_card_id": 101111030,
       "normal_card_id": 101111030,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 101111040,
@@ -3126,11 +3412,13 @@
       "description": "妖精さんたち…お願い！私の光に集まって！貴女たちの力で、邪悪を払って欲しいの！",
       "evo_description": "妖精さんたち…集まってくれてありがとう！さぁ！私と一緒にこの森を護りましょう！",
       "cv": "三澤紗千香",
-      "copyright": "",
+      "copyright": null,
       "base_card_id": 101111040,
       "normal_card_id": 101111040,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 101111070,
@@ -3162,11 +3450,13 @@
       "description": "戦の瘴気にあてられて、この森は穢れてしまった…。ああ。神樹さま…どうかこの森を元の姿へと戻してください…！",
       "evo_description": "まだか細いけど…確かに聞こえる…神樹さまの声が…！森はまだ生きている！きっと、神樹様の力が瘴気を祓うでしょう！",
       "cv": "喜多村英梨",
-      "copyright": "",
+      "copyright": null,
       "base_card_id": 101111070,
       "normal_card_id": 101111070,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 101111090,
@@ -3198,11 +3488,13 @@
       "description": "森の仲間を攫った者たちめ…ようやく追い詰めたぞ！幾ら城塞に籠ろうとも、無駄なことだ！みんな、待っていてくれ！今すぐ、助けに行くぞ！",
       "evo_description": "城塞攻略は一人の力では成し得ない…確かにその通りだ。しかし、私は一人ではない！攫われた仲間たちの残り香が、この城塞への侵入経路を確かに示していてくれたのだ！",
       "cv": "水沢史絵",
-      "copyright": "",
+      "copyright": null,
       "base_card_id": 101111090,
       "normal_card_id": 101111090,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 101121020,
@@ -3234,11 +3526,13 @@
       "description": "はい、ワン・ツー！ワン・ツー！！あなたも一緒に、ワン・ツー！楽しいことはカラダいっぱいで楽しむのが一番です！一緒に踊りましょう！",
       "evo_description": "なんてったって今日はお祭り！みんなで踊って楽しめば、つらいことも！吹き飛んじゃいます！さあ、いきますよ！全軍突撃！",
       "cv": "潘めぐみ",
-      "copyright": "",
+      "copyright": null,
       "base_card_id": 101121020,
       "normal_card_id": 101121020,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 101131020,
@@ -3270,11 +3564,13 @@
       "description": "始めは小さな存在に過ぎなかった。魔女に出会い、力を与えられることで…その姿は膨らみ、全身を覆う殻は厚くなった。",
       "evo_description": "鈍く光る両目に感情はなく、その耳には断末魔も届かない。魔女に操られし邪悪なる牙は…ただ悪戯に破滅を撒き散らす。",
       "cv": "-",
-      "copyright": "",
+      "copyright": null,
       "base_card_id": 101131020,
       "normal_card_id": 101131020,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 102111010,
@@ -3306,11 +3602,13 @@
       "description": "この匂い、かいでみて下さいよ！どうです、いい匂いでしょ？…あれ、そうでもない？",
       "evo_description": "むぅ…次こそステキな香りを生み出してみせますよ！まずはドワーフの汗を入れてぇ…それから蝙蝠の血を…。",
       "cv": "ゆきのさつき",
-      "copyright": "",
+      "copyright": null,
       "base_card_id": 102111010,
       "normal_card_id": 102111010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 102111020,
@@ -3342,11 +3640,13 @@
       "description": "その詩に引き寄せられて、妖精たちが現れる。",
       "evo_description": "その詩に惹きつけられて、妖精たちが踊り出す。",
       "cv": "森田成一",
-      "copyright": "",
+      "copyright": null,
       "base_card_id": 102111020,
       "normal_card_id": 102111020,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 102131030,
@@ -3378,11 +3678,13 @@
       "description": "私、森のみんなの助けになりたいんだ。だって私、この森がだーいすきだから！",
       "evo_description": "だいすきな物のためなら、いくらでも頑張れちゃうんだ！だからみんな、もっと私に頼ってね！",
       "cv": "斎藤桃子",
-      "copyright": "",
+      "copyright": null,
       "base_card_id": 102131030,
       "normal_card_id": 102131030,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 103121030,
@@ -3414,11 +3716,13 @@
       "description": "そりすべりに、ゆきがっせんに、ゆきだるま！リリ、ゆきあそび大好きなの！",
       "evo_description": "ゆきだるまって、まぁるくて面白いの！だから、もっといっぱい作っちゃうの！",
       "cv": "井口裕香",
-      "copyright": "",
+      "copyright": null,
       "base_card_id": 103121030,
       "normal_card_id": 103121030,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 104111020,
@@ -3450,11 +3754,13 @@
       "description": "こんな森の奥深くまで……どうして来てしまったの？……私たちを傷付けるつもり？駄目よ、そんなことしたら……。",
       "evo_description": "私はこの森の一部。この森は私の一部。だから傷付けるなら……許してあげない。土の下で眠ってもらうんだからね……。",
       "cv": "伊藤かな恵",
-      "copyright": "",
+      "copyright": null,
       "base_card_id": 104111020,
       "normal_card_id": 104111020,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 104121020,
@@ -3486,11 +3792,13 @@
       "description": "アタシってば手のひらサイズだからさ～、かわいらしいっしょ～？……え？小さすぎ？なはは～、そっかぁ。んじゃ、ちっとおっきくなろ～かな～？",
       "evo_description": "ふぅっ！どう？『打魔の小槌』を使えば、まぁ、この通りだよ。ま、長くは保たないんだけどさ……さっきよりは役に立てると思うよ！",
       "cv": "安済知佳",
-      "copyright": "",
+      "copyright": null,
       "base_card_id": 104121020,
       "normal_card_id": 104121020,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 105111020,
@@ -3522,11 +3830,13 @@
       "description": "「生まれてからずーっと一緒」<br>「死ぬときもずーっと一緒」<br>「二人で一人、楽しいね？」<br>「二人で一人、楽しいよ！」",
       "evo_description": "「ディ、今日はどんな日になるかな？」<br>「きっと楽しい日になるよ、ダム！」<br>「ディ、今日はどんなことをしようね？」<br>「楽しいことをしようよ、ダム！」",
       "cv": "代永翼",
-      "copyright": "",
+      "copyright": null,
       "base_card_id": 105111020,
       "normal_card_id": 105111020,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 105121010,
@@ -3558,11 +3868,13 @@
       "description": "ムンちゃん、お仕事よ！今日はちょっと張り切って、まき割り千本いってみよー！",
       "evo_description": "ムンちゃん、いい汗かいたね！でも、まだまだ元気残ってるし、追加のまき割り千本いってみよー！",
       "cv": "加藤英美里",
-      "copyright": "",
+      "copyright": null,
       "base_card_id": 105121010,
       "normal_card_id": 105121010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 105141020,
@@ -3594,11 +3906,13 @@
       "description": "汝は深緑の奔流にして、力のうねり、意思の具現。矮小なる身に秘めしは、膨大する森の怒り。",
       "evo_description": "其のあぎとが開きし時、咆哮が木々を揺らし、虐げられし者らの憤怒が溢れ出る。汝、森穢せし者を喰らい尽くす、大いなる守護者なり。",
       "cv": "-",
-      "copyright": "",
+      "copyright": null,
       "base_card_id": 105141020,
       "normal_card_id": 105141020,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 106111010,
@@ -3630,11 +3944,13 @@
       "description": "もし、あなたがフィトを好きになってくれるなら……<br>……えへへ、フィトもあなたを好きになります！<br>フィト、あなたのために頑張りますからっ！",
       "evo_description": "フィトを好きになってくれる人は、<br>きっとみーんないい人だと思うんです！<br>……えへへ！だからあなたもいい人ですっ！",
       "cv": "津田美波",
-      "copyright": "",
+      "copyright": null,
       "base_card_id": 106111010,
       "normal_card_id": 106111010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 106121010,
@@ -3666,11 +3982,13 @@
       "description": "アタシ、歌姫になりたいんッス！<br>だから毎日こうやって歌の練習してるんスよぉ！<br>ほげぇ～♪ほげほげぇ～♪<br>……ってアレ？なんでみんな耳ふさいでるッスか？",
       "evo_description": "いつか必ず、サイキョーの歌姫になってやるッス！<br>そのためには毎日練習っ！毎日鍛錬っ！<br>デッ、デッ、デリシャスなデスティニー♪<br>ドッ、ドッ、ドリームなのー♪",
       "cv": "洲崎綾",
-      "copyright": "",
+      "copyright": null,
       "base_card_id": 106121010,
       "normal_card_id": 106121010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 107111030,
@@ -3706,7 +4024,9 @@
       "base_card_id": 107111030,
       "normal_card_id": 107111030,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 107121020,
@@ -3742,7 +4062,9 @@
       "base_card_id": 107121020,
       "normal_card_id": 107121020,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 107131010,
@@ -3778,7 +4100,9 @@
       "base_card_id": 107131010,
       "normal_card_id": 107131010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 107141020,
@@ -3814,7 +4138,9 @@
       "base_card_id": 107141020,
       "normal_card_id": 107141020,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 108111020,
@@ -3850,7 +4176,9 @@
       "base_card_id": 108111020,
       "normal_card_id": 108111020,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 108131010,
@@ -3886,7 +4214,9 @@
       "base_card_id": 108131010,
       "normal_card_id": 108131010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 108131030,
@@ -3901,7 +4231,7 @@
       "skill": "token_draw//attach_skill",
       "skill_condition": "character=me//character=me",
       "skill_target": "none//character=me&target=hand_other_self&card_type=unit&base_card_id=900131010",
-      "skill_option": "token_draw=900131010//skill=(skill:killer)(timing:resident)(condition:character=me)(target:character=me&target=self&card_type=unit)(option:none)(preprocess:none)",
+      "skill_option": "token_draw=900131010//skill=(skill:killer)(timing:when_change_inplay)(condition:character=me)(target:character=me&target=self&card_type=unit)(option:none)(preprocess:none)",
       "skill_preprocess": "none//none",
       "skill_disc": "ファンファーレ 飛翔する狩鳥1枚を手札に加える。",
       "org_skill_disc": "[u][ffcd45]ファンファーレ[-][/u] [u][ffcd45]飛翔する狩鳥[-][/u]1枚を手札に加える。",
@@ -3922,7 +4252,9 @@
       "base_card_id": 108131030,
       "normal_card_id": 108131030,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 109111010,
@@ -3958,7 +4290,9 @@
       "base_card_id": 109111010,
       "normal_card_id": 109111010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 109111020,
@@ -3994,7 +4328,9 @@
       "base_card_id": 109111020,
       "normal_card_id": 109111020,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 110111020,
@@ -4030,7 +4366,9 @@
       "base_card_id": 110111020,
       "normal_card_id": 110111020,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 110131030,
@@ -4066,7 +4404,9 @@
       "base_card_id": 110131030,
       "normal_card_id": 110131030,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 111111010,
@@ -4102,7 +4442,9 @@
       "base_card_id": 111111010,
       "normal_card_id": 111111010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 111121020,
@@ -4138,7 +4480,9 @@
       "base_card_id": 111121020,
       "normal_card_id": 111121020,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 112111010,
@@ -4174,7 +4518,9 @@
       "base_card_id": 112111010,
       "normal_card_id": 112111010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 112141020,
@@ -4210,7 +4556,9 @@
       "base_card_id": 112141020,
       "normal_card_id": 112141020,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 113121010,
@@ -4246,7 +4594,9 @@
       "base_card_id": 113121010,
       "normal_card_id": 113121010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 113131020,
@@ -4282,7 +4632,9 @@
       "base_card_id": 113131020,
       "normal_card_id": 113131020,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 114111030,
@@ -4318,7 +4670,9 @@
       "base_card_id": 114111030,
       "normal_card_id": 114111030,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 114121020,
@@ -4354,7 +4708,9 @@
       "base_card_id": 114121020,
       "normal_card_id": 114121020,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 114131020,
@@ -4390,7 +4746,9 @@
       "base_card_id": 114131020,
       "normal_card_id": 114131020,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 115111010,
@@ -4426,7 +4784,9 @@
       "base_card_id": 115111010,
       "normal_card_id": 115111010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 115121010,
@@ -4462,7 +4822,9 @@
       "base_card_id": 115121010,
       "normal_card_id": 115121010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 115131020,
@@ -4498,7 +4860,9 @@
       "base_card_id": 115131020,
       "normal_card_id": 115131020,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 115131030,
@@ -4534,7 +4898,9 @@
       "base_card_id": 115131030,
       "normal_card_id": 115131030,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 115141020,
@@ -4570,7 +4936,9 @@
       "base_card_id": 115141020,
       "normal_card_id": 115141020,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 116111020,
@@ -4606,7 +4974,9 @@
       "base_card_id": 116111020,
       "normal_card_id": 116111020,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 116121010,
@@ -4642,7 +5012,9 @@
       "base_card_id": 116121010,
       "normal_card_id": 116121010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 117111020,
@@ -4678,7 +5050,9 @@
       "base_card_id": 117111020,
       "normal_card_id": 117111020,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 118111020,
@@ -4714,7 +5088,9 @@
       "base_card_id": 118111020,
       "normal_card_id": 118111020,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 118131020,
@@ -4750,7 +5126,9 @@
       "base_card_id": 118131020,
       "normal_card_id": 118131020,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 119111010,
@@ -4765,7 +5143,7 @@
       "skill": "token_draw//attach_skill",
       "skill_condition": "character=me//character=me",
       "skill_target": "none//character=me&target=hand_other_self&card_type=unit&base_card_id=900111010",
-      "skill_option": "token_draw=900111010//skill=(skill:killer)(timing:resident)(condition:character=me)(target:character=me&target=self&card_type=unit)(option:none)(preprocess:none)",
+      "skill_option": "token_draw=900111010//skill=(skill:killer)(timing:when_change_inplay)(condition:character=me)(target:character=me&target=self&card_type=unit)(option:none)(preprocess:none)",
       "skill_preprocess": "none//none",
       "skill_disc": "ファンファーレ フェアリー1枚を手札に加える。",
       "org_skill_disc": "[u][ffcd45]ファンファーレ[-][/u] [u][ffcd45]フェアリー[-][/u]1枚を手札に加える。",
@@ -4785,8 +5163,10 @@
       "copyright": null,
       "base_card_id": 119111010,
       "normal_card_id": 119111010,
-      "format_type": 1,
-      "restricted_count": 3
+      "format_type": 0,
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 119121020,
@@ -4821,8 +5201,10 @@
       "copyright": null,
       "base_card_id": 119121020,
       "normal_card_id": 119121020,
-      "format_type": 1,
-      "restricted_count": 3
+      "format_type": 0,
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 119131030,
@@ -4857,8 +5239,10 @@
       "copyright": null,
       "base_card_id": 119131030,
       "normal_card_id": 119131030,
-      "format_type": 1,
-      "restricted_count": 3
+      "format_type": 0,
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 120111020,
@@ -4894,7 +5278,9 @@
       "base_card_id": 120111020,
       "normal_card_id": 120111020,
       "format_type": 1,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 120121020,
@@ -4930,7 +5316,9 @@
       "base_card_id": 120121020,
       "normal_card_id": 120121020,
       "format_type": 1,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 121111010,
@@ -4966,7 +5354,9 @@
       "base_card_id": 121111010,
       "normal_card_id": 121111010,
       "format_type": 1,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 121121010,
@@ -5002,7 +5392,9 @@
       "base_card_id": 121121010,
       "normal_card_id": 121121010,
       "format_type": 1,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 121141030,
@@ -5038,7 +5430,9 @@
       "base_card_id": 121141030,
       "normal_card_id": 121141030,
       "format_type": 1,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 122111030,
@@ -5074,7 +5468,9 @@
       "base_card_id": 122111030,
       "normal_card_id": 122111030,
       "format_type": 1,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 122121030,
@@ -5110,7 +5506,9 @@
       "base_card_id": 122121030,
       "normal_card_id": 122121030,
       "format_type": 1,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 715121010,
@@ -5146,7 +5544,9 @@
       "base_card_id": 122121030,
       "normal_card_id": 715121010,
       "format_type": 1,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 122141020,
@@ -5182,7 +5582,9 @@
       "base_card_id": 122141020,
       "normal_card_id": 122141020,
       "format_type": 1,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 123111020,
@@ -5218,7 +5620,9 @@
       "base_card_id": 123111020,
       "normal_card_id": 123111020,
       "format_type": 1,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 123121030,
@@ -5254,7 +5658,9 @@
       "base_card_id": 123121030,
       "normal_card_id": 123121030,
       "format_type": 1,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 123131010,
@@ -5290,7 +5696,9 @@
       "base_card_id": 123131010,
       "normal_card_id": 123131010,
       "format_type": 1,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 123141010,
@@ -5326,7 +5734,85 @@
       "base_card_id": 123141010,
       "normal_card_id": 123141010,
       "format_type": 1,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
+    },
+    {
+      "card_id": 124111020,
+      "foil_card_id": 124111021,
+      "card_set_id": 10024,
+      "card_name": "ガーデナー・カルクス",
+      "card_name_ruby": "ガーデナー・カルクス",
+      "is_foil": 0,
+      "char_type": 1,
+      "clan": 1,
+      "tribe_name": "-",
+      "skill": "guard,pp_fixeduse,summon_token,evolve",
+      "skill_condition": "character=me,pp_count>=5,pp_count>=5,pp_count>=5",
+      "skill_target": "character=me&target=self　,none,none,character=me&target=skill_summoned_card&card_type=unit",
+      "skill_option": "none,fixeduse=5,summon_token=119111030,none",
+      "skill_preprocess": "none,none,none,none",
+      "skill_disc": "守護 <br>ファンファーレ エンハンス 5； ブロッサムトレント1体を出す。それは進化する。",
+      "org_skill_disc": "[u][ffcd45]守護[-][/u] <br>[u][ffcd45]ファンファーレ[-][/u] [u][ffcd45]エンハンス[-][/u] 5； [u][ffcd45]ブロッサムトレント[-][/u]1体を出す。それは進化する。",
+      "evo_skill_disc": "進化前と同じ能力。（ファンファーレ 能力を除く）",
+      "org_evo_skill_disc": "進化前と同じ能力。（[u][ffcd45]ファンファーレ[-][/u] 能力を除く）",
+      "cost": 2,
+      "atk": 2,
+      "life": 2,
+      "evo_atk": 4,
+      "evo_life": 4,
+      "rarity": 1,
+      "get_red_ether": 10,
+      "use_red_ether": 50,
+      "description": "森の健康診断、始めるわよ。うわ、いっぱい来た！<br>森もちゃっかりしてるわね。手入れの味を占めたかな？",
+      "evo_description": "トレントさんに、小さな花、樹、む、虫や動物も……。<br>みんな喜んでます。いったい誰が診てくれたんでしょう？<br>――アーボリスト・ライラ",
+      "cv": "岡咲美保",
+      "copyright": null,
+      "base_card_id": 124111020,
+      "normal_card_id": 124111020,
+      "format_type": 1,
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
+    },
+    {
+      "card_id": 124121010,
+      "foil_card_id": 124121011,
+      "card_set_id": 10024,
+      "card_name": "仲居のエルフ",
+      "card_name_ruby": "[rub<なかい>]仲居[/rub]のエルフ",
+      "is_foil": 0,
+      "char_type": 1,
+      "clan": 1,
+      "tribe_name": "宴楽",
+      "skill": "attach_skill",
+      "skill_condition": "character=me",
+      "skill_target": "character=me&target=hand_other_self&card_type=unit&select_count=1",
+      "skill_option": "skill=(skill:summon_token)(timing:when_leave)(condition:character=me)(target:none)(option:summon_token=900111010)(preprocess:none)",
+      "skill_preprocess": "none",
+      "skill_disc": "ファンファーレ 自分の手札のフォロワー1枚は「場を離れるとき、フェアリー1体を出す」を持つ。",
+      "org_skill_disc": "[u][ffcd45]ファンファーレ[-][/u] 自分の手札のフォロワー1枚は「場を離れるとき、[u][ffcd45]フェアリー[-][/u]1体を出す」を持つ。",
+      "evo_skill_disc": "",
+      "org_evo_skill_disc": "",
+      "cost": 2,
+      "atk": 2,
+      "life": 2,
+      "evo_atk": 4,
+      "evo_life": 4,
+      "rarity": 2,
+      "get_red_ether": 50,
+      "use_red_ether": 200,
+      "description": "四季の彩りが膳の中にギュッと詰まっているようだ。<br>この焼き物も――モニュ。この香の物も――ガリ！ボリ！<br>あぁ、なんと素朴な味わい。心に染み渡るようだ。<br>――竹藪の老舗旅館、二",
+      "evo_description": "森の五色御膳、お口に合ったようで何よりです。<br>女将の手料理はうちの旅館の名物で……。<br>浴衣はそっちに。すぐ布団の準備もしちゃいますね。<br>――仲居のエルフ",
+      "cv": "寺崎裕香",
+      "copyright": null,
+      "base_card_id": 124121010,
+      "normal_card_id": 124121010,
+      "format_type": 1,
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 820141020,
@@ -5362,7 +5848,9 @@
       "base_card_id": 820141020,
       "normal_card_id": 820141020,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 900121010,
@@ -5398,7 +5886,9 @@
       "base_card_id": 900121010,
       "normal_card_id": 900121010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 900131020,
@@ -5434,7 +5924,9 @@
       "base_card_id": 900131020,
       "normal_card_id": 900131020,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 900131030,
@@ -5470,7 +5962,9 @@
       "base_card_id": 900131030,
       "normal_card_id": 900131030,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 100114010,
@@ -5502,11 +5996,13 @@
       "description": "葉の一枚で、傷一つ。枝の一本で、骨一本。",
       "evo_description": "",
       "cv": "-",
-      "copyright": "",
+      "copyright": null,
       "base_card_id": 100114010,
       "normal_card_id": 100114010,
       "format_type": 1,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 705114010,
@@ -5542,7 +6038,9 @@
       "base_card_id": 100114010,
       "normal_card_id": 705114010,
       "format_type": 1,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 713114010,
@@ -5578,7 +6076,9 @@
       "base_card_id": 100114010,
       "normal_card_id": 713114010,
       "format_type": 1,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 101114020,
@@ -5610,11 +6110,13 @@
       "description": "手の鳴る方には、悪戯な混迷。",
       "evo_description": "",
       "cv": "-",
-      "copyright": "",
+      "copyright": null,
       "base_card_id": 101114020,
       "normal_card_id": 101114020,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 101114040,
@@ -5646,11 +6148,13 @@
       "description": "森の主は寛大だ。命までは奪わない。",
       "evo_description": "",
       "cv": "-",
-      "copyright": "",
+      "copyright": null,
       "base_card_id": 101114040,
       "normal_card_id": 101114040,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 102114050,
@@ -5682,11 +6186,13 @@
       "description": "森で道に迷った時には、まずは目を凝らしてみることだ。小さくも優しい森の民らが、きらきらと輝いているはずだから。",
       "evo_description": "",
       "cv": "-",
-      "copyright": "",
+      "copyright": null,
       "base_card_id": 102114050,
       "normal_card_id": 102114050,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 105134010,
@@ -5718,11 +6224,13 @@
       "description": "「私たちの矢、避けられる！？」「試してみても構わないよ？」",
       "evo_description": "",
       "cv": "-",
-      "copyright": "",
+      "copyright": null,
       "base_card_id": 105134010,
       "normal_card_id": 105134010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 106124010,
@@ -5754,11 +6262,13 @@
       "description": "妖精を捕まえるには、餌や罠よりも娯楽がよい。<br>出来るだけ楽しく、にぎやかに。<br>踊り出したくなる曲調は、妖精の大好物である。<br>――森の奏者",
       "evo_description": "",
       "cv": "-",
-      "copyright": "",
+      "copyright": null,
       "base_card_id": 106124010,
       "normal_card_id": 106124010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 111124010,
@@ -5794,7 +6304,9 @@
       "base_card_id": 111124010,
       "normal_card_id": 111124010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 708124010,
@@ -5830,7 +6342,9 @@
       "base_card_id": 111124010,
       "normal_card_id": 708124010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 112134010,
@@ -5866,7 +6380,9 @@
       "base_card_id": 112134010,
       "normal_card_id": 112134010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 116114010,
@@ -5902,7 +6418,9 @@
       "base_card_id": 116114010,
       "normal_card_id": 116114010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 116134010,
@@ -5938,7 +6456,9 @@
       "base_card_id": 116134010,
       "normal_card_id": 116134010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 117124010,
@@ -5974,7 +6494,9 @@
       "base_card_id": 117124010,
       "normal_card_id": 117124010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 713124020,
@@ -6010,7 +6532,9 @@
       "base_card_id": 117124010,
       "normal_card_id": 713124020,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 118124010,
@@ -6046,7 +6570,9 @@
       "base_card_id": 118124010,
       "normal_card_id": 118124010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 118134010,
@@ -6082,7 +6608,9 @@
       "base_card_id": 118134010,
       "normal_card_id": 118134010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 120134010,
@@ -6118,7 +6646,9 @@
       "base_card_id": 120134010,
       "normal_card_id": 120134010,
       "format_type": 1,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 715134010,
@@ -6154,7 +6684,9 @@
       "base_card_id": 120134010,
       "normal_card_id": 715134010,
       "format_type": 1,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 121124010,
@@ -6190,7 +6722,9 @@
       "base_card_id": 121124010,
       "normal_card_id": 121124010,
       "format_type": 1,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 715124010,
@@ -6226,7 +6760,9 @@
       "base_card_id": 121124010,
       "normal_card_id": 715124010,
       "format_type": 1,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 123114010,
@@ -6262,7 +6798,9 @@
       "base_card_id": 123114010,
       "normal_card_id": 123114010,
       "format_type": 1,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 715114010,
@@ -6298,7 +6836,47 @@
       "base_card_id": 123114010,
       "normal_card_id": 715114010,
       "format_type": 1,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
+    },
+    {
+      "card_id": 124114010,
+      "foil_card_id": 124114011,
+      "card_set_id": 10024,
+      "card_name": "エルフの技工",
+      "card_name_ruby": "エルフの[rub<ぎこう>]技工[/rub]",
+      "is_foil": 0,
+      "char_type": 4,
+      "clan": 1,
+      "tribe_name": "-",
+      "skill": "powerup,play_count_change,damage",
+      "skill_condition": "character=me,character=me,character=me",
+      "skill_target": "character=me&target=hand_other_self&card_type=unit&select_count=1,character=me&target=inplay&card_type=class,character=op&target=inplay&card_type=unit&random_count=1",
+      "skill_option": "add_offense=1&add_life=1,add_count=1,damage=4",
+      "skill_preprocess": "none,none,none",
+      "skill_disc": "自分の手札のフォロワー1枚を+1/+1する。<br>このターン中にカードをプレイした枚数を+1する。<br>ランダムな相手のフォロワー1体に4ダメージ。",
+      "org_skill_disc": "自分の手札のフォロワー1枚を+1/+1する。<br>このターン中にカードをプレイした枚数を+1する。<br>ランダムな相手のフォロワー1体に4ダメージ。",
+      "evo_skill_disc": "",
+      "org_evo_skill_disc": "",
+      "cost": 2,
+      "atk": 0,
+      "life": 0,
+      "evo_atk": 0,
+      "evo_life": 0,
+      "rarity": 1,
+      "get_red_ether": 10,
+      "use_red_ether": 50,
+      "description": "【長弓・三代目シラヌイ：6600ルピ】<br>【魔導弓マゼルブラード：7400ルピ】<br>【弓（エルフの手作り）：230000ルピ】<br>――武器屋の価格表",
+      "evo_description": "",
+      "cv": "-",
+      "copyright": null,
+      "base_card_id": 124114010,
+      "normal_card_id": 124114010,
+      "format_type": 1,
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 800144010,
@@ -6334,7 +6912,9 @@
       "base_card_id": 800144010,
       "normal_card_id": 800144010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 800144020,
@@ -6370,7 +6950,9 @@
       "base_card_id": 800144020,
       "normal_card_id": 800144020,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 820144010,
@@ -6406,7 +6988,9 @@
       "base_card_id": 820144010,
       "normal_card_id": 820144010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 900134010,
@@ -6442,7 +7026,9 @@
       "base_card_id": 900134010,
       "normal_card_id": 900134010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 900134020,
@@ -6478,7 +7064,9 @@
       "base_card_id": 900134020,
       "normal_card_id": 900134020,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 900134030,
@@ -6514,7 +7102,9 @@
       "base_card_id": 900134030,
       "normal_card_id": 900134030,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 900144010,
@@ -6546,11 +7136,13 @@
       "description": "綺麗な華には棘が有る。",
       "evo_description": "",
       "cv": "-",
-      "copyright": "",
+      "copyright": null,
       "base_card_id": 900144010,
       "normal_card_id": 900144010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 900144100,
@@ -6586,7 +7178,9 @@
       "base_card_id": 900144100,
       "normal_card_id": 900144100,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 101113010,
@@ -6618,11 +7212,13 @@
       "description": "木々のざわめきが、暖かな日差しが、人を安らかなる眠りへと誘う。",
       "evo_description": "",
       "cv": "-",
-      "copyright": "",
+      "copyright": null,
       "base_card_id": 101113010,
       "normal_card_id": 101113010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 105123010,
@@ -6654,11 +7250,13 @@
       "description": "「きゃあ、こわい。ねぇ、こっちにこないでね？」―茨の妖精",
       "evo_description": "",
       "cv": "-",
-      "copyright": "",
+      "copyright": null,
       "base_card_id": 105123010,
       "normal_card_id": 105123010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 108113010,
@@ -6694,7 +7292,9 @@
       "base_card_id": 108113010,
       "normal_card_id": 108113010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 110113010,
@@ -6730,7 +7330,9 @@
       "base_card_id": 110113010,
       "normal_card_id": 110113010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 120123010,
@@ -6766,7 +7368,9 @@
       "base_card_id": 120123010,
       "normal_card_id": 120123010,
       "format_type": 1,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 810122010,
@@ -6802,7 +7406,9 @@
       "base_card_id": 810122010,
       "normal_card_id": 810122010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 100111060,
@@ -6834,11 +7440,13 @@
       "description": "別れを告げてもなお追って来るとは、おせっかいな連中だ。私の事は放っておいてくれ。私は閉じた円環から抜け出した者なのだから。",
       "evo_description": "いつか来る滅びの日を、ただ座して待つ事など出来はしない。だから私は森を捨て、この剣を執った。…揺り籠に護られる日々は、おしまいだ。今の私は、新たなる道を歩む者だ。",
       "cv": "緒乃冬華",
-      "copyright": "",
+      "copyright": null,
       "base_card_id": 100111060,
       "normal_card_id": 100111060,
       "format_type": 1,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 101111050,
@@ -6870,11 +7478,13 @@
       "description": "森の住民はみーんな仲良しなの！だから、私一人だと思って侮ってると痛い目見るからね？",
       "evo_description": "ふふ！どう？一人じゃどうにもならない敵でも、森のみんなの力を借りれば倒せちゃうんだから！",
       "cv": "諏訪彩花",
-      "copyright": "",
+      "copyright": null,
       "base_card_id": 101111050,
       "normal_card_id": 101111050,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 101111060,
@@ -6906,11 +7516,13 @@
       "description": "旅人さん、お疲れのようね。私の水で喉を潤したら？うふふ、お礼なんていいのよ。本当にね。",
       "evo_description": "え？体が動かないの？…あっはは！そうでしょうね！だって私は毒沼の精だもの！苦痛に満ちたその顔…さいっこーに面白いわ！",
       "cv": "川﨑芽衣子",
-      "copyright": "",
+      "copyright": null,
       "base_card_id": 101111060,
       "normal_card_id": 101111060,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 101121010,
@@ -6942,11 +7554,13 @@
       "description": "妖精にとって、ダンスパーティーは出会いの場なのよ！ふふ…今夜は誰と出会えるかしら！",
       "evo_description": "皆と一緒にはしゃいで、騒いで…パーティってとっても楽しいわ！今夜は踊り明かしちゃおっと！",
       "cv": "下屋則子",
-      "copyright": "",
+      "copyright": null,
       "base_card_id": 101121010,
       "normal_card_id": 101121010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 101121030,
@@ -6978,11 +7592,13 @@
       "description": "侵入者よ、早々に立ち去るが良い。ここは妖精王の森だ。守り人たる私の言葉を聞き入れないというなら…悪いが、排除させて貰うぞ。",
       "evo_description": "妖精に魅入られ、この森に囚われて幾星霜…。もちろん、最初は人里に還りたいと願ったが、今はこの森こそが守るべき故郷だ。さあ、妖精王より賜りしこの力、受けるがいい！",
       "cv": "内田雄馬",
-      "copyright": "",
+      "copyright": null,
       "base_card_id": 101121030,
       "normal_card_id": 101121030,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 101121040,
@@ -7014,11 +7630,13 @@
       "description": "密林に咲く、魔性の花。一度咲いたら最後、周囲の養分を根こそぎ奪い取ると言う。",
       "evo_description": "魔性の花が喰らうのは、大地だけではない。その蔦に絡め取られた者は屍もまた、養分と化す。",
       "cv": "-",
-      "copyright": "",
+      "copyright": null,
       "base_card_id": 101121040,
       "normal_card_id": 101121040,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 101141020,
@@ -7050,11 +7668,13 @@
       "description": "森と命の巡りを見守るのが、我々古きエルフの役目。若き人の子よ…貴方も巡りの一つならば、私の力をお貸ししましょう。",
       "evo_description": "森と命を巡る、遠き未来への旅路はまだ始まったばかりです。いつか、私たちは種族の壁を越え、争わぬ道を見つける事が出来るでしょう。",
       "cv": "早見沙織",
-      "copyright": "",
+      "copyright": null,
       "base_card_id": 101141020,
       "normal_card_id": 101141020,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 701141010,
@@ -7086,11 +7706,13 @@
       "description": "森と命の巡りを見守るのが、我々古きエルフの役目。若き人の子よ…貴方も巡りの一つならば、私の力をお貸ししましょう。",
       "evo_description": "森と命を巡る、遠き未来への旅路はまだ始まったばかりです。いつか、私たちは種族の壁を越え、争わぬ道を見つける事が出来るでしょう。",
       "cv": "早見沙織",
-      "copyright": "",
+      "copyright": null,
       "base_card_id": 101141020,
       "normal_card_id": 701141010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 102111030,
@@ -7122,11 +7744,13 @@
       "description": "大変…！しっかりして！すぐに助けてあげるから、もう少しだけ頑張って！",
       "evo_description": "この癒やしの泉の水を体に浴びて！そうすればきっと、あなたのケガも治るから！",
       "cv": "田中あいみ",
-      "copyright": "",
+      "copyright": null,
       "base_card_id": 102111030,
       "normal_card_id": 102111030,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 103111040,
@@ -7158,11 +7782,13 @@
       "description": "それは森を愛す者にとっては祝福の象徴であり、森を侵す者にとっては呪いの権化である。",
       "evo_description": "それは森の意思を代弁する、深緑の精霊である。…もし、悪戯に傷付けようものなら、汝は森の呪いを受ける事になるだろう。",
       "cv": "-",
-      "copyright": "",
+      "copyright": null,
       "base_card_id": 103111040,
       "normal_card_id": 103111040,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 104111030,
@@ -7194,11 +7820,13 @@
       "description": "大地より産まれし子らよ……大地は我の身体……。貴方が両の脚で立ち続けるならば、私の愛が支えるでしょう……。",
       "evo_description": "大地より産まれし子らよ……大地は我の身体……。いつか我が身のもとに還るその時まで、私と共に歩みましょう……。",
       "cv": "森谷里美",
-      "copyright": "",
+      "copyright": null,
       "base_card_id": 104111030,
       "normal_card_id": 104111030,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 104111040,
@@ -7230,11 +7858,13 @@
       "description": "大樹を削り出して創った矢は、鉄の鎧を軽々と貫く。空翔ける甲虫は、竜すらをも置き去りにする。つまり、アレは俺たちの天敵ってワケだ。―熟練の竜騎士",
       "evo_description": "騎兵は歩兵を裂き、竜騎士は騎兵を喰らう。戦場において、俺たちは絶対なる脅威だ。だが、その理屈が自然の前に通用するとは思わない方がいいぞ。―熟練の竜騎士",
       "cv": "-",
-      "copyright": "",
+      "copyright": null,
       "base_card_id": 104111040,
       "normal_card_id": 104111040,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 105111030,
@@ -7266,11 +7896,13 @@
       "description": "「『森は生きている』。この言葉は殆どのばあい比喩であるが、ごくまれに現実を指す。」―「生命の森」、序文",
       "evo_description": "「昨日あったはずの森が、今朝見たら消え失せていた。そんなとき私は、地面に残った幾つもの足跡を眺めながら呟くのだ。『森は生きている』と。」―「生命の森」、第一章",
       "cv": "-",
-      "copyright": "",
+      "copyright": null,
       "base_card_id": 105111030,
       "normal_card_id": 105111030,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 105131010,
@@ -7302,11 +7934,13 @@
       "description": "あたしの魔法があれば、どんな相手もラクショーだよ！……まぁ、一回しかつかえないけどね！",
       "evo_description": "いーっぱい魔力をためたから、どんな相手だってイッパツだよ！……まぁ、一回つかったら、魔力も気力もからっぽになっちゃうけどね！",
       "cv": "高森奈津美",
-      "copyright": "",
+      "copyright": null,
       "base_card_id": 105131010,
       "normal_card_id": 105131010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 106111020,
@@ -7338,11 +7972,13 @@
       "description": "見上げたら葉っぱ、枝ばっか。<br>森にいたんじゃ、星のひとつも見えやしないわ！<br>だから私、決めたの！<br>――森を飛び出して、広い夜空を見るんだって！",
       "evo_description": "歩けば緑、見回しても緑。<br>森にいれば安心だけど、それって全然楽しくない！<br>だから私、思ったの！<br>――森を飛び出せば、輝く未来が待ってるはずだって！",
       "cv": "嶋村侑",
-      "copyright": "",
+      "copyright": null,
       "base_card_id": 106111020,
       "normal_card_id": 106111020,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 106131020,
@@ -7374,11 +8010,13 @@
       "description": "記憶を失い、森を彷徨う少年。<br>その双眼は濁りなく、<br>その相貌にかつての面影はない。",
       "evo_description": "木々のざわめきが、妖精の囁きが、<br>少年が持つ、忌まわしき過去を蘇らせる。<br>それは戒め。それは呪い。逃れえぬ、悲しき罪――。",
       "cv": "朴璐美",
-      "copyright": "",
+      "copyright": null,
       "base_card_id": 106131020,
       "normal_card_id": 106131020,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 107111010,
@@ -7414,7 +8052,9 @@
       "base_card_id": 107111010,
       "normal_card_id": 107111010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 107121010,
@@ -7450,7 +8090,9 @@
       "base_card_id": 107121010,
       "normal_card_id": 107121010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 108111030,
@@ -7486,7 +8128,9 @@
       "base_card_id": 108111030,
       "normal_card_id": 108111030,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 108121020,
@@ -7522,7 +8166,9 @@
       "base_card_id": 108121020,
       "normal_card_id": 108121020,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 109111030,
@@ -7558,7 +8204,9 @@
       "base_card_id": 109111030,
       "normal_card_id": 109111030,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 109131010,
@@ -7594,7 +8242,9 @@
       "base_card_id": 109131010,
       "normal_card_id": 109131010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 110141030,
@@ -7630,7 +8280,9 @@
       "base_card_id": 110141030,
       "normal_card_id": 110141030,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 711141010,
@@ -7666,7 +8318,9 @@
       "base_card_id": 110141030,
       "normal_card_id": 711141010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 111111020,
@@ -7702,7 +8356,9 @@
       "base_card_id": 111111020,
       "normal_card_id": 111111020,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 112111020,
@@ -7738,7 +8394,9 @@
       "base_card_id": 112111020,
       "normal_card_id": 112111020,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 112131020,
@@ -7774,7 +8432,9 @@
       "base_card_id": 112131020,
       "normal_card_id": 112131020,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 113111030,
@@ -7810,7 +8470,9 @@
       "base_card_id": 113111030,
       "normal_card_id": 113111030,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 113121020,
@@ -7846,7 +8508,9 @@
       "base_card_id": 113121020,
       "normal_card_id": 113121020,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 113141020,
@@ -7882,7 +8546,9 @@
       "base_card_id": 113141020,
       "normal_card_id": 113141020,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 114131010,
@@ -7918,7 +8584,9 @@
       "base_card_id": 114131010,
       "normal_card_id": 114131010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 114141010,
@@ -7933,7 +8601,7 @@
       "skill": "powerup,guard,powerup,killer,powerup,attach_skill",
       "skill_condition": "{me.hand_other_self.base_card_id=900111010.count}>=2,{me.hand_other_self.base_card_id=900111010.count}>=2,{me.hand_other_self.base_card_id=900111010.count}>=4,{me.hand_other_self.base_card_id=900111010.count}>=4,{me.hand_other_self.base_card_id=900111010.count}>=6,{me.hand_other_self.base_card_id=900111010.count}>=6",
       "skill_target": "character=me&target=self&card_type=unit,character=me&target=self&card_type=unit,character=me&target=self&card_type=unit,character=me&target=self&card_type=unit,character=me&target=hand_other_self&card_type=unit&base_card_id=900111010,character=me&target=hand_other_self&card_type=unit&base_card_id=900111010",
-      "skill_option": "add_offense=1&add_life=1,none,add_offense=1&add_life=1,none,add_offense=1&add_life=1,skill=(skill:quick)(timing:resident)(condition:character=me)(target:character=me&target=self&card_type=unit)(option:none)(preprocess:none)",
+      "skill_option": "add_offense=1&add_life=1,none,add_offense=1&add_life=1,none,add_offense=1&add_life=1,skill=(skill:quick)(timing:when_change_inplay)(condition:character=me)(target:character=me&target=self&card_type=unit)(option:none)(preprocess:none)",
       "skill_preprocess": "none,none,none,none,none,none",
       "skill_disc": "ファンファーレ 自分の手札にフェアリーが2枚以上あるなら、+1/+1して、守護 を持つ。<br>4枚以上あるなら、さらに、+1/+1して、必殺 を持つ。<br>6枚以上あるなら、さらに、手札のフェアリーすべては+1/+1されて、疾走 を持つ。",
       "org_skill_disc": "[u][ffcd45]ファンファーレ[-][/u] 自分の手札に[u][ffcd45]フェアリー[-][/u]が2枚以上あるなら、+1/+1して、[u][ffcd45]守護[-][/u] を持つ。<br>4枚以上あるなら、さらに、+1/+1して、[u][ffcd45]必殺[-][/u] を持つ。<br>6枚以上あるなら、さらに、手札の[u][ffcd45]フェアリー[-][/u]すべては+1/+1されて、[u][ffcd45]疾走[-][/u] を持つ。",
@@ -7954,7 +8622,9 @@
       "base_card_id": 114141010,
       "normal_card_id": 114141010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 115111030,
@@ -7990,7 +8660,9 @@
       "base_card_id": 115111030,
       "normal_card_id": 115111030,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 115121020,
@@ -8026,7 +8698,9 @@
       "base_card_id": 115121020,
       "normal_card_id": 115121020,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 116141030,
@@ -8062,7 +8736,9 @@
       "base_card_id": 116141030,
       "normal_card_id": 116141030,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 117141010,
@@ -8098,7 +8774,9 @@
       "base_card_id": 117141010,
       "normal_card_id": 117141010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 117141030,
@@ -8134,7 +8812,9 @@
       "base_card_id": 117141030,
       "normal_card_id": 117141030,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 118111010,
@@ -8170,7 +8850,9 @@
       "base_card_id": 118111010,
       "normal_card_id": 118111010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 119141030,
@@ -8205,8 +8887,10 @@
       "copyright": null,
       "base_card_id": 119141030,
       "normal_card_id": 119141030,
-      "format_type": 1,
-      "restricted_count": 3
+      "format_type": 0,
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 120111010,
@@ -8242,7 +8926,9 @@
       "base_card_id": 120111010,
       "normal_card_id": 120111010,
       "format_type": 1,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 120111040,
@@ -8278,7 +8964,9 @@
       "base_card_id": 120111040,
       "normal_card_id": 120111040,
       "format_type": 1,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 120131010,
@@ -8314,7 +9002,9 @@
       "base_card_id": 120131010,
       "normal_card_id": 120131010,
       "format_type": 1,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 121111020,
@@ -8350,7 +9040,9 @@
       "base_card_id": 121111020,
       "normal_card_id": 121111020,
       "format_type": 1,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 121131010,
@@ -8386,7 +9078,9 @@
       "base_card_id": 121131010,
       "normal_card_id": 121131010,
       "format_type": 1,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 121131020,
@@ -8422,7 +9116,9 @@
       "base_card_id": 121131020,
       "normal_card_id": 121131020,
       "format_type": 1,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 122121020,
@@ -8458,7 +9154,9 @@
       "base_card_id": 122121020,
       "normal_card_id": 122121020,
       "format_type": 1,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 123111030,
@@ -8494,7 +9192,9 @@
       "base_card_id": 123111030,
       "normal_card_id": 123111030,
       "format_type": 1,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 123141030,
@@ -8530,7 +9230,199 @@
       "base_card_id": 123141030,
       "normal_card_id": 123141030,
       "format_type": 1,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
+    },
+    {
+      "card_id": 124111010,
+      "foil_card_id": 124111011,
+      "card_set_id": 10024,
+      "card_name": "提灯のフェアリー",
+      "card_name_ruby": "[rub<ちょうちん>]提灯[/rub]のフェアリー",
+      "is_foil": 0,
+      "char_type": 1,
+      "clan": 1,
+      "tribe_name": "宴楽",
+      "skill": "metamorphose",
+      "skill_condition": "character=me",
+      "skill_target": "character=op&target=inplay&card_type=unit&select_count=1",
+      "skill_option": "metamorphose=900111010",
+      "skill_preprocess": "none",
+      "skill_disc": "ファンファーレ 相手のフォロワー1体をフェアリーに変身させる。",
+      "org_skill_disc": "[u][ffcd45]ファンファーレ[-][/u] 相手のフォロワー1体を[u][ffcd45]フェアリー[-][/u]に変身させる。",
+      "evo_skill_disc": "",
+      "org_evo_skill_disc": "",
+      "cost": 3,
+      "atk": 2,
+      "life": 2,
+      "evo_atk": 4,
+      "evo_life": 4,
+      "rarity": 1,
+      "get_red_ether": 10,
+      "use_red_ether": 50,
+      "description": "大自然に囲まれたい。なんでそんなことを思ったのか。<br>森を彷徨ってもう二日。俺はこのまま死んでいくのか。<br>あれは？……竹の間に、光！？おーい！おーい！！<br>――竹藪の老舗旅館、一",
+      "evo_description": "知る人ぞ知る、隠れ家のような宿ですので。<br>見つけられたお客さまは、運が良かったです。<br>良ければ泊っていって下さい。飛び入りでも大歓迎です。<br>――提灯のフェアリー",
+      "cv": "首藤志奈",
+      "copyright": null,
+      "base_card_id": 124111010,
+      "normal_card_id": 124111010,
+      "format_type": 1,
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
+    },
+    {
+      "card_id": 124111030,
+      "foil_card_id": 124111031,
+      "card_set_id": 10024,
+      "card_name": "ウィンドランサー",
+      "card_name_ruby": "ウィンドランサー",
+      "is_foil": 0,
+      "char_type": 1,
+      "clan": 1,
+      "tribe_name": "-",
+      "skill": "quick,powerup",
+      "skill_condition": "character=me,play_count>2",
+      "skill_target": "character=me&target=self,character=me&target=self",
+      "skill_option": "none,add_offense=2&add_life=2",
+      "skill_preprocess": "none,none",
+      "skill_disc": "疾走 <br>ファンファーレ このターン中に（これを含めず）カードを2枚以上プレイしていたなら、+2/+2する。",
+      "org_skill_disc": "[u][ffcd45]疾走[-][/u] <br>[u][ffcd45]ファンファーレ[-][/u] このターン中に（これを含めず）カードを2枚以上プレイしていたなら、+2/+2する。",
+      "evo_skill_disc": "進化前と同じ能力。（ファンファーレ 能力を除く）",
+      "org_evo_skill_disc": "進化前と同じ能力。（[u][ffcd45]ファンファーレ[-][/u] 能力を除く）",
+      "cost": 3,
+      "atk": 2,
+      "life": 2,
+      "evo_atk": 4,
+      "evo_life": 4,
+      "rarity": 1,
+      "get_red_ether": 10,
+      "use_red_ether": 50,
+      "description": "『なびく蔦に疾さの高みを見た』<br>――大木に掘られた文字",
+      "evo_description": "巨木を倒す豪風さえ、風を流す蔦は倒せない。<br>そうか。蔦は疾さだけでなく、強さも併せ持つのか。<br>忘れる前に……『なびく蔦に強さの高みも見た』――と。",
+      "cv": "古川慎",
+      "copyright": null,
+      "base_card_id": 124111030,
+      "normal_card_id": 124111030,
+      "format_type": 1,
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
+    },
+    {
+      "card_id": 124131010,
+      "foil_card_id": 124131011,
+      "card_set_id": 10024,
+      "card_name": "清泉のスピリット",
+      "card_name_ruby": "[rub<せいせん>]清泉[/rub]のスピリット",
+      "is_foil": 0,
+      "char_type": 1,
+      "clan": 1,
+      "tribe_name": "-",
+      "skill": "guard,draw//attach_skill",
+      "skill_condition": "character=me,character=me//character=me",
+      "skill_target": "character=me&target=self,character=me&target=deck&card_type=all&random_count=1//character=me&target=inplay&card_type=class",
+      "skill_option": "none,none//skill=(skill:play_count_change)(timing:self_turn_start)(condition:character=me)(target:character=me&target=inplay&card_type=class)(option:add_count=1)(preprocess:none)&duplicate_ban_id=1241310101",
+      "skill_preprocess": "none,none//none",
+      "skill_disc": "守護 <br>ファンファーレ カードを1枚引く。",
+      "org_skill_disc": "[u][ffcd45]守護[-][/u] <br>[u][ffcd45]ファンファーレ[-][/u] カードを1枚引く。",
+      "evo_skill_disc": "守護 <br>進化時 このバトル中、自分のリーダーは「自分のターン開始時、このターン中にカードをプレイした枚数を+1する」を持つ。リーダーはこの能力を重複して持たない。",
+      "org_evo_skill_disc": "[u][ffcd45]守護[-][/u] <br>[u][ffcd45]進化時[-][/u] このバトル中、自分のリーダーは「自分のターン開始時、このターン中にカードをプレイした枚数を+1する」を持つ。リーダーはこの能力を重複して持たない。",
+      "cost": 3,
+      "atk": 2,
+      "life": 3,
+      "evo_atk": 4,
+      "evo_life": 5,
+      "rarity": 3,
+      "get_red_ether": 250,
+      "use_red_ether": 800,
+      "description": "ゴポゴポと上がる気泡。水面がどんどん遠くなる。<br>「私は身投げ禁止です。もう、元気出してください」<br>死のうとした青年は、いつの間にか泉の畔で眠っていた。<br>「繁栄の閃きをあなたに。がんばってくださいね」",
+      "evo_description": "あれから畑を拓き、妻を娶り、腰の痛みも久しくなった。<br>男は感謝と実りを捧げ、また来ますと泉を去る。<br>すると、鈴を転がすような笑い声と林檎を齧る音がした。",
+      "cv": "潘めぐみ",
+      "copyright": null,
+      "base_card_id": 124131010,
+      "normal_card_id": 124131010,
+      "format_type": 1,
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
+    },
+    {
+      "card_id": 124141010,
+      "foil_card_id": 124141011,
+      "card_set_id": 10024,
+      "card_name": "化かし女将・ホズミ",
+      "card_name_ruby": "[rub<ば>]化[/rub]かし[rub<おかみ>]女将[/rub]・ホズミ",
+      "is_foil": 0,
+      "char_type": 1,
+      "clan": 1,
+      "tribe_name": "宴楽",
+      "skill": "banish,summon_card//metamorphose",
+      "skill_condition": "play_count>4,play_count>4//character=me",
+      "skill_target": "character=me&target=inplay_other_self&card_type=unit,character=me&target=deck&card_type=unit&clan=elf&base_card_id!=124141010&cost_no_duplication_random_count={me.banished_last_target.unit.count}//character=op&target=inplay&card_type=unit&select_count=2",
+      "skill_option": "none,effect=owner//metamorphose=900111010",
+      "skill_preprocess": "none,none//none",
+      "skill_disc": "ファンファーレ このターン中に（これを含めず）カードを4枚以上プレイしていたなら、自分の他のフォロワーすべてを消滅させる。それぞれコストの異なるエルフ・フォロワー（化かし女将・ホズミを除く）をランダムにX枚、自分のデッキから場に出す。Xは「これで消滅させた自分のフォロワーの数」である。",
+      "org_skill_disc": "[u][ffcd45]ファンファーレ[-][/u] このターン中に（これを含めず）カードを4枚以上プレイしていたなら、自分の他のフォロワーすべてを消滅させる。それぞれコストの異なるエルフ・フォロワー（[u][ffcd45]化かし女将・ホズミ[-][/u]を除く）をランダムにX枚、自分のデッキから場に出す。Xは「これで消滅させた自分のフォロワーの数」である。",
+      "evo_skill_disc": "進化時 相手のフォロワー2体をフェアリーに変身させる。",
+      "org_evo_skill_disc": "[u][ffcd45]進化時[-][/u] 相手のフォロワー2体を[u][ffcd45]フェアリー[-][/u]に変身させる。",
+      "cost": 3,
+      "atk": 3,
+      "life": 3,
+      "evo_atk": 5,
+      "evo_life": 5,
+      "rarity": 4,
+      "get_red_ether": 1000,
+      "use_red_ether": 3500,
+      "description": "一夜のお代は驚倒にて。んー佳き叫び。森の衆も大喜び♪<br>畏れは妖狸の好餌、またお腹が丸くなってしまいます。<br>森が営む夢幻のお宿、人はいつでも大歓迎です。ポン♪<br>――竹藪の老舗旅館、四",
+      "evo_description": "日々に疲れていた男が、珍しく街道で狸を見かけた。<br>「大自然に囲まれて、憩いの時を過ごしませんか？ 」<br>空耳か、はたまた幻聴か。男は無性に緑が恋しくなった。<br>――ある者の旅のきっかけ",
+      "cv": "高尾奏音",
+      "copyright": null,
+      "base_card_id": 124141010,
+      "normal_card_id": 124141010,
+      "format_type": 1,
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
+    },
+    {
+      "card_id": 717141010,
+      "foil_card_id": 717141011,
+      "card_set_id": 10024,
+      "card_name": "化かし女将・ホズミ",
+      "card_name_ruby": "[rub<ば>]化[/rub]かし[rub<おかみ>]女将[/rub]・ホズミ",
+      "is_foil": 0,
+      "char_type": 1,
+      "clan": 1,
+      "tribe_name": "宴楽",
+      "skill": "banish,summon_card//metamorphose",
+      "skill_condition": "play_count>4,play_count>4//character=me",
+      "skill_target": "character=me&target=inplay_other_self&card_type=unit,character=me&target=deck&card_type=unit&clan=elf&base_card_id!=124141010&cost_no_duplication_random_count={me.banished_last_target.unit.count}//character=op&target=inplay&card_type=unit&select_count=2",
+      "skill_option": "none,effect=owner//metamorphose=900111010",
+      "skill_preprocess": "none,none//none",
+      "skill_disc": "ファンファーレ このターン中に（これを含めず）カードを4枚以上プレイしていたなら、自分の他のフォロワーすべてを消滅させる。それぞれコストの異なるエルフ・フォロワー（化かし女将・ホズミを除く）をランダムにX枚、自分のデッキから場に出す。Xは「これで消滅させた自分のフォロワーの数」である。",
+      "org_skill_disc": "[u][ffcd45]ファンファーレ[-][/u] このターン中に（これを含めず）カードを4枚以上プレイしていたなら、自分の他のフォロワーすべてを消滅させる。それぞれコストの異なるエルフ・フォロワー（[u][ffcd45]化かし女将・ホズミ[-][/u]を除く）をランダムにX枚、自分のデッキから場に出す。Xは「これで消滅させた自分のフォロワーの数」である。",
+      "evo_skill_disc": "進化時 相手のフォロワー2体をフェアリーに変身させる。",
+      "org_evo_skill_disc": "[u][ffcd45]進化時[-][/u] 相手のフォロワー2体を[u][ffcd45]フェアリー[-][/u]に変身させる。",
+      "cost": 3,
+      "atk": 3,
+      "life": 3,
+      "evo_atk": 5,
+      "evo_life": 5,
+      "rarity": 4,
+      "get_red_ether": 1000,
+      "use_red_ether": 0,
+      "description": "一夜のお代は驚倒にて。んー佳き叫び。森の衆も大喜び♪<br>畏れは妖狸の好餌、またお腹が丸くなってしまいます。<br>森が営む夢幻のお宿、人はいつでも大歓迎です。ポン♪<br>――竹藪の老舗旅館、四",
+      "evo_description": "日々に疲れていた男が、珍しく街道で狸を見かけた。<br>「大自然に囲まれて、憩いの時を過ごしませんか？ 」<br>空耳か、はたまた幻聴か。男は無性に緑が恋しくなった。<br>――ある者の旅のきっかけ",
+      "cv": "高尾奏音",
+      "copyright": null,
+      "base_card_id": 124141010,
+      "normal_card_id": 717141010,
+      "format_type": 1,
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 900131010,
@@ -8562,11 +9454,13 @@
       "description": "其の嘴、神をも穿つ。",
       "evo_description": "其の嘴、神をも喰らう。",
       "cv": "-",
-      "copyright": "",
+      "copyright": null,
       "base_card_id": 900131010,
       "normal_card_id": 900131010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 900141020,
@@ -8602,7 +9496,9 @@
       "base_card_id": 900141020,
       "normal_card_id": 900141020,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 900141030,
@@ -8638,7 +9534,9 @@
       "base_card_id": 900141030,
       "normal_card_id": 900141030,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 101114060,
@@ -8670,11 +9568,13 @@
       "description": "燃えてぶっ飛んで凍って弾けろ！",
       "evo_description": "",
       "cv": "-",
-      "copyright": "",
+      "copyright": null,
       "base_card_id": 101114060,
       "normal_card_id": 101114060,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 102124020,
@@ -8706,11 +9606,13 @@
       "description": "護るべき者の数だけ、矢をつがえる。",
       "evo_description": "",
       "cv": "-",
-      "copyright": "",
+      "copyright": null,
       "base_card_id": 102124020,
       "normal_card_id": 102124020,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 103124010,
@@ -8742,11 +9644,13 @@
       "description": "自然の前では何者も無力だ。",
       "evo_description": "",
       "cv": "-",
-      "copyright": "",
+      "copyright": null,
       "base_card_id": 103124010,
       "normal_card_id": 103124010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 103134010,
@@ -8778,11 +9682,13 @@
       "description": "鷹爪が刻んだ傷は、狩人が狙う目印となる。",
       "evo_description": "",
       "cv": "中村悠一",
-      "copyright": "",
+      "copyright": null,
       "base_card_id": 103134010,
       "normal_card_id": 103134010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 104114010,
@@ -8814,11 +9720,13 @@
       "description": "子供が喜ぶオモチャに見えるが、ありゃ魔術師の火弾より厄介だぞ。",
       "evo_description": "",
       "cv": "-",
-      "copyright": "",
+      "copyright": null,
       "base_card_id": 104114010,
       "normal_card_id": 104114010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 107124010,
@@ -8854,7 +9762,9 @@
       "base_card_id": 107124010,
       "normal_card_id": 107124010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 113114010,
@@ -8890,7 +9800,9 @@
       "base_card_id": 113114010,
       "normal_card_id": 113114010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 709114020,
@@ -8926,7 +9838,9 @@
       "base_card_id": 113114010,
       "normal_card_id": 709114020,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 113144010,
@@ -8962,7 +9876,9 @@
       "base_card_id": 113144010,
       "normal_card_id": 113144010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 117134010,
@@ -8998,7 +9914,9 @@
       "base_card_id": 117134010,
       "normal_card_id": 117134010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 118114010,
@@ -9034,7 +9952,47 @@
       "base_card_id": 118114010,
       "normal_card_id": 118114010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
+    },
+    {
+      "card_id": 124134010,
+      "foil_card_id": 124134011,
+      "card_set_id": 10024,
+      "card_name": "夢のもてなし",
+      "card_name_ruby": "[rub<ゆめ>]夢[/rub]のもてなし",
+      "is_foil": 0,
+      "char_type": 4,
+      "clan": 1,
+      "tribe_name": "宴楽",
+      "skill": "select,select,metamorphose,metamorphose,cost_change",
+      "skill_condition": "{both.inplay.unit.selectable.count}>0&{me.hand_other_self.unit.count}>0,{both.inplay.unit.selectable.count}>0&{me.hand_other_self.unit.count}>0,character=me,play_count>2,play_count>2",
+      "skill_target": "character=both&target=inplay&card_type=unit,character=me&target=hand_other_self&card_type=unit,character=both&target=inplay&card_type=all&select_index=0,character=me&target=hand_other_self&card_type=all&select_index=1,character=me&target=last_target&card_type=all",
+      "skill_option": "none,none,metamorphose=100111050,metamorphose=101121060,set=0",
+      "skill_preprocess": "none,none,none,none,none",
+      "skill_disc": "場のフォロワー1体と自分の手札のフォロワー1枚を選択する。<br>前者をトレントに変身させる。<br>このターン中に（これを含めず）カードを2枚以上プレイしていたなら、後者をエルダートレントに変身させる。そのコストを0にする。<br>（2枚を選択できるなら、プレイできる）",
+      "org_skill_disc": "場のフォロワー1体と自分の手札のフォロワー1枚を選択する。<br>前者を[u][ffcd45]トレント[-][/u]に変身させる。<br>このターン中に（これを含めず）カードを2枚以上プレイしていたなら、後者を[u][ffcd45]エルダートレント[-][/u]に変身させる。そのコストを0にする。<br>（2枚を選択できるなら、プレイできる）",
+      "evo_skill_disc": "",
+      "org_evo_skill_disc": "",
+      "cost": 3,
+      "atk": 0,
+      "life": 0,
+      "evo_atk": 0,
+      "evo_life": 0,
+      "rarity": 3,
+      "get_red_ether": 250,
+      "use_red_ether": 800,
+      "description": "「ヘビをムシャムシャ、石をガリボリ。クスクスクス」<br>「泥に浸かって極楽極楽、キツネのフンも混ぜちゃった」<br>「楽しいね！楽しいね！あ、クマの巣穴に入ってく！」<br>――竹藪の老舗旅館、三",
+      "evo_description": "",
+      "cv": "高尾奏音",
+      "copyright": null,
+      "base_card_id": 124134010,
+      "normal_card_id": 124134010,
+      "format_type": 1,
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 900124030,
@@ -9070,7 +10028,9 @@
       "base_card_id": 900124030,
       "normal_card_id": 900124030,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 900144060,
@@ -9106,7 +10066,9 @@
       "base_card_id": 900144060,
       "normal_card_id": 900144060,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 101112010,
@@ -9138,11 +10100,13 @@
       "description": "ニンゲンさん、一緒に遊ぼうよ！",
       "evo_description": "",
       "cv": "-",
-      "copyright": "",
+      "copyright": null,
       "base_card_id": 101112010,
       "normal_card_id": 101112010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 104123010,
@@ -9174,11 +10138,13 @@
       "description": "「このニンゲン、どっちの口に連れてこっか？」<br>妖精たちは、彼女たちにしか分からない言葉でクスクス笑った。<br>「森の出口？それとも、あの子のお口？」",
       "evo_description": "",
       "cv": "-",
-      "copyright": "",
+      "copyright": null,
       "base_card_id": 104123010,
       "normal_card_id": 104123010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 105112010,
@@ -9210,11 +10176,13 @@
       "description": "う～ん！ステキな音楽ね！なんだか気持ちがキラキラしてきちゃう！―フェアリー",
       "evo_description": "",
       "cv": "-",
-      "copyright": "",
+      "copyright": null,
       "base_card_id": 105112010,
       "normal_card_id": 105112010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 111113010,
@@ -9250,7 +10218,9 @@
       "base_card_id": 111113010,
       "normal_card_id": 111113010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 112122010,
@@ -9286,7 +10256,9 @@
       "base_card_id": 112122010,
       "normal_card_id": 112122010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 709122010,
@@ -9322,7 +10294,9 @@
       "base_card_id": 112122010,
       "normal_card_id": 709122010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 100111030,
@@ -9354,11 +10328,13 @@
       "description": "森の奥深くに住まうという、白き狼。森の民の願いを背負い、自然を害する者に牙を剝く。",
       "evo_description": "その瞳は悪しき起こりを見つけ出し、その爪は邪まなる存在を引き裂く。白狼が居る限り、悪意ある者は森に近付くことさえ叶わない。",
       "cv": "-",
-      "copyright": "",
+      "copyright": null,
       "base_card_id": 100111030,
       "normal_card_id": 100111030,
       "format_type": 1,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 100121030,
@@ -9390,11 +10366,13 @@
       "description": "この薔薇の庭園には誰も通すな、と言われておりますの。立ち去っていただけませんか？手荒な真似はしたくないのです。",
       "evo_description": "聞き入れて貰えないのなら、容赦は致しませんわ。薔薇の茨に包まれて…息絶えなさい。醜く愚かな貴方でも、薔薇園の肥料にはなるでしょう。",
       "cv": "潘めぐみ",
-      "copyright": "",
+      "copyright": null,
       "base_card_id": 100121030,
       "normal_card_id": 100121030,
       "format_type": 1,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 101121080,
@@ -9426,11 +10404,13 @@
       "description": "刹那に咲く命を奪う…悪しき者たちよ。神樹さまは、あなた方の行いに嘆いておられます。…その邪まなる魂、私が払ってみせましょう。",
       "evo_description": "森に響く木々の嘆きは、負の魔力を生み出します。それは根と根に伝わり…神樹さまを苦しませるのです。安心なさい。森は罪深き者の死体も…新たなる木々への糧としますから。",
       "cv": "藤村歩",
-      "copyright": "",
+      "copyright": null,
       "base_card_id": 101121080,
       "normal_card_id": 101121080,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 101121090,
@@ -9462,11 +10442,13 @@
       "description": "牡鹿の翼がはためく。巻き起こった疾風が、弱き者の背を押し、力を与えた。",
       "evo_description": "牡鹿が生み出す疾風は、力無き者を鼓舞し、前へ踏み出す勇気を与えた。",
       "cv": "-",
-      "copyright": "",
+      "copyright": null,
       "base_card_id": 101121090,
       "normal_card_id": 101121090,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 101131010,
@@ -9498,11 +10480,13 @@
       "description": "花園を荒らすようなやつは、あたしがこの剣でこらしめてやるの！チクっとさせて、おいはらってあげるんだから！",
       "evo_description": "『『花園を荒らすようなやつは、あたしたちがこの剣でこらしめてやるの！チクチクっとさせて、おいはらってあげるんだから！』』",
       "cv": "丸山美紀",
-      "copyright": "",
+      "copyright": null,
       "base_card_id": 101131010,
       "normal_card_id": 101131010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 102111040,
@@ -9534,11 +10518,13 @@
       "description": "木を隠すなら森の中！アタシのこと、見つけられるかなー？",
       "evo_description": "隠れてこっそり、ガォー！えっへへ、どう？びっくりしたでしょ？",
       "cv": "山本希望",
-      "copyright": "",
+      "copyright": null,
       "base_card_id": 102111040,
       "normal_card_id": 102111040,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 102121010,
@@ -9570,11 +10556,13 @@
       "description": "永き時を生きる妖狐。囚われし友を救うべく、紅蓮の狐火を操り闇を浄化する。憤激の炎は誰も逃さなかった。",
       "evo_description": "友を救うべく、闇の中で狐火を躍らせる。灼熱の炎は襲い来る敵を裁き、その紅蓮は闇を隅々まで照らしだした。",
       "cv": "植田佳奈",
-      "copyright": "",
+      "copyright": null,
       "base_card_id": 102121010,
       "normal_card_id": 102121010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 103111030,
@@ -9606,11 +10594,13 @@
       "description": "私は森の騎士。妖精と共に敵を討つのが私の使命だ！",
       "evo_description": "妖精よ、我が刃に祝福を！その翅が輝く限り、私は森の敵を討ち続けよう！",
       "cv": "南條愛乃",
-      "copyright": "",
+      "copyright": null,
       "base_card_id": 103111030,
       "normal_card_id": 103111030,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 104121030,
@@ -9642,11 +10632,13 @@
       "description": "お嬢様に御用ですか？えっと……失礼ですが、どちら様でしょうか？素性の知れぬ者を通すわけにはいきませんので。",
       "evo_description": "お嬢様の傍にいるためには、ありとあらゆることが出来なければなりません。剣も魔法も雑務も……全てを完璧にこなしてこそ、執事なのです！",
       "cv": "石原夏織",
-      "copyright": "",
+      "copyright": null,
       "base_card_id": 104121030,
       "normal_card_id": 104121030,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 105111010,
@@ -9678,11 +10670,13 @@
       "description": "私は生来よりこの姿。花弁ほどの服をまとい、花のベッドで眠るのです。……ふふ、だからといって軽く見ないでくださいませ。花に棘はつきものですから。",
       "evo_description": "私が小さいのではなく、あなた方が大きすぎるのです。慎ましく咲いてこそ、花は美しく映るというもの。ニンゲンの方々も、少しは慎ましく生きてはいかが？",
       "cv": "植田佳奈",
-      "copyright": "",
+      "copyright": null,
       "base_card_id": 105111010,
       "normal_card_id": 105111010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 105121020,
@@ -9714,11 +10708,13 @@
       "description": "戦いで得た機知が、戦士を更なる高みへ導く。まるで森の木々が如く、彼は戦の最中で成長する。",
       "evo_description": "芽生えし命を救うべく、戦士は敵に立ち向かう。その大鎚は闘気を纏い、振り下ろされる度に勢いを増した。",
       "cv": "大友龍三郎",
-      "copyright": "",
+      "copyright": null,
       "base_card_id": 105121020,
       "normal_card_id": 105121020,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 105131020,
@@ -9750,11 +10746,13 @@
       "description": "うるさく飛び回る虫ケラどもが……さっさと黙って私に従え。キサマらは所詮、害虫に過ぎんのだからな。",
       "evo_description": "虫ケラどもに唯一の価値があるのだとすれば……死の間際にあげる断末魔の悲鳴のみよ。ハハハ！せいぜい私の耳を楽しませるがいい！",
       "cv": "興津和幸",
-      "copyright": "",
+      "copyright": null,
       "base_card_id": 105131020,
       "normal_card_id": 105131020,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 106121020,
@@ -9786,11 +10784,13 @@
       "description": "魔法薬を用いれば、自然すら操れます。<br>ですが、気を付けて下さいね。<br>配合を間違うと命に関わりますので。",
       "evo_description": "慎重に、それでいて恐れずに。<br>心して用いれば、魔法薬はこれ以上なく便利です。<br>……では、これで授業を終わります。また来週。",
       "cv": "能登麻美子",
-      "copyright": "",
+      "copyright": null,
       "base_card_id": 106121020,
       "normal_card_id": 106121020,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 107111020,
@@ -9826,7 +10826,9 @@
       "base_card_id": 107111020,
       "normal_card_id": 107111020,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 107141010,
@@ -9862,7 +10864,9 @@
       "base_card_id": 107141010,
       "normal_card_id": 107141010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 704141010,
@@ -9898,7 +10902,9 @@
       "base_card_id": 107141010,
       "normal_card_id": 704141010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 108111010,
@@ -9934,7 +10940,9 @@
       "base_card_id": 108111010,
       "normal_card_id": 108111010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 108121010,
@@ -9970,7 +10978,9 @@
       "base_card_id": 108121010,
       "normal_card_id": 108121010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 109121010,
@@ -10006,7 +11016,9 @@
       "base_card_id": 109121010,
       "normal_card_id": 109121010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 109131020,
@@ -10042,7 +11054,9 @@
       "base_card_id": 109131020,
       "normal_card_id": 109131020,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 110111010,
@@ -10078,7 +11092,9 @@
       "base_card_id": 110111010,
       "normal_card_id": 110111010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 110121020,
@@ -10114,7 +11130,9 @@
       "base_card_id": 110121020,
       "normal_card_id": 110121020,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 111131020,
@@ -10150,7 +11168,9 @@
       "base_card_id": 111131020,
       "normal_card_id": 111131020,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 111131030,
@@ -10186,7 +11206,9 @@
       "base_card_id": 111131030,
       "normal_card_id": 111131030,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 111141010,
@@ -10222,7 +11244,9 @@
       "base_card_id": 111141010,
       "normal_card_id": 111141010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 112121010,
@@ -10258,7 +11282,9 @@
       "base_card_id": 112121010,
       "normal_card_id": 112121010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 113111010,
@@ -10294,7 +11320,9 @@
       "base_card_id": 113111010,
       "normal_card_id": 113111010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 114111010,
@@ -10330,7 +11358,9 @@
       "base_card_id": 114111010,
       "normal_card_id": 114111010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 114121010,
@@ -10366,7 +11396,9 @@
       "base_card_id": 114121010,
       "normal_card_id": 114121010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 115131010,
@@ -10402,7 +11434,9 @@
       "base_card_id": 115131010,
       "normal_card_id": 115131010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 116131020,
@@ -10438,7 +11472,9 @@
       "base_card_id": 116131020,
       "normal_card_id": 116131020,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 117111010,
@@ -10474,7 +11510,9 @@
       "base_card_id": 117111010,
       "normal_card_id": 117111010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 117131010,
@@ -10510,7 +11548,9 @@
       "base_card_id": 117131010,
       "normal_card_id": 117131010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 118121020,
@@ -10546,7 +11586,9 @@
       "base_card_id": 118121020,
       "normal_card_id": 118121020,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 119111030,
@@ -10581,8 +11623,10 @@
       "copyright": null,
       "base_card_id": 119111030,
       "normal_card_id": 119111030,
-      "format_type": 1,
-      "restricted_count": 3
+      "format_type": 0,
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 119131020,
@@ -10617,8 +11661,10 @@
       "copyright": null,
       "base_card_id": 119131020,
       "normal_card_id": 119131020,
-      "format_type": 1,
-      "restricted_count": 3
+      "format_type": 0,
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 119141010,
@@ -10653,8 +11699,10 @@
       "copyright": null,
       "base_card_id": 119141010,
       "normal_card_id": 119141010,
-      "format_type": 1,
-      "restricted_count": 3
+      "format_type": 0,
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 120141010,
@@ -10690,7 +11738,9 @@
       "base_card_id": 120141010,
       "normal_card_id": 120141010,
       "format_type": 1,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 121111030,
@@ -10726,7 +11776,9 @@
       "base_card_id": 121111030,
       "normal_card_id": 121111030,
       "format_type": 1,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 121121020,
@@ -10762,7 +11814,9 @@
       "base_card_id": 121121020,
       "normal_card_id": 121121020,
       "format_type": 1,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 121141020,
@@ -10798,7 +11852,9 @@
       "base_card_id": 121141020,
       "normal_card_id": 121141020,
       "format_type": 1,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 122111010,
@@ -10834,7 +11890,9 @@
       "base_card_id": 122111010,
       "normal_card_id": 122111010,
       "format_type": 1,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 122141010,
@@ -10870,7 +11928,9 @@
       "base_card_id": 122141010,
       "normal_card_id": 122141010,
       "format_type": 1,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 715141010,
@@ -10906,7 +11966,9 @@
       "base_card_id": 122141010,
       "normal_card_id": 715141010,
       "format_type": 1,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 123121020,
@@ -10942,7 +12004,9 @@
       "base_card_id": 123121020,
       "normal_card_id": 123121020,
       "format_type": 1,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 123141020,
@@ -10978,7 +12042,47 @@
       "base_card_id": 123141020,
       "normal_card_id": 123141020,
       "format_type": 1,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
+    },
+    {
+      "card_id": 124141020,
+      "foil_card_id": 124141021,
+      "card_set_id": 10024,
+      "card_name": "四季の化身",
+      "card_name_ruby": "[rub<しき>]四季[/rub]の[rub<けしん>]化身[/rub]",
+      "is_foil": 0,
+      "char_type": 1,
+      "clan": 1,
+      "tribe_name": "-",
+      "skill": "guard,random_array,powerup,attach_skill",
+      "skill_condition": "character=me,character=me,character=me,character=me",
+      "skill_target": "character=me&target=self,character=me&target=self&card_type=all,character=me&target=self,character=me&target=inplay&card_type=class",
+      "skill_option": "none,sum={me.inplay.class.turn}&random_range=2&show_battle_log=true,add_offense={self.random_index=0}&add_life={self.random_index=1},skill=(skill:summon_token)(timing:when_play_other)(condition:character=me&play_count=4)(target:none)(option:summon_token=124141020)(preprocess:remove_after_action=(count=1))&duplicate_ban_id=1241410201",
+      "skill_preprocess": "none,none,none,none",
+      "skill_disc": "守護 <br>場に出たとき、+X/+Yする。XとYは、合計が「この自分のターン数」になるようにランダムに決まる。<br>場を離れるとき、自分のリーダーは「自分がカードをプレイしたとき、それがこのターン中に4枚目なら、四季の化身1体を出し、この能力を失う」を持つ。リーダーはこの能力を重複して持たない。（変身した場合を除く）",
+      "org_skill_disc": "[u][ffcd45]守護[-][/u] <br>場に出たとき、+X/+Yする。XとYは、合計が「この自分のターン数」になるようにランダムに決まる。<br>場を離れるとき、自分のリーダーは「自分がカードをプレイしたとき、それがこのターン中に4枚目なら、[u][ffcd45]四季の化身[-][/u]1体を出し、この能力を失う」を持つ。リーダーはこの能力を重複して持たない。（変身した場合を除く）",
+      "evo_skill_disc": "進化前と同じ能力。",
+      "org_evo_skill_disc": "進化前と同じ能力。",
+      "cost": 4,
+      "atk": 1,
+      "life": 1,
+      "evo_atk": 3,
+      "evo_life": 3,
+      "rarity": 4,
+      "get_red_ether": 1000,
+      "use_red_ether": 3500,
+      "description": "春の精と夏の精は言う。巡りが移れば一人欠けて寂しい。<br>秋の精と冬の精は言う。一緒にいられる方法を考えよう。<br>四季の精は一本の樹に力を与え、森も跨ぐ巨人に変える。<br>それから四人は、樹人の身体に住むようになった。",
+      "evo_description": "大いなる季節の運び手。四季の精が住まう場所。<br>樹人が落としていくは、無秩序なる春夏秋冬。<br>豪雪。炎天。暴風。豪雨。目も回る天変地異。<br>時節は失せ、適応できぬ動植物から死に絶えていく。",
+      "cv": "-",
+      "copyright": null,
+      "base_card_id": 124141020,
+      "normal_card_id": 124141020,
+      "format_type": 1,
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 810131010,
@@ -11014,7 +12118,9 @@
       "base_card_id": 810131010,
       "normal_card_id": 810131010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 900121020,
@@ -11050,7 +12156,9 @@
       "base_card_id": 900121020,
       "normal_card_id": 900121020,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 900141010,
@@ -11082,11 +12190,13 @@
       "description": "氷晶宮に立ち入りし者よ。我らが姫に仇為すのならば、容赦はせんぞ。",
       "evo_description": "黙って立ち去るのならば、それでよし。刃向うのならば…貴様に氷結の洗礼をくれてやろう。",
       "cv": "大原さやか",
-      "copyright": "",
+      "copyright": null,
       "base_card_id": 900141010,
       "normal_card_id": 900141010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 101114030,
@@ -11118,11 +12228,13 @@
       "description": "悪い言い方をすりゃあ、「よってたかって奪い取る」ってとこだな。",
       "evo_description": "",
       "cv": "-",
-      "copyright": "",
+      "copyright": null,
       "base_card_id": 101114030,
       "normal_card_id": 101114030,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 108124010,
@@ -11158,7 +12270,9 @@
       "base_card_id": 108124010,
       "normal_card_id": 108124010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 109134010,
@@ -11194,7 +12308,9 @@
       "base_card_id": 109134010,
       "normal_card_id": 109134010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 113124010,
@@ -11230,7 +12346,9 @@
       "base_card_id": 113124010,
       "normal_card_id": 113124010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 117114010,
@@ -11266,7 +12384,9 @@
       "base_card_id": 117114010,
       "normal_card_id": 117114010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 101122010,
@@ -11298,11 +12418,13 @@
       "description": "豊穣に感謝を。",
       "evo_description": "",
       "cv": "-",
-      "copyright": "",
+      "copyright": null,
       "base_card_id": 101122010,
       "normal_card_id": 101122010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 104132010,
@@ -11334,11 +12456,13 @@
       "description": "妖精は我等より遥かに長命で、遥かに賢い。故に知恵比べをするのではなく、彼女たちの好奇心を刺激するのだ。―『妖精捕えの覚え書』、第三項",
       "evo_description": "",
       "cv": "-",
-      "copyright": "",
+      "copyright": null,
       "base_card_id": 104132010,
       "normal_card_id": 104132010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 116123010,
@@ -11374,7 +12498,9 @@
       "base_card_id": 116123010,
       "normal_card_id": 116123010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 100111050,
@@ -11406,11 +12532,13 @@
       "description": "純粋なる願いに突き動かされ、樹人は森を彷徨い歩く。森の民の祈りにより、その幹は太さを増し、その体躯は強靭になるという。",
       "evo_description": "森の民が祈り続ける限り、樹人はその力を発揮し続ける。だがもし、願いが絶えたその時には…樹人は荒れ狂う亡霊と化すだろう。",
       "cv": "-",
-      "copyright": "",
+      "copyright": null,
       "base_card_id": 100111050,
       "normal_card_id": 100111050,
       "format_type": 1,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 101111080,
@@ -11442,11 +12570,13 @@
       "description": "お帰り、僕の可愛い妖精さん。森の様子はどうだった？…そうか。やはり瘴気のせいで魔物が増えているんだね…。早く何とかしないと。",
       "evo_description": "妖精さんたちが力を貸してくれたお陰で、森の瘴気を浄化できたよ。さあ、避難している森の仲間たちを迎えに行こう！",
       "cv": "濱野大輝",
-      "copyright": "",
+      "copyright": null,
       "base_card_id": 101111080,
       "normal_card_id": 101111080,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 101121050,
@@ -11478,11 +12608,13 @@
       "description": "この森の行く末を視通し、民を護るが我が勤め。その身に危機が迫りし、その時には…私が必ず、導いて差し上げましょう。",
       "evo_description": "私の瞳は、未来を視ます。ですが…運命とは移ろうもの。変わるもの。例え、この双眼に苦難と困難だけが映ろうとも…私は決して諦めません。",
       "cv": "清水理沙",
-      "copyright": "",
+      "copyright": null,
       "base_card_id": 101121050,
       "normal_card_id": 101121050,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 101131030,
@@ -11514,11 +12646,13 @@
       "description": "悠久の時を生きる、母なる妖精。永き時の中で知識を蓄え、森の民を導く。彼女は争いを嫌い、秩序を好み、長き平定を齎した。",
       "evo_description": "彼女はまた、冷徹な審判者でもある。厄災を招く者に裁きを下し、秩序を乱す者に粛清を与える。",
       "cv": "赤﨑千夏",
-      "copyright": "",
+      "copyright": null,
       "base_card_id": 101131030,
       "normal_card_id": 101131030,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 101131050,
@@ -11550,11 +12684,13 @@
       "description": "白壁の城より深き森に移り、人々の力となった英雄。彼が住まう森に一歩でも立ち入った者には、すぐさま矢が突き刺さったと言う。",
       "evo_description": "森の主、弱き者の護り手、緑の義賊…人々は数多くの名で彼を讃えた。気高き誇りと熱き血、燃ゆる思いを胸に湛えて、彼は今日も弓を引く。",
       "cv": "河西健吾",
-      "copyright": "",
+      "copyright": null,
       "base_card_id": 101131050,
       "normal_card_id": 101131050,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 102111060,
@@ -11586,11 +12722,13 @@
       "description": "平穏を望み、深緑を護る者。優しく、暖かき言葉にて、森の民を導くという。",
       "evo_description": "安寧を望み、深緑を護る者。森に害為す者あれば、森護る友と共に迎え撃つ。",
       "cv": "井上和彦",
-      "copyright": "",
+      "copyright": null,
       "base_card_id": 102111060,
       "normal_card_id": 102111060,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 102141010,
@@ -11622,11 +12760,13 @@
       "description": "氷に閉ざされた城の最奥に住む、氷晶族の姫。人と神の間に立ち、氷晶の輝きを見守っている。",
       "evo_description": "永き時を生きる、氷晶族の姫。彼女が持つ歴史と記憶の全ては、氷晶の中に記録されている。",
       "cv": "大亀あすか",
-      "copyright": "",
+      "copyright": null,
       "base_card_id": 102141010,
       "normal_card_id": 102141010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 103121020,
@@ -11658,11 +12798,13 @@
       "description": "よし…命中…って、あれ？なんで死んでないの？天馬の鬣で作った弓は、邪悪なやつらをぶっ壊しちゃうはずなのに。",
       "evo_description": "天馬の鬣で作った弓は、邪悪なものを決して許さない。…今度はもう外さないよ。それじゃあ、ぶっ壊れちゃってね。",
       "cv": "ひと美",
-      "copyright": "",
+      "copyright": null,
       "base_card_id": 103121020,
       "normal_card_id": 103121020,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 103121040,
@@ -11694,11 +12836,13 @@
       "description": "君はとっても可愛いね。さぁ、僕の胸へ飛び込んでおいで。フォレストボアがごとく真っ直ぐにね…。",
       "evo_description": "彼らを傷付けようとするなんて、許せないな。動物たちを護るためならば、僕はフォレストドラゴンのように吼え猛るよ。",
       "cv": "鈴村健一",
-      "copyright": "",
+      "copyright": null,
       "base_card_id": 103121040,
       "normal_card_id": 103121040,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 103131020,
@@ -11730,11 +12874,13 @@
       "description": "命の輝きは有限で、宝石の輝きは無限なの。ふふっ、どちらが優れているかは明白でしょ？さぁ、臣下たち！無限なる輝きを護りなさいよ！",
       "evo_description": "命の輝きは有限で、宝石の輝きは無限なの。永遠を生きるエルフにとって、宝石は掛け替えのない友なの！だから、命をかけて護りなさいよね！",
       "cv": "牧野由依",
-      "copyright": "",
+      "copyright": null,
       "base_card_id": 103131020,
       "normal_card_id": 103131020,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 104131030,
@@ -11766,11 +12912,13 @@
       "description": "尊き森を侵せし者共よ、去るが良い！去らぬのならば……私とその同胞が容赦はせんぞ！",
       "evo_description": "吼えよ！猛れ！悪しき者共に威を示すのだ！我らこそが森の意志！邪悪なる者らを決して許さぬ、自然の守護者だ！",
       "cv": "廣瀬大介",
-      "copyright": "",
+      "copyright": null,
       "base_card_id": 104131030,
       "normal_card_id": 104131030,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 106131010,
@@ -11802,11 +12950,13 @@
       "description": "賢者も愚者も、英雄も凶賊も……<br>愛の前では全てが等しい。<br>さぁ、愛を尊ぶ宴を始めましょう。",
       "evo_description": "愛をもって迫る者。愛をもって身を引く者。<br>愛とは心を多様に変えます。<br>さぁ、あなたの愛を見せてください。",
       "cv": "井上喜久子",
-      "copyright": "",
+      "copyright": null,
       "base_card_id": 106131010,
       "normal_card_id": 106131010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 108131020,
@@ -11842,7 +12992,9 @@
       "base_card_id": 108131020,
       "normal_card_id": 108131020,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 109121020,
@@ -11878,7 +13030,9 @@
       "base_card_id": 109121020,
       "normal_card_id": 109121020,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 109141010,
@@ -11914,7 +13068,9 @@
       "base_card_id": 109141010,
       "normal_card_id": 109141010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 109141020,
@@ -11950,7 +13106,9 @@
       "base_card_id": 109141020,
       "normal_card_id": 109141020,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 110121010,
@@ -11986,7 +13144,9 @@
       "base_card_id": 110121010,
       "normal_card_id": 110121010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 110131020,
@@ -12022,7 +13182,9 @@
       "base_card_id": 110131020,
       "normal_card_id": 110131020,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 111121010,
@@ -12058,7 +13220,9 @@
       "base_card_id": 111121010,
       "normal_card_id": 111121010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 111131010,
@@ -12094,7 +13258,9 @@
       "base_card_id": 111131010,
       "normal_card_id": 111131010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 112121020,
@@ -12130,7 +13296,9 @@
       "base_card_id": 112121020,
       "normal_card_id": 112121020,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 113111020,
@@ -12166,7 +13334,9 @@
       "base_card_id": 113111020,
       "normal_card_id": 113111020,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 114141020,
@@ -12202,7 +13372,9 @@
       "base_card_id": 114141020,
       "normal_card_id": 114141020,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 714141010,
@@ -12238,7 +13410,9 @@
       "base_card_id": 114141020,
       "normal_card_id": 714141010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 116111010,
@@ -12274,7 +13448,9 @@
       "base_card_id": 116111010,
       "normal_card_id": 116111010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 116131010,
@@ -12310,7 +13486,9 @@
       "base_card_id": 116131010,
       "normal_card_id": 116131010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 117121010,
@@ -12346,7 +13524,9 @@
       "base_card_id": 117121010,
       "normal_card_id": 117121010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 118121010,
@@ -12382,7 +13562,9 @@
       "base_card_id": 118121010,
       "normal_card_id": 118121010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 118141020,
@@ -12418,7 +13600,9 @@
       "base_card_id": 118141020,
       "normal_card_id": 118141020,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 118141030,
@@ -12454,7 +13638,9 @@
       "base_card_id": 118141030,
       "normal_card_id": 118141030,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 119111020,
@@ -12489,8 +13675,10 @@
       "copyright": null,
       "base_card_id": 119111020,
       "normal_card_id": 119111020,
-      "format_type": 1,
-      "restricted_count": 3
+      "format_type": 0,
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 120121010,
@@ -12526,7 +13714,9 @@
       "base_card_id": 120121010,
       "normal_card_id": 120121010,
       "format_type": 1,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 122121010,
@@ -12562,7 +13752,9 @@
       "base_card_id": 122121010,
       "normal_card_id": 122121010,
       "format_type": 1,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 123111010,
@@ -12598,7 +13790,9 @@
       "base_card_id": 123111010,
       "normal_card_id": 123111010,
       "format_type": 1,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 123121010,
@@ -12634,7 +13828,9 @@
       "base_card_id": 123121010,
       "normal_card_id": 123121010,
       "format_type": 1,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 101134010,
@@ -12666,11 +13862,13 @@
       "description": "悪しき者らを土へと還せ。",
       "evo_description": "",
       "cv": "-",
-      "copyright": "",
+      "copyright": null,
       "base_card_id": 101134010,
       "normal_card_id": 101134010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 122114010,
@@ -12706,7 +13904,9 @@
       "base_card_id": 122114010,
       "normal_card_id": 122114010,
       "format_type": 1,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 810134010,
@@ -12742,7 +13942,9 @@
       "base_card_id": 810134010,
       "normal_card_id": 810134010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 101132010,
@@ -12774,11 +13976,13 @@
       "description": "麗しき女王が君臨し、色鮮やかな翅たちが溢れ、永遠の神秘が眠る場所。",
       "evo_description": "",
       "cv": "-",
-      "copyright": "",
+      "copyright": null,
       "base_card_id": 101132010,
       "normal_card_id": 101132010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 100111070,
@@ -12810,11 +14014,13 @@
       "description": "逃がさない！私の故郷を荒らしたこと、後悔させてあげるわ！私から逃げ切りたいなら、この矢よりも早く走って見せなさい！",
       "evo_description": "覚悟なさい！私に背を向けた時から、貴方達の運命は決まっているの！怯える必要はないわ。苦しまないように、一瞬で仕留めてあげるわ！",
       "cv": "川﨑芽衣子",
-      "copyright": "",
+      "copyright": null,
       "base_card_id": 100111070,
       "normal_card_id": 100111070,
       "format_type": 1,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 100121010,
@@ -12846,11 +14052,13 @@
       "description": "最初はね、植物の成長を促進させる薬から始めたの。研究と実験を何度も何度も繰り返して…今ではどんな成長効果も自由自在よ！",
       "evo_description": "植物に携わる者として…私には森の民を護る義務があるわ！さぁ皆、私が作った秘薬を飲んで！口にすればたちまち、力が漲ってくるわよ！",
       "cv": "芹澤優",
-      "copyright": "",
+      "copyright": null,
       "base_card_id": 100121010,
       "normal_card_id": 100121010,
       "format_type": 1,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 101121060,
@@ -12882,11 +14090,13 @@
       "description": "森の主である大樹が知性を宿した姿。雪の重みに軋む木々を支え、寒さに凍える草木を励ます。",
       "evo_description": "辛い冬を乗り越えれば、芽吹く春が待っている。妖精に導かれた森の主は、森の各所を訪れ、命溢れる季節を楽しんだ。",
       "cv": "-",
-      "copyright": "",
+      "copyright": null,
       "base_card_id": 101121060,
       "normal_card_id": 101121060,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 101121070,
@@ -12918,11 +14128,13 @@
       "description": "獣王より遣わされた、心優しき妖精族の守護者。その背に生える翼は、傷付いた森を癒すと言う。",
       "evo_description": "妖精たちからの感謝の祈りを受け取り、守護獣の翼は輝きを増す。敬愛と信頼を力に変えて、守護獣は悪しき者らを打ち払う。",
       "cv": "-",
-      "copyright": "",
+      "copyright": null,
       "base_card_id": 101121070,
       "normal_card_id": 101121070,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 101141010,
@@ -12954,11 +14166,13 @@
       "description": "ここは妖精たちの庭。清き心持つ子らの楽園です…。貴方も同じ澄んだ心を持っているのですか？輝きに導かれた人…。",
       "evo_description": "月の輝きも…森の木々も…ほら、妖精たちも貴方の事を祝福しているわ…。さぁ…この美しき月の下、私と共に踊りましょう？",
       "cv": "花澤香菜",
-      "copyright": "",
+      "copyright": null,
       "base_card_id": 101141010,
       "normal_card_id": 101141010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 102121030,
@@ -12990,11 +14204,13 @@
       "description": "太古の昔、自然は世界の全てだった。しかし知恵ある者らが自然を切り拓き、自然を侵した。",
       "evo_description": "太古の神は森の中心で咆哮をあげる。自然に害為す者らを消し去り、世界を元の姿に還すため。",
       "cv": "-",
-      "copyright": "",
+      "copyright": null,
       "base_card_id": 102121030,
       "normal_card_id": 102121030,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 102131010,
@@ -13026,11 +14242,13 @@
       "description": "森の平和を守るのが、護衛騎士たる私の役目。私は王の剣であり盾…全ては我が主のため、騎士シンシア、推して参ります。",
       "evo_description": "森の精よ…我が呼びかけに応えなさい。汝らもまた、我が主の剣であり盾…。輝けるその翅で、勝利への道を照らすのです！",
       "cv": "山本希望",
-      "copyright": "",
+      "copyright": null,
       "base_card_id": 102131010,
       "normal_card_id": 102131010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 102131020,
@@ -13062,11 +14280,13 @@
       "description": "悪いが…これが俺の役目なんでな。さぁ、大人しくして貰おうか。",
       "evo_description": "既に狙いは定めているぞ。お前の命運、ここに尽きたな。",
       "cv": "中村悠一",
-      "copyright": "",
+      "copyright": null,
       "base_card_id": 102131020,
       "normal_card_id": 102131020,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 103131030,
@@ -13098,11 +14318,13 @@
       "description": "戦を司る獅子の神。神域の平野を侵す者には、血の鉄槌を下す。情け容赦ない荒神の一薙ぎは、悪を両断した。",
       "evo_description": "魔の軍勢と戦う獅子神の猛威は止まらなかった。昼夜を超えて戦い、悪しきを殲滅して野護神の名を轟かせた。",
       "cv": "安元洋貴",
-      "copyright": "",
+      "copyright": null,
       "base_card_id": 103131030,
       "normal_card_id": 103131030,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 104131020,
@@ -13134,11 +14356,13 @@
       "description": "氷晶宮は私たちの棲家で、唯一の居場所。だから誰にも穢させないし、踏み入って欲しくもない。ねぇ、旅人さん。一つだけ教えてあげる。貴方……歓迎されてないわよ。",
       "evo_description": "貴方は私たちに興味があるようだけど……私は貴方に興味がないの。だから、出て行って？もし、そうしないのなら……貴方、氷漬けになってしまうわよ？",
       "cv": "高橋李依",
-      "copyright": "",
+      "copyright": null,
       "base_card_id": 104131020,
       "normal_card_id": 104131020,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 105121030,
@@ -13170,11 +14394,13 @@
       "description": "古の森を見守る大樹の霊。地脈を通じて森と繋がり、森と命を共にした。動物も大樹を愛し、森の番人と慕った。",
       "evo_description": "豊潤な土地を、森の恩恵と知った人々が供物を献上した。森の番人は妙薬の花びらを咲かせ、人々と友好を築いた。",
       "cv": "鶴岡聡",
-      "copyright": "",
+      "copyright": null,
       "base_card_id": 105121030,
       "normal_card_id": 105121030,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 105141010,
@@ -13206,11 +14432,13 @@
       "description": "嫋やかなる姫と、獰猛なる戦士。片や華、片や獣。釣り合いとれぬ身の形。然し、容貌の美醜でなく、心の美醜において繋がる二人には、恋慕を超えた絆があった。",
       "evo_description": "二人を繋ぐ絆は純愛。姿形は違えども、秘めたる友愛、秘めたる純心は誠に同じ。不朽の愛を誓った二人は、世界に恥じぬ幸せを得た。",
       "cv": "井上和彦/植田佳奈",
-      "copyright": "",
+      "copyright": null,
       "base_card_id": 105141010,
       "normal_card_id": 105141010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 106111030,
@@ -13242,11 +14470,13 @@
       "description": "沼の底で眠る者。<br>一つの巡りが来たる度、ぴしゃりと鳴き出す。<br>その鳴き声は空を叩き、恵みの雨を降らせると言う。",
       "evo_description": "雨季の到来を告げる者。<br>大雨と共に鳴り響く雷鳴は、<br>彼の者の鳴き声だと言われている。",
       "cv": "-",
-      "copyright": "",
+      "copyright": null,
       "base_card_id": 106111030,
       "normal_card_id": 106111030,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 106121030,
@@ -13278,11 +14508,13 @@
       "description": "ほの暗い森の奥に、鬼一匹。<br>携えし剣で大地を震わせ、立ち入りし者を排除する。",
       "evo_description": "枯木がざわめく森の奥に、鬼一匹。<br>興味、好奇でもって訪れる者よ。<br>ここには汝を斬り裂く者あり。",
       "cv": "-",
-      "copyright": "",
+      "copyright": null,
       "base_card_id": 106121030,
       "normal_card_id": 106121030,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 106141010,
@@ -13314,11 +14546,13 @@
       "description": "この世で並ぶ者が無い、わたくしの麗姿を讃えなさい！<br>たとえ輝ける星々であろうとも、<br>わたくしの前では霞んでしまうでしょう？",
       "evo_description": "わたくしの美貌はすなわち光、天を覆う至高の輝き！<br>さぁ、地上の者たちよ！<br>このわたくしのために、あらゆる賛美を用意なさい！",
       "cv": "伊藤かな恵",
-      "copyright": "",
+      "copyright": null,
       "base_card_id": 106141010,
       "normal_card_id": 106141010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 706141010,
@@ -13354,7 +14588,9 @@
       "base_card_id": 106141010,
       "normal_card_id": 706141010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 107131020,
@@ -13390,7 +14626,9 @@
       "base_card_id": 107131020,
       "normal_card_id": 107131020,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 108141010,
@@ -13426,7 +14664,9 @@
       "base_card_id": 108141010,
       "normal_card_id": 108141010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 108141020,
@@ -13462,7 +14702,9 @@
       "base_card_id": 108141020,
       "normal_card_id": 108141020,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 108141030,
@@ -13498,7 +14740,9 @@
       "base_card_id": 108141030,
       "normal_card_id": 108141030,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 111141020,
@@ -13534,7 +14778,9 @@
       "base_card_id": 111141020,
       "normal_card_id": 111141020,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 112141010,
@@ -13570,7 +14816,9 @@
       "base_card_id": 112141010,
       "normal_card_id": 112141010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 114111020,
@@ -13606,7 +14854,9 @@
       "base_card_id": 114111020,
       "normal_card_id": 114111020,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 116121020,
@@ -13642,7 +14892,9 @@
       "base_card_id": 116121020,
       "normal_card_id": 116121020,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 116141020,
@@ -13678,7 +14930,9 @@
       "base_card_id": 116141020,
       "normal_card_id": 116141020,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 117141020,
@@ -13714,7 +14968,9 @@
       "base_card_id": 117141020,
       "normal_card_id": 117141020,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 118131010,
@@ -13750,7 +15006,9 @@
       "base_card_id": 118131010,
       "normal_card_id": 118131010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 119141020,
@@ -13785,8 +15043,10 @@
       "copyright": null,
       "base_card_id": 119141020,
       "normal_card_id": 119141020,
-      "format_type": 1,
-      "restricted_count": 3
+      "format_type": 0,
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 120111030,
@@ -13822,7 +15082,9 @@
       "base_card_id": 120111030,
       "normal_card_id": 120111030,
       "format_type": 1,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 120131020,
@@ -13858,7 +15120,9 @@
       "base_card_id": 120131020,
       "normal_card_id": 120131020,
       "format_type": 1,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 120141030,
@@ -13894,7 +15158,9 @@
       "base_card_id": 120141030,
       "normal_card_id": 120141030,
       "format_type": 1,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 121141010,
@@ -13930,7 +15196,9 @@
       "base_card_id": 121141010,
       "normal_card_id": 121141010,
       "format_type": 1,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 122111020,
@@ -13966,7 +15234,85 @@
       "base_card_id": 122111020,
       "normal_card_id": 122111020,
       "format_type": 1,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
+    },
+    {
+      "card_id": 124121020,
+      "foil_card_id": 124121021,
+      "card_set_id": 10024,
+      "card_name": "森の遊撃者",
+      "card_name_ruby": "[rub<もり>]森[/rub]の[rub<ゆうげきしゃ>]遊撃者[/rub]",
+      "is_foil": 0,
+      "char_type": 1,
+      "clan": 1,
+      "tribe_name": "-",
+      "skill": "pp_fixeduse,transform,quick,damage",
+      "skill_condition": "{me.inplay.class.pp}>=1&{me.inplay.class.pp}<{me.hand_self.cost}&character=me&target=inplay&card_type=unit_and_allfield,{me.inplay.class.pp}>=1&{me.inplay.class.pp}<{me.hand_self.cost}&character=me&target=inplay&card_type=unit_and_allfield,{me.inplay.class.pp}>={me.hand_self.cost},character=me&target=attacker&attacker=self",
+      "skill_target": "none,none,character=me&target=self,character=op&target=inplay&card_type=unit",
+      "skill_option": "fixeduse=1,card_id=800124030,none,damage=2",
+      "skill_preprocess": "none,none,none,none",
+      "skill_disc": "アクセラレート 1； 自分のフォロワー1体か自分のアミュレット1つを手札に戻す。エルフ・フォロワーをランダムに1枚、自分のデッキから手札に加える。<br>---------- <br>疾走 <br>攻撃時 相手のフォロワーすべてに2ダメージ。",
+      "org_skill_disc": "[u][ffcd45]アクセラレート[-][/u] 1； 自分のフォロワー1体か自分のアミュレット1つを手札に戻す。エルフ・フォロワーをランダムに1枚、自分のデッキから手札に加える。<br>---------- <br>[u][ffcd45]疾走[-][/u] <br>[u][ffcd45]攻撃時[-][/u] 相手のフォロワーすべてに2ダメージ。",
+      "evo_skill_disc": "進化前と同じ能力。",
+      "org_evo_skill_disc": "進化前と同じ能力。",
+      "cost": 6,
+      "atk": 3,
+      "life": 3,
+      "evo_atk": 5,
+      "evo_life": 5,
+      "rarity": 2,
+      "get_red_ether": 50,
+      "use_red_ether": 200,
+      "description": "「跳ね回ってる田舎モンを見つけたニャ？」「ピィ！」<br>「外の奴は、森のお作法がなってねーニャア」「ガゥ！」<br>激情の三匹。彼らは森に危機が訪れるとき必ず現れる。<br>「この火祭りを血祭りに変えてやるニャア！」",
+      "evo_description": "鳥は敵を見つけ、狼は敵に急ぎ、猫が武器を振るう。<br>「なんだコイツら！」「た！助けてくれぇ！」<br>お祭り騒ぎの乱痴気騒ぎ。人は狩られる獲物に変わった。<br>「森と人との『突』き合い方を教えてやるニャ！」",
+      "cv": "赤羽根健治",
+      "copyright": null,
+      "base_card_id": 124121020,
+      "normal_card_id": 124121020,
+      "format_type": 1,
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
+    },
+    {
+      "card_id": 717121010,
+      "foil_card_id": 717121011,
+      "card_set_id": 70025,
+      "card_name": "サイレンススズカ",
+      "card_name_ruby": "サイレンススズカ",
+      "is_foil": 0,
+      "char_type": 1,
+      "clan": 1,
+      "tribe_name": "-",
+      "skill": "pp_fixeduse,transform,quick,damage",
+      "skill_condition": "{me.inplay.class.pp}>=1&{me.inplay.class.pp}<{me.hand_self.cost}&character=me&target=inplay&card_type=unit_and_allfield,{me.inplay.class.pp}>=1&{me.inplay.class.pp}<{me.hand_self.cost}&character=me&target=inplay&card_type=unit_and_allfield,{me.inplay.class.pp}>={me.hand_self.cost},character=me&target=attacker&attacker=self",
+      "skill_target": "none,none,character=me&target=self,character=op&target=inplay&card_type=unit",
+      "skill_option": "fixeduse=1,card_id=800124040,none,damage=2",
+      "skill_preprocess": "none,none,none,none",
+      "skill_disc": "アクセラレート 1； 自分のフォロワー1体か自分のアミュレット1つを手札に戻す。エルフ・フォロワーをランダムに1枚、自分のデッキから手札に加える。<br>---------- <br>疾走 <br>攻撃時 相手のフォロワーすべてに2ダメージ。",
+      "org_skill_disc": "[u][ffcd45]アクセラレート[-][/u] 1； 自分のフォロワー1体か自分のアミュレット1つを手札に戻す。エルフ・フォロワーをランダムに1枚、自分のデッキから手札に加える。<br>---------- <br>[u][ffcd45]疾走[-][/u] <br>[u][ffcd45]攻撃時[-][/u] 相手のフォロワーすべてに2ダメージ。",
+      "evo_skill_disc": "進化前と同じ能力。<br><br>※このカードは「森の遊撃者」として扱う。",
+      "org_evo_skill_disc": "進化前と同じ能力。<br><br>[c8c8b0ff]※このカードは「森の遊撃者」として扱う。[-]",
+      "cost": 6,
+      "atk": 3,
+      "life": 3,
+      "evo_atk": 5,
+      "evo_life": 5,
+      "rarity": 2,
+      "get_red_ether": 0,
+      "use_red_ether": 0,
+      "description": "両足が地面を蹴る感覚……体が熱くて、風は冷たい……。<br>聞こえるのは、風の音と心臓の鼓動だけ。<br>他に誰もいない、まっさらな……私だけの世界……！",
+      "evo_description": "『サイレンススズカ！堂々の1着でゴールだぁぁぁ！！』<br>私は――見たことのない景色を見続けていたい。<br>これからも、この先も、ずっと……！",
+      "cv": "高野麻里佳",
+      "copyright": null,
+      "base_card_id": 124121020,
+      "normal_card_id": 717121010,
+      "format_type": 1,
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 810141010,
@@ -14002,7 +15348,9 @@
       "base_card_id": 810141010,
       "normal_card_id": 810141010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 810141020,
@@ -14038,7 +15386,9 @@
       "base_card_id": 810141020,
       "normal_card_id": 810141020,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 119124010,
@@ -14073,8 +15423,10 @@
       "copyright": null,
       "base_card_id": 119124010,
       "normal_card_id": 119124010,
-      "format_type": 1,
-      "restricted_count": 3
+      "format_type": 0,
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 101121110,
@@ -14106,11 +15458,13 @@
       "description": "深緑を背負いし森神は、ただ一鳴きで侵略者の戦意を奪い、世界に平穏を齎した。",
       "evo_description": "その巨躯は、見上げることすら叶わない。畏れ、慄けば良し。もし、立ち向かおうとするならば…大自然の怒りを受けることになるだろう。",
       "cv": "-",
-      "copyright": "",
+      "copyright": null,
       "base_card_id": 101121110,
       "normal_card_id": 101121110,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 102121040,
@@ -14142,11 +15496,13 @@
       "description": "我らが森のため、今こそ立ち上がるのだ！森の民よ、私に力を貸してくれ！",
       "evo_description": "たとえ窮地に立たされようとも、希望は必ず芽吹くだろう！森の民よ、希望のために戦うのだ！",
       "cv": "最上嗣生",
-      "copyright": "",
+      "copyright": null,
       "base_card_id": 102121040,
       "normal_card_id": 102121040,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 103111060,
@@ -14178,11 +15534,13 @@
       "description": "森の民の求めとあらば仕方あるまい。ここは一つ、いいところを見せるかのォ！",
       "evo_description": "わしとて伊達に長くは生きておらん。この森にそう易々と踏み入れるとは思わんことだ！",
       "cv": "津田健次郎",
-      "copyright": "",
+      "copyright": null,
       "base_card_id": 103111060,
       "normal_card_id": 103111060,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 104121040,
@@ -14214,11 +15572,13 @@
       "description": "魔ァ物共ォ！儂らドワーフ族の街に攻め込んでくるとはイイ度胸じゃのぉ！ぜぇんぶ斬り裂いてやるわい！",
       "evo_description": "この髭は儂の誇りじゃ！この髭に賭けて、お前たちは絶対に許さんぞぉ！行くぞ！魔ァン物共ォ！ドワーフ族の本気をとくと見よ！",
       "cv": "千葉繁",
-      "copyright": "",
+      "copyright": null,
       "base_card_id": 104121040,
       "normal_card_id": 104121040,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 104141010,
@@ -14250,11 +15610,13 @@
       "description": "森を護り、散っていった儚き命よ……。お前たちの名は、この胸にしかと刻みこんだぞ。……勇気ある者らに、祝福あれ！",
       "evo_description": "廻り、巡り、やがて還るが命の定め。お前たちもまた、それに同じだ。……故に、私は悲しまない。お前たちとの再会を信じているから……。",
       "cv": "東山奈央",
-      "copyright": "",
+      "copyright": null,
       "base_card_id": 104141010,
       "normal_card_id": 104141010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 110131010,
@@ -14290,7 +15652,9 @@
       "base_card_id": 110131010,
       "normal_card_id": 110131010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 112131010,
@@ -14326,7 +15690,9 @@
       "base_card_id": 112131010,
       "normal_card_id": 112131010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 113141010,
@@ -14362,7 +15728,9 @@
       "base_card_id": 113141010,
       "normal_card_id": 113141010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 714141020,
@@ -14398,7 +15766,9 @@
       "base_card_id": 113141010,
       "normal_card_id": 714141020,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 900141040,
@@ -14434,7 +15804,9 @@
       "base_card_id": 115141010,
       "normal_card_id": 900141040,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 117111030,
@@ -14470,7 +15842,9 @@
       "base_card_id": 117111030,
       "normal_card_id": 117111030,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 117131020,
@@ -14506,7 +15880,9 @@
       "base_card_id": 117131020,
       "normal_card_id": 117131020,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 119131010,
@@ -14541,8 +15917,10 @@
       "copyright": null,
       "base_card_id": 119131010,
       "normal_card_id": 119131010,
-      "format_type": 1,
-      "restricted_count": 3
+      "format_type": 0,
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 101134030,
@@ -14574,11 +15952,13 @@
       "description": "在るべき場所、母なる者の懐へ。",
       "evo_description": "",
       "cv": "-",
-      "copyright": "",
+      "copyright": null,
       "base_card_id": 101134030,
       "normal_card_id": 101134030,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 101121100,
@@ -14610,11 +15990,13 @@
       "description": "群れからはぐれた巨人の子どもは、森の大樹の恵みで育ち、いつしか森の番人と呼ばれるようになった。自らを育てた母なる木から削り出した杖を持ち、一撃で侵略者を粉砕する。",
       "evo_description": "排除された侵略者は、巨人に逆襲すべく人々を扇動し、兵を挙げさせた。しかし、軍勢を上回る程の動物たちが、巨人に味方した。巨人は頼れる仲間と共に、侵入者たちを打ち払った。",
       "cv": "竹内良太",
-      "copyright": "",
+      "copyright": null,
       "base_card_id": 101121100,
       "normal_card_id": 101121100,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 101131040,
@@ -14646,11 +16028,13 @@
       "description": "悠久の時を経て、森緑の守護者となった古の竜。森の調和を保つため、妖精たちに慈愛を与える。",
       "evo_description": "深緑を知り尽くす古き竜は、森の意志の代弁者だ。古竜が紡ぐは、森の叡智。その言葉を聞き届けるために、妖精たちは月下に集う。",
       "cv": "桐井大介",
-      "copyright": "",
+      "copyright": null,
       "base_card_id": 101131040,
       "normal_card_id": 101131040,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 101141030,
@@ -14682,11 +16066,13 @@
       "description": "薔薇が咲き、真紅の花びらが貴方を誘うわ…。逃れえぬ色彩の誘惑に、貴方に流れる真紅の脈動は抗えるかしら…？そこに棘があると…傷つくと知ってなお求めてしまう…悲しき人の性ね…。",
       "evo_description": "無碍に咲く孤高の美しさを、全身で体現する薔薇の花…。ただ美しくありたい私たちを汚すなら容赦はしないわ…。貴方たちに…ただ在りたいがために咲く薔薇を手折ろうとする権利はないことを…思い知らせてあげる。",
       "cv": "田中理恵",
-      "copyright": "",
+      "copyright": null,
       "base_card_id": 101141030,
       "normal_card_id": 101141030,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 103141010,
@@ -14718,11 +16104,13 @@
       "description": "森緑の賢者と呼ばれた神狼。力で支配する事しか知らぬ古竜に太古の叡智を説き、森を束ねる者の使命を伝えた。",
       "evo_description": "外世界の侵略者たちに立ち向かう神狼。守護者たる古竜が目覚めるまで、森緑の戦士たちを束ね、外敵を阻み続ける。",
       "cv": "-",
-      "copyright": "",
+      "copyright": null,
       "base_card_id": 103141010,
       "normal_card_id": 103141010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 104141020,
@@ -14754,11 +16142,13 @@
       "description": "其は突如として神秘の森に現れ、音もなく周囲の自然を侵し始めた。樹々の放つ崩壊の音は悲鳴のようにも聞こえた。",
       "evo_description": "其の腹より引きずり出されたのは、強大なる邪槍であった。其は森が震えるほどの咆哮で、森の終焉を宣言した。",
       "cv": "-",
-      "copyright": "",
+      "copyright": null,
       "base_card_id": 104141020,
       "normal_card_id": 104141020,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 703141010,
@@ -14790,11 +16180,13 @@
       "description": "其は突如として神秘の森に現れ、音もなく周囲の自然を侵し始めた。樹々の放つ崩壊の音は悲鳴のようにも聞こえた。",
       "evo_description": "其の腹より引きずり出されたのは、強大なる邪槍であった。其は森が震えるほどの咆哮で、森の終焉を宣言した。",
       "cv": "-",
-      "copyright": "",
+      "copyright": null,
       "base_card_id": 104141020,
       "normal_card_id": 703141010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 109121030,
@@ -14830,7 +16222,9 @@
       "base_card_id": 109121030,
       "normal_card_id": 109121030,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 111141030,
@@ -14866,7 +16260,9 @@
       "base_card_id": 111141030,
       "normal_card_id": 111141030,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 112141030,
@@ -14902,7 +16298,9 @@
       "base_card_id": 112141030,
       "normal_card_id": 112141030,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 115141010,
@@ -14938,7 +16336,9 @@
       "base_card_id": 115141010,
       "normal_card_id": 115141010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 122141030,
@@ -14974,7 +16374,9 @@
       "base_card_id": 122141030,
       "normal_card_id": 122141030,
       "format_type": 1,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 109141030,
@@ -15010,7 +16412,9 @@
       "base_card_id": 109141030,
       "normal_card_id": 109141030,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 114141030,
@@ -15046,7 +16450,9 @@
       "base_card_id": 114141030,
       "normal_card_id": 114141030,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 119111040,
@@ -15081,8 +16487,10 @@
       "copyright": null,
       "base_card_id": 119111040,
       "normal_card_id": 119111040,
-      "format_type": 1,
-      "restricted_count": 3
+      "format_type": 0,
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 123131020,
@@ -15118,7 +16526,9 @@
       "base_card_id": 123131020,
       "normal_card_id": 123131020,
       "format_type": 1,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 101134020,
@@ -15150,11 +16560,13 @@
       "description": "翠を束ねる、粛清の銀。",
       "evo_description": "",
       "cv": "早見沙織",
-      "copyright": "",
+      "copyright": null,
       "base_card_id": 101134020,
       "normal_card_id": 101134020,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 106141020,
@@ -15186,11 +16598,13 @@
       "description": "言葉持つ者は、無から有を生み出す。<br>対話し、交渉し、和解という名の平穏を実現する。<br>言葉持たぬ者は、有を無へと還す。<br>咆哮し、襲撃し、破壊という名の争乱を生み出す。",
       "evo_description": "人は言葉によって進歩した獣。<br>故に、言葉通じぬ者には極めて無力だ。<br>彼の者の咆哮は鼓膜を裂き、彼の者の襲撃は肉骨を砕く。<br>自然の粛清を前にして、人は恐れ慄くことしか出来ない。",
       "cv": "-",
-      "copyright": "",
+      "copyright": null,
       "base_card_id": 106141020,
       "normal_card_id": 106141020,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 110141010,
@@ -15226,7 +16640,9 @@
       "base_card_id": 110141010,
       "normal_card_id": 110141010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     },
     {
       "card_id": 116141010,
@@ -15262,7 +16678,9 @@
       "base_card_id": 116141010,
       "normal_card_id": 116141010,
       "format_type": 0,
-      "restricted_count": 3
+      "restricted_count": 3,
+      "restricted_count_co_main": 3,
+      "restricted_count_co_sub": 3
     }
   ],
   "errors": []
